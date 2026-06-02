@@ -1,0 +1,1418 @@
+[
+  {
+    "entity_name": "表1 线条成型宽度偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 线条成型宽度偏差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td></tr><tr><td>手工划线</td><td rowspan=\"2\">≤1.0</td><td>≤1.5</td></tr><tr><td>等离子、火焰切割设备自动喷划</td><td rowspan=\"2\">-</td></tr><tr><td>激光切割设备自动喷划</td><td>≤0.5</td></tr></table>",
+    "table_img_path": "images/289a03228a35d77f29981028d99f0aea375ef89ae7a7b7f7984804a4e924d9b3.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表2 线条位置偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2 线条位置偏差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td></tr><tr><td>中心线、理论线、对合线、检查线、基准线、安装位置线</td><td>≤1.0</td><td>≤1.5</td></tr></table>",
+    "table_img_path": "images/70aa014ae4a9ecb3e18269129516ddb17069b98ab45e0591ddd3b3568156beb4.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表3 放样划线偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表3 放样划线偏差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td><td>备注</td></tr><tr><td>基准线直线度</td><td>≤1.0</td><td>≤1.5</td><td rowspan=\"2\">胎架地样线、船坞内格子线</td></tr><tr><td>基准线垂直度（检查距离10m以上）</td><td>±1.0</td><td>±2.0</td></tr></table>",
+    "table_img_path": "images/6820ca312831a3ab7ce57d7d1823421d032c4e5ce69c0ef2ee09a408fa52bb13.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表4 零件外形划线尺寸偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表4 零件外形划线尺寸偏差要求",
+    "table_body": "<table><tr><td colspan=\"2\">项 目</td><td>标准范围</td><td>允许极限</td><td>备注</td></tr><tr><td colspan=\"2\">长度</td><td>±2.0</td><td>±3.0</td><td rowspan=\"2\">-</td></tr><tr><td colspan=\"2\">宽度</td><td>±1.5</td><td>±2.5</td></tr><tr><td colspan=\"2\">对角线</td><td>±2.0</td><td>±3.0</td><td>指矩形板</td></tr><tr><td colspan=\"2\">曲线外形</td><td>±1.5</td><td>±2.5</td><td>-</td></tr><tr><td rowspan=\"3\">直线度</td><td>L≤4m</td><td>≤1.0</td><td>≤1.5</td><td rowspan=\"3\">指零件的直线边缘处,其中L为划线长度</td></tr><tr><td>4m&lt;L≤8m</td><td>≤1.5</td><td>≤2.0</td></tr><tr><td>L&gt;8m</td><td>≤2.0</td><td>≤2.5</td></tr><tr><td colspan=\"2\">角位移</td><td rowspan=\"2\">±1.5</td><td rowspan=\"2\">±2.0</td><td>以每米角位移计</td></tr><tr><td colspan=\"2\">开孔、切口</td><td>-</td></tr></table>",
+    "table_img_path": "images/549555c9fae32b68362535d410202c2a34ac36e8b098e18fc6a2ed9508afdfa2.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表5 分段、总段划线尺寸偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表5 分段、总段划线尺寸偏差要求",
+    "table_body": "<table><tr><td>项 目</td><td>标准范围</td><td>允许极限</td></tr><tr><td>分段（总段）划线与图样尺寸的偏差</td><td rowspan=\"2\">±2.5</td><td rowspan=\"2\">±3.5</td></tr><tr><td>分段上构件划线位置与图样标注位置的偏差</td></tr></table>",
+    "table_img_path": "images/b4d5af069a05f9d56d60b712a2519b8fb028a0cf866183d7235101a58e03d81e.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表6 切割面粗糙度要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表6 切割面粗糙度要求",
+    "table_body": "<table><tr><td colspan=\"3\">项 目</td><td>标准范围\n≤</td><td>允许极限\n≤</td><td>备注</td></tr><tr><td rowspan=\"4\">构件自由边</td><td rowspan=\"2\">重要构件</td><td>自动、半自动切割</td><td>0.10</td><td>0.20</td><td rowspan=\"8\">1、型钢的机械切割按手工切割;2、除去自由边毛刺</td></tr><tr><td>手工切割</td><td>0.15</td><td>0.30</td></tr><tr><td rowspan=\"2\">非重要构件</td><td>自动、半自动切割</td><td>0.10</td><td>0.20</td></tr><tr><td>手工切割</td><td>0.50</td><td>1.00</td></tr><tr><td rowspan=\"4\">焊接接缝边</td><td rowspan=\"2\">重要构件</td><td>自动、半自动切割</td><td>0.10</td><td>0.20</td></tr><tr><td>手工切割</td><td>0.40</td><td>0.80</td></tr><tr><td rowspan=\"2\">非重要构件</td><td>自动、半自动切割</td><td>0.10</td><td>0.20</td></tr><tr><td>手工切割</td><td>0.80</td><td>1.50</td></tr></table>",
+    "table_img_path": "images/99d791a8ad36042fd9543761021ca44df7fee76d08a6c8776c1a8ce328822a85.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表7 切割面边缘直线度要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表7 切割面边缘直线度要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td></tr><tr><td>直线边缘（自动）</td><td rowspan=\"3\">±1.0</td><td>±1.5</td></tr><tr><td>直线边缘（手工）</td><td rowspan=\"2\">±2.0</td></tr><tr><td>曲线边缘（自动）</td></tr><tr><td>曲线边缘（手工）</td><td>±2.0</td><td>±3.0</td></tr></table>",
+    "table_img_path": "images/83bd7c911e0058d4ca11fdc3d4038d5c26c7b63f98702dd36dcda66ac40c9d26.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表8 切割面成型尺寸偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表8 切割面成型尺寸偏差要求",
+    "table_body": "<table><tr><td colspan=\"3\">项 目</td><td>标准范围</td><td>允许极限</td><td>备注</td></tr><tr><td rowspan=\"2\">原始切割面</td><td>切面垂直度(自由端)</td><td rowspan=\"2\">a</td><td>≤1.5</td><td>≤2.0</td><td rowspan=\"3\">-</td></tr><tr><td>切面垂直度(焊接接缝边)</td><td>≤1.5</td><td>-</td></tr><tr><td rowspan=\"3\">坡口加工面</td><td>坡口面角度θ</td><td>θ</td><td>±2°</td><td>±3°</td></tr><tr><td>过渡段长度l</td><td>l</td><td>±0.5d</td><td>±1.0d</td><td>按相应船舶检验机构规范要求</td></tr><tr><td>坡口深度d</td><td>d</td><td>±1.5</td><td>±2.0</td><td>-</td></tr></table>",
+    "table_img_path": "images/f713b5c75eb74c544bc9ee3852225366e571fcc0f66bfeb22500c23554fd1ee3.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表9 剪切尺寸偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表9 剪切尺寸偏差要求",
+    "table_body": "<table><tr><td>项 目</td><td>标准范围</td><td>允许极限</td></tr><tr><td>构件长度</td><td>±3.0</td><td>±4.0</td></tr><tr><td>构件宽度</td><td rowspan=\"2\">±2.0</td><td rowspan=\"2\">±3.0</td></tr><tr><td>肋板高度 面板宽度</td></tr><tr><td>边缘直线度</td><td>≤1.0</td><td>≤1.5</td></tr><tr><td>曲线边缘</td><td>≤1.5</td><td>≤2.0</td></tr></table>",
+    "table_img_path": "images/4dc5f59a2d223f8fff21a2a6881588594e351220b2af3c6091528c4c410a1596.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表10 刨、铣边尺寸偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表10 刨、铣边尺寸偏差要求",
+    "table_body": "<table><tr><td>项 目</td><td>标准范围</td><td>允许极限</td><td>备 注</td></tr><tr><td>边缘直线度</td><td>≤0.5</td><td>≤1.0</td><td>以长度为10m长计算</td></tr><tr><td>坡口面角度</td><td>±2°</td><td>±3°</td><td>-</td></tr></table>",
+    "table_img_path": "images/a4c7f6eb4e271aa100e0742673482e078cf5d62ca6f686c6cb0880771f607d99.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表11 大板下料尺寸偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表11 大板下料尺寸偏差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td><td>备注</td></tr><tr><td>长度A</td><td rowspan=\"2\">±2</td><td>-</td><td>-</td></tr><tr><td>位置a</td><td>±3</td><td>喷粉对合线</td></tr><tr><td>宽度B</td><td>-1~+2</td><td>-</td><td>-</td></tr><tr><td>位置b</td><td>±1</td><td>±2</td><td>喷粉对合线</td></tr><tr><td>对角线D</td><td>≤2</td><td>≤3</td><td>-</td></tr></table>",
+    "table_img_path": "images/1ed50954fa5d623180f16aa3f6ec01c813a6197bfa9f8972375a895040322812.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表12 结构板条下料尺寸偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表12 结构板条下料尺寸偏差要求",
+    "table_body": "<table><tr><td colspan=\"2\">项目</td><td>标准范围</td><td>允许极限</td></tr><tr><td rowspan=\"3\">B</td><td>面板宽度</td><td>±2.0</td><td>-3.0~+4.0</td></tr><tr><td>腹板高度</td><td>±1.0</td><td>±2.0</td></tr><tr><td>扁铁宽度</td><td>±3.0</td><td>±5.0</td></tr><tr><td colspan=\"2\">长度A</td><td>±1.0</td><td>±2.0</td></tr><tr><td colspan=\"2\">位置线a</td><td>±2.0</td><td>±3.0</td></tr></table>",
+    "table_img_path": "images/3c22cf2fa48d1a71ce3cccb8a548fd929024421f7c1a2e1ae60dc48b8bc80666.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表13 型材下料尺寸偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表13 型材下料尺寸偏差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td><td>备注</td></tr><tr><td>长度A</td><td rowspan=\"2\">±2</td><td>±4</td><td>-</td></tr><tr><td>位置a</td><td>±3</td><td>对合线</td></tr></table>",
+    "table_img_path": "images/ff2ef676370268dfcf2c39c442c2452c82f60d5a9e9c793c0ccf9a099be80b57.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表14 肋板下料尺寸偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表14 肋板下料尺寸偏差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td></tr><tr><td>长度A</td><td rowspan=\"2\">±2</td></tr><tr><td>宽度B</td></tr><tr><td>对角C</td><td>≤2</td></tr><tr><td>间距D</td><td>±1</td></tr><tr><td>位置d</td><td>±2</td></tr></table>",
+    "table_img_path": "images/17f1fc3018100689ecf67d73b9230b24c88394136e5a3fcc05e887bd1117d8b0.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表15 纵桁下料尺寸偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表15 纵桁下料尺寸偏差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>备注</td></tr><tr><td>长度A</td><td rowspan=\"2\">±2</td><td rowspan=\"3\">-</td></tr><tr><td>宽度B</td></tr><tr><td>对角C</td><td>≤2</td></tr><tr><td>位置d</td><td>±2</td><td>对合线</td></tr></table>",
+    "table_img_path": "images/3f58637d4316a74d2cc9c56f909c736f50aa1b82498a47b1fac3031c27f44651.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表16 折边结构加工尺寸偏差及几何公差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表16 折边结构加工尺寸偏差及几何公差要求",
+    "table_body": "<table><tr><td colspan=\"2\">项 目</td><td>标准范围</td><td>允许极限</td><td>图示</td><td>备 注</td></tr><tr><td colspan=\"2\">折边宽度b</td><td>±3.0</td><td>±5.0</td><td rowspan=\"4\">b</td><td rowspan=\"3\">-</td></tr><tr><td rowspan=\"2\">腹板高度h</td><td>主要构件</td><td>±2.0</td><td>±3.0</td></tr><tr><td>次要构件</td><td>±3.0</td><td>±5.0</td></tr><tr><td colspan=\"2\">折边角度θ</td><td>±2.5</td><td>±4.5</td><td>以b宽每100计算</td></tr><tr><td colspan=\"2\">折边方向的直线度</td><td rowspan=\"2\">≤10</td><td rowspan=\"2\">≤25</td><td>δ</td><td rowspan=\"2\">以长每10m计算</td></tr><tr><td colspan=\"2\">腹板方向的直线度</td><td>δ</td></tr></table>",
+    "table_img_path": "images/9c751507bca2d793bcb799c411b1359c4b87ca2068ab70bc4dd79ca0d4f21b4c.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表17 槽型板加工尺寸偏差及几何公差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表17 槽型板加工尺寸偏差及几何公差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td><td>备注</td></tr><tr><td>宽度B</td><td>±3</td><td>±5</td><td>-</td></tr><tr><td>位置C</td><td>±2</td><td rowspan=\"2\">-</td><td>对合线</td></tr><tr><td>角度D</td><td>±1.5°</td><td>按长300计算</td></tr><tr><td>槽深H</td><td>±3</td><td>±5</td><td>相对模板量取</td></tr><tr><td>直线度E</td><td>≤3</td><td>≤5</td><td>-</td></tr></table>",
+    "table_img_path": "images/af871ea56d6365b0e3daacaa71f97a798d2bfeed26f1158a183a2229ed88651b.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表18 波形板加工尺寸偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表18 波形板加工尺寸偏差要求",
+    "table_body": "<table><tr><td colspan=\"2\">项目</td><td>标准范围</td><td>允许极限</td></tr><tr><td rowspan=\"2\">间隔b</td><td>有配合</td><td>±2</td><td>±3</td></tr><tr><td>无配合</td><td>±5</td><td>±9</td></tr><tr><td colspan=\"2\">高度h</td><td>±3</td><td>±5</td></tr></table>",
+    "table_img_path": "images/f37e07d6001d3f0215df96fa17d33fb0b94b5ceb8a7db6052e25723baf9f44f0.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表19 弯曲板加工尺寸偏差及几何公差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表19 弯曲板加工尺寸偏差及几何公差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td><td>备注</td></tr><tr><td>长度A</td><td rowspan=\"3\">±3</td><td>±6</td><td>不含余量长度</td></tr><tr><td>横曲量B</td><td rowspan=\"2\">±5</td><td rowspan=\"2\">-</td></tr><tr><td>纵曲量C</td></tr></table>",
+    "table_img_path": "images/ac52205a0a0b023c61b15a059745364a86f6a72c2d4acd5213a240fa58db1c8e.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表20 型材加工尺寸偏差及几何公差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表20 型材加工尺寸偏差及几何公差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td></tr><tr><td>逆直线线型A</td><td rowspan=\"3\">±2</td><td>-</td></tr><tr><td>对合线位置B</td><td>±3</td></tr><tr><td>逆直线加工后直线度d</td><td>±4</td></tr></table>",
+    "table_img_path": "images/425cf649bcb5da4326c02624e72e381ee66e6e616b67f81bc05195b18b124a15.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表21 T 型材组装的尺寸偏差及几何公差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表21 T 型材组装的尺寸偏差及几何公差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td><td>备注</td></tr><tr><td>长度A</td><td>±4</td><td>-4~+6</td><td>-</td></tr><tr><td>面板与腹板端差D</td><td>±1</td><td>±2</td><td>-</td></tr><tr><td>腹板直线度C</td><td rowspan=\"4\">±2</td><td rowspan=\"4\">±3</td><td>按每10m计算</td></tr><tr><td>面板直线度E</td><td>按每10m计算</td></tr><tr><td>垂直度F</td><td rowspan=\"2\">-</td></tr><tr><td>高度G</td></tr></table>",
+    "table_img_path": "images/70446f88c89e8b3eb148adfce6f03f9b1e349759f3fb08384357272abb8357cc.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表22 隔板拼板的尺寸偏差及几何公差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表22 隔板拼板的尺寸偏差及几何公差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td></tr><tr><td>对角线D</td><td>≤3</td><td>≤4</td></tr><tr><td>对合线间距d</td><td>±2</td><td>—</td></tr><tr><td>板边直线度（板列端口端差）e</td><td>≤2</td><td>≤3</td></tr></table>",
+    "table_img_path": "images/e3586c2b74285c40d8cf85a8a4e12238740ca6dee09433bf6d8fc054109751ee.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表23 扶材安装尺寸偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表23 扶材安装尺寸偏差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td></tr><tr><td>扶材端部相对安装基准线位置D</td><td>-1~0</td><td>-2~0</td></tr><tr><td>扶材与板材安装角度F</td><td>±2</td><td>±3</td></tr></table>",
+    "table_img_path": "images/ea7b5bc8a59475e3bcbef950c82e6b80c04b352a4adf1778e9761b402a1f1f2e.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表24 圆形筒制作体公差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表24 圆形筒制作体公差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td><td>备注</td></tr><tr><td>直径（筒体）D</td><td>±0.005D,但最大为±5.0</td><td>±0.005D,但最大为±7.5</td><td>D为圆筒体直径</td></tr><tr><td>直线度d</td><td>±3</td><td>±5</td><td>-</td></tr></table>",
+    "table_img_path": "images/459ed1b3cef1325e5f448144646f2c18aa6b6cd3bcaaea7eadea34d4311f5e7f.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表25 胎架制作公差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表25 胎架制作公差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td></tr><tr><td>胎架线型与样板偏差</td><td>≤2</td><td>≤3</td></tr><tr><td>胎架线格</td><td>±1</td><td>±2</td></tr><tr><td>胎架模板间距</td><td>±5</td><td>±5</td></tr><tr><td>胎架四角水平</td><td>±2</td><td>±4</td></tr></table>",
+    "table_img_path": "images/fee840d0a083590f1f6a18f3dbd85dcb6c1316865a058507ef6be283c7303c34.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表26 曲面胎架及拼板的尺寸偏差及几何公差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表26 曲面胎架及拼板的尺寸偏差及几何公差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td><td>备注</td></tr><tr><td>长度A</td><td>±5</td><td>-</td><td rowspan=\"2\">-</td></tr><tr><td>坐标B</td><td>≤5</td><td>≤8</td></tr><tr><td>高度C</td><td>±5</td><td rowspan=\"2\">-</td><td>四角贴胎,并且贴胎率80%以上</td></tr><tr><td>垂直度G</td><td>≤5</td><td rowspan=\"2\">-</td></tr><tr><td>水平基线E</td><td>±1</td><td>±2</td></tr></table>",
+    "table_img_path": "images/570628dc4324c42bf742aee3b33a07f61f1d14ebbfc06a2c34759b32d2fce03f.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表27 平直拼板的尺寸偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表27 平直拼板的尺寸偏差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td></tr><tr><td>长度A</td><td rowspan=\"2\">±4</td><td rowspan=\"2\">±6</td></tr><tr><td>宽度B</td></tr><tr><td>对角D</td><td>≤4</td><td>≤6</td></tr><tr><td>端差e</td><td>±2</td><td>-</td></tr></table>",
+    "table_img_path": "images/1a48b9dba1acc01a22b95847578323f7a51416303041335162907ab04be486c5.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表28 骨材安装的尺寸偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表28 骨材安装的尺寸偏差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td><td>备注</td></tr><tr><td>位置偏差</td><td>±1</td><td>±2</td><td>相对安装线</td></tr><tr><td>角度E</td><td>±2</td><td>±3</td><td>-</td></tr><tr><td>端差F</td><td>±1</td><td>-</td><td>相对对合线</td></tr></table>",
+    "table_img_path": "images/218285605278b98c783f012db97f484ef82c4efbe5b532fc0c263c95e24725a2.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表29 强肋骨安装的尺寸偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表29 强肋骨安装的尺寸偏差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td></tr><tr><td>重合度d</td><td>±1</td><td>±2</td></tr><tr><td>垂直度G</td><td>±5</td><td>—</td></tr></table>",
+    "table_img_path": "images/513e0521bdc509d64d0ff88da6ea46a44e5f9f1e3a3674a10534b805e9294bfa.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表30 平面分段的尺寸偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表30 平面分段的尺寸偏差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td><td>备注</td></tr><tr><td>长度</td><td rowspan=\"3\">±4</td><td rowspan=\"3\">±6</td><td rowspan=\"4\">-</td></tr><tr><td>宽度</td></tr><tr><td>高度</td></tr><tr><td>对角线</td><td>≤4</td><td>≤8</td></tr><tr><td>水平</td><td>≤8</td><td>≤12</td><td>高点与低点偏差值</td></tr><tr><td>端差(角尺)</td><td>±3</td><td>±4</td><td>-</td></tr><tr><td>部材位置</td><td>±4</td><td>±6</td><td>相对基准线</td></tr><tr><td>上下面中心线差</td><td rowspan=\"2\">≤3</td><td rowspan=\"2\">≤5</td><td rowspan=\"2\">-</td></tr><tr><td>上下面肋位线差</td></tr></table>",
+    "table_img_path": "images/f72cf98afec233620f75ab5dc09b94911c34f9d54fcc9faae22f1e292b80bcf1.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表31 曲面分段的尺寸偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表31 曲面分段的尺寸偏差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td><td>备注</td></tr><tr><td>长度</td><td rowspan=\"3\">±4</td><td rowspan=\"3\">±8</td><td rowspan=\"6\">-</td></tr><tr><td>宽度</td></tr><tr><td>高度</td></tr><tr><td>对角线</td><td rowspan=\"2\">≤10</td><td>≤15</td></tr><tr><td>扭曲度</td><td>≤20</td></tr><tr><td>端差(角尺)</td><td>±3</td><td>±5</td></tr><tr><td>内部材位置</td><td>±4</td><td>±6</td><td>相对基准线</td></tr><tr><td>CM节点</td><td>±3</td><td>±5</td><td rowspan=\"5\">-</td></tr><tr><td>外板线型(较强结构处)</td><td>±4</td><td>±6</td></tr><tr><td>上下面中心线差</td><td rowspan=\"2\">≤5</td><td rowspan=\"2\">≤10</td></tr><tr><td>上下面肋位线差</td></tr><tr><td>骨材安装角度</td><td>±5</td><td>-</td></tr></table>",
+    "table_img_path": "images/998f20bb77639696bc41d6982d03ff6cefe37644f75a86b754370517ba6eac0a.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表32 含艉柱、挂舵臂的立体分段装配尺寸偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表32 含艉柱、挂舵臂的立体分段装配尺寸偏差要求",
+    "table_body": "<table><tr><td colspan=\"2\">项目</td><td>标准范围</td><td>允许极限</td></tr><tr><td>上舵承座距基线高度</td><td rowspan=\"7\">A-A\nb\nc\nA-理论中心线\nd\ne\nF轮中心线\n轴孔中心\nBL</td><td rowspan=\"4\">±5</td><td rowspan=\"4\">±8</td></tr><tr><td>上、下舵承之间尺寸a</td></tr><tr><td>艉轴承后端面与艉尖舱壁距离b</td></tr><tr><td>艉管前轴承与后轴承之间距离c</td></tr><tr><td>轴系中心线距基线高度h</td><td>≤3</td><td>≤5</td></tr><tr><td>上、下舵承座之间垂直度(基线位置计)e</td><td rowspan=\"2\">≤4</td><td rowspan=\"2\">≤8</td></tr><tr><td>舵中心线与轴中心线相交偏差d</td></tr><tr><td>其他项目</td><td></td><td colspan=\"2\">按表31</td></tr></table>",
+    "table_img_path": "images/4d5782620b741474967bf935d2ecd018ed78eafb11dcad916b4df1da3deba4d9.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表33 含主机座的分段装配尺寸偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表33 含主机座的分段装配尺寸偏差要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td></tr><tr><td>基座面板平面度</td><td>≤5.0</td><td>≤10</td></tr><tr><td>基座面板长度及宽度</td><td rowspan=\"2\">±4.0</td><td rowspan=\"2\">±6.0</td></tr><tr><td>同一水平结构的高度偏差</td></tr><tr><td>两个水平面结构间的高度偏差</td><td>±5.0</td><td>±10</td></tr><tr><td>机座纵桁与中心线的偏差</td><td>±4.0</td><td>±6.0</td></tr><tr><td>其他项目</td><td colspan=\"2\">按表31</td></tr></table>",
+    "table_img_path": "images/c7cd8811de3b4d74ab4cb23640b635afe4584e3fe00b7568ad8661c11fd8126e.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表34 上建分段检查要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表34 上建分段检查要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td><td>备注</td></tr><tr><td>水平</td><td>≤10</td><td>≤15</td><td>高点与低点偏差值</td></tr><tr><td>宽度</td><td>0~+4</td><td>0~+6</td><td>甲板的总宽</td></tr><tr><td>长度</td><td rowspan=\"2\">±4</td><td rowspan=\"2\">±6</td><td>甲板的全长</td></tr><tr><td>高度</td><td>-</td></tr><tr><td>对角线</td><td rowspan=\"4\">≤4</td><td rowspan=\"4\">≤6</td><td>甲板</td></tr><tr><td>直线度</td><td>全体各区间</td></tr><tr><td>垂直度</td><td rowspan=\"3\">-</td></tr><tr><td>结构位置</td></tr><tr><td>端差</td><td>±2</td><td>±4</td></tr></table>",
+    "table_img_path": "images/9acebdba0c5b54da087a483ee4d677bd0a6a4e216febc39ecdfe00eefa7d98ef.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表35 船台（船坞）装配偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表35 船台（船坞）装配偏差要求",
+    "table_body": "<table><tr><td colspan=\"2\">项 目</td><td>标准范围</td><td>允许极限</td><td>备 注</td></tr><tr><td rowspan=\"7\">中心线偏差</td><td>双层底分段与船台</td><td>≤3.0</td><td>≤5.0</td><td rowspan=\"2\">-</td></tr><tr><td>甲板、平台、横隔舱壁与双层底</td><td>≤5.0</td><td>≤8.0</td></tr><tr><td>艏、艉端点与船台</td><td>&lt;0.1%h</td><td>&lt;0.15%h</td><td>h为艏、艉端点处高度</td></tr><tr><td>上层建筑与甲板</td><td rowspan=\"2\">≤4.0</td><td rowspan=\"3\">≤8.0</td><td rowspan=\"15\">-</td></tr><tr><td>上舵承座中心线与船台中心线</td></tr><tr><td>艉轴孔中心线与船台中心线</td><td>≤5.0</td></tr><tr><td>主机座腹板距船体中心线</td><td>±4.0</td><td>±6.0</td></tr><tr><td rowspan=\"5\">水平度</td><td>底部、平台、甲板四角水平</td><td>±8.0</td><td>±12.0</td></tr><tr><td>舱壁左右(前后)水平</td><td>±4.0</td><td>±6.0</td></tr><tr><td>舷侧分段前后水平</td><td>±5.0</td><td>±10.0</td></tr><tr><td>上层建筑四角水平</td><td>±10.0</td><td>±15.0</td></tr><tr><td>主机座面板水平</td><td>≤5</td><td>≤10</td></tr><tr><td rowspan=\"5\">定位高度</td><td>舱壁</td><td>±3.0</td><td>±6.0</td></tr><tr><td>舷侧分段</td><td>±5.0</td><td>±8.0</td></tr><tr><td>上层建筑</td><td>+10.0</td><td>+15.0</td></tr><tr><td>上舵承距离基线</td><td>±5.0</td><td>±8.0</td></tr><tr><td>轴中心线距离基线</td><td>±5.0</td><td>±7.0</td></tr><tr><td colspan=\"2\">分段接缝处肋距</td><td>±10.0</td><td>±20.0</td></tr><tr><td colspan=\"2\">舱壁垂直度</td><td>&lt;0.1%h且&lt;10.0</td><td>&lt;0.12%h且&lt;</td><td>h为舱壁高度</td></tr><tr><td colspan=\"2\">艉管后轴承座距离主机后端面长度</td><td>±10.0</td><td>±15.0</td><td>短轴系</td></tr><tr><td colspan=\"2\">艉管前轴承座前端面距离齿轮箱中心长度</td><td>±10.0</td><td rowspan=\"2\">-</td><td>长轴系</td></tr><tr><td colspan=\"2\">舵中心线距艉管后轴承后端面长度</td><td>±10.0</td><td>特殊要求除外</td></tr><tr><td colspan=\"2\">舵中心线与轴中心线相交偏差量</td><td>≤4</td><td>≤8</td><td></td></tr></table>",
+    "table_img_path": "images/a3c6cb61d2b3da3a22b332f31a623d0a8b4af653e6045be9780f986c67f5db8f.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表36 局部平面度的偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表36 局部平面度的偏差要求",
+    "table_body": "<table><tr><td colspan=\"2\">项目</td><td>标准范围≤</td><td>允许极限≤</td><td>备注</td></tr><tr><td rowspan=\"2\">外板</td><td>平行肿体(船侧板、船底板)</td><td>4</td><td>6</td><td rowspan=\"13\">每一肋距(间距),b为平整度</td></tr><tr><td>前后弯曲部分</td><td>5</td><td>7</td></tr><tr><td>双层底</td><td>内底板</td><td>4</td><td>6</td></tr><tr><td colspan=\"2\">舱壁</td><td>6</td><td>8</td></tr><tr><td rowspan=\"3\">上甲板</td><td>平行肿体(含纵、横结构)</td><td>4</td><td>6</td></tr><tr><td>前后部位</td><td>6</td><td>8</td></tr><tr><td>非暴露部位</td><td>7</td><td>9</td></tr><tr><td rowspan=\"2\">第二甲板</td><td>暴露部位</td><td>6</td><td>8</td></tr><tr><td>非暴露部位</td><td>7</td><td>9</td></tr><tr><td rowspan=\"2\">上层建筑甲板</td><td>暴露部位</td><td>4</td><td>6</td></tr><tr><td>非暴露部位</td><td>7</td><td>9</td></tr><tr><td rowspan=\"2\">围壁</td><td>暴露部位</td><td>4</td><td>6</td></tr><tr><td>非暴露部位</td><td>7</td><td>9</td></tr></table>",
+    "table_img_path": "images/eba9a520fbe54b1ef6122eeafff4df4d32934506ad4f6930f6682acf7b8b8a44.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表37 整体平整度的偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表37 整体平整度的偏差要求",
+    "table_body": "<table><tr><td colspan=\"2\">项 目</td><td>标准范围</td><td>允许极限</td><td>备注</td></tr><tr><td rowspan=\"2\">外板</td><td>平行肿体</td><td>±2L / 1000</td><td>±3L / 1000</td><td rowspan=\"7\">L-检测距离的数值,单位为米(m);a-整体平整度;检测方法:最小的检测距离L=3m,但对舱壁、外壁的检测距离约为5m。</td></tr><tr><td>前后部位</td><td>±3L / 1000</td><td>±4L / 1000</td></tr><tr><td colspan=\"2\">甲板、平台、内底板</td><td>±3L / 1000</td><td>±4L / 1000</td></tr><tr><td colspan=\"2\">舱壁</td><td>±4L / 1000</td><td>±5L / 1000</td></tr><tr><td rowspan=\"2\">上层建筑</td><td>甲板</td><td>±3L / 1000</td><td>±4L / 1000</td></tr><tr><td>外壁</td><td>±2L / 1000</td><td>±3L / 1000</td></tr><tr><td colspan=\"2\">其他</td><td>±5L / 1000</td><td>±6L / 1000</td></tr></table>",
+    "table_img_path": "images/4dc8dee82423b338f5f52ac1b28067373d749246bc09178e986220ca3dbff73a.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表38 内部构件的直线度要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表38 内部构件的直线度要求",
+    "table_body": "<table><tr><td colspan=\"2\">项 目</td><td>标准范围</td><td>允许极限</td><td>备注</td></tr><tr><td colspan=\"2\">强横梁、肋板、强肋骨及甲板纵桁等主要构件(1个跨距长)</td><td>≤5</td><td>≤8</td><td>δ</td></tr><tr><td rowspan=\"2\">纵骨、肋骨、横梁及扶强材等次要构件L为构件长度</td><td>L≥1000</td><td>≤10</td><td>≤13</td><td rowspan=\"2\">σ-</td></tr><tr><td>L&lt;1000</td><td>≤5</td><td>≤8</td></tr><tr><td colspan=\"2\">甲板间H型支柱</td><td>≤4</td><td>≤6</td><td rowspan=\"2\">δ</td></tr><tr><td colspan=\"2\">其他撑材</td><td>≤6</td><td>≤10</td></tr></table>",
+    "table_img_path": "images/99254c34f71cd25fb6ad22322e8a7744e4644e0bcaf71069c9cbffe84ae14a8d.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表39 船体主尺度偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表39 船体主尺度偏差要求",
+    "table_body": "<table><tr><td>项 目</td><td>标准范围</td><td>备注</td></tr><tr><td rowspan=\"2\">总长度或两柱间长L</td><td>± 1L/1000</td><td>L&lt;100000</td></tr><tr><td>± [100+(L-100000)/1500]</td><td>L≥100000</td></tr><tr><td>型 宽 B</td><td>± 1B/1000</td><td rowspan=\"2\">-</td></tr><tr><td>型 深 D</td><td>± 1D/1000</td></tr></table>",
+    "table_img_path": "images/c822fc73ad764f01c5a1d962d910a2e0411f8c0ad0d1205da0b93a9ad88f2506.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表40 船体变形量要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表40 船体变形量要求",
+    "table_body": "<table><tr><td colspan=\"3\">项目</td><td>标准范围</td><td>允许极限</td></tr><tr><td rowspan=\"2\">船体龙骨中心线挠度</td><td>艏艉尖舱之间的全长范围内</td><td></td><td>±25</td><td>±35</td></tr><tr><td>相邻横舱壁之间</td><td></td><td>±15</td><td>±20</td></tr><tr><td>艏艉上翘</td><td>艏上翘</td><td></td><td>±30</td><td>±40</td></tr><tr><td></td><td>艉上翘</td><td></td><td>±20</td><td>±30</td></tr><tr><td colspan=\"2\">横向上翘或下垂</td><td></td><td>±15(以每10m宽计)</td><td>±25(以每10m宽计)</td></tr></table>",
+    "table_img_path": "images/c94d916bb7a499ebaf4dbf508c0633a6ab0fb3182aedb787d3471e1748173f27.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表41 吃水标志偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表41 吃水标志偏差要求",
+    "table_body": "<table><tr><td>项 目</td><td>标准范围</td><td>允许极限</td></tr><tr><td>相对直尺的偏差</td><td>±1.0</td><td>±2.0</td></tr></table>",
+    "table_img_path": "images/165167458b6faaffbefe106edc4ece7808f793dbe308aff64857f4e5ae865ca3.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表42 干舷标志偏差要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表42 干舷标志偏差要求",
+    "table_body": "<table><tr><td>项 目</td><td>标准范围</td><td>允许极限</td></tr><tr><td>相对直尺的偏差</td><td>±1.0</td><td>±1.0</td></tr></table>",
+    "table_img_path": "images/608fa69b3a6bb92c0e0c50cc40137805b870b7303d782038b4e55bca88f6318d.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 结构装配精度",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 结构装配精度",
+    "table_body": "<table><tr><td colspan=\"2\">分 类</td><td>项目名称</td><td>标准范围</td><td>允许范围</td><td>备注</td></tr><tr><td rowspan=\"5\">组件制作精度</td><td rowspan=\"5\">T型构件装配焊接</td><td>1、外形与型线偏差(每米)</td><td>±2</td><td>±3</td><td>-</td></tr><tr><td>2、面板与复板的垂直度a(焊后)</td><td>1%B</td><td>3%B</td><td>a——面板与复板的垂直度B——面板半宽</td></tr><tr><td>3、复板偏离面板上的正确安装线</td><td>&lt;1</td><td>&lt;2</td><td>-</td></tr><tr><td>4、复板平直度</td><td>&lt;2</td><td>&lt;3</td><td>-</td></tr><tr><td>5、面板角变形a</td><td>1%B</td><td>&lt;2%B</td><td>a——面板与复板的垂直度B——面板半宽</td></tr><tr><td rowspan=\"13\">部件制作精度</td><td rowspan=\"7\">主机机座装配焊接</td><td>1、高度</td><td>±5</td><td>-10~+5</td><td>-</td></tr><tr><td>2、半宽</td><td>±3</td><td>±5</td><td>-</td></tr><tr><td>3、面板宽度</td><td>±3</td><td>±6</td><td>-</td></tr><tr><td>4、面板倾斜度</td><td></td><td>≤3</td><td>-</td></tr><tr><td>5、面板四角水平度</td><td>±3</td><td>±6</td><td>-</td></tr><tr><td>6、面板纵向挠曲度</td><td>0.1%L</td><td>-</td><td>L——面板长度</td></tr><tr><td>7、中心线偏差</td><td>±2</td><td>±4</td><td>-</td></tr><tr><td rowspan=\"2\">肋骨框架与组合肋板</td><td>1、框架外形与肋骨型线偏差</td><td>±2</td><td>±3</td><td>-</td></tr><tr><td>2、框架平面扭曲度</td><td>≤3</td><td>≤5</td><td>-</td></tr><tr><td rowspan=\"4\">安装位置</td><td>1、结构划线偏差(相对样杆或量尺)</td><td>≤1</td><td>≤2</td><td>-</td></tr><tr><td>2、结构安装位置对划线偏差</td><td>±1</td><td>±2</td><td>-</td></tr><tr><td>3、构件与板不垂直度(复板上缘)</td><td>±2</td><td>±3</td><td>-</td></tr><tr><td>4、分段断面平面度</td><td>±2</td><td>±3</td><td>-</td></tr><tr><td rowspan=\"11\">分段制作精度</td><td rowspan=\"4\">胎架制作</td><td>1、胎架型线与样板偏差</td><td>-</td><td>±2</td><td>-</td></tr><tr><td>2、胎架中心线</td><td>-</td><td>±2</td><td>-</td></tr><tr><td>3、胎架模板间距</td><td>-</td><td>±2</td><td>-</td></tr><tr><td>4、胎架水平度</td><td>-</td><td>±2</td><td>-</td></tr><tr><td rowspan=\"3\">平面分段(包括平直曲面分段)</td><td>1、分段宽度</td><td>±4</td><td>±8</td><td>-</td></tr><tr><td>2、分段长度</td><td>±4</td><td>±6</td><td>-</td></tr><tr><td>3、分段梁拱</td><td>±f/20</td><td>±f/15</td><td>f——梁拱值</td></tr><tr><td rowspan=\"4\">底部分段</td><td>1、分段长度</td><td>±4</td><td>±6</td><td>-</td></tr><tr><td>2、分段宽度</td><td>±4</td><td>±8</td><td>-</td></tr><tr><td>3、双层底高度</td><td>±3</td><td>±5</td><td>-</td></tr><tr><td>4、分段四角水平度绝对值差</td><td>±4</td><td>±6</td><td>-</td></tr></table>",
+    "table_img_path": "images/96257109f5871259fd2ab229427efa2d96f816e1100f2172ac7e046944cf0715.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表 1 结构装配精度（续）",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表 1 结构装配精度（续）",
+    "table_body": "<table><tr><td colspan=\"2\">分 类</td><td colspan=\"2\">项目名称</td><td>标准范围</td><td>允许范围</td><td>备注</td></tr><tr><td rowspan=\"21\">分段制作精度</td><td rowspan=\"3\">底部分段</td><td colspan=\"2\">5、上下平面中心线偏差</td><td>±2</td><td>±5</td><td>-</td></tr><tr><td rowspan=\"2\">6、分段方正度</td><td>平面</td><td>±4</td><td>±8</td><td>-</td></tr><tr><td>曲面</td><td>±10</td><td>±15</td><td>-</td></tr><tr><td rowspan=\"4\">半立体分段</td><td colspan=\"2\">1、分段宽度</td><td>±4</td><td>±8</td><td>-</td></tr><tr><td colspan=\"2\">2、分段长度</td><td>±4</td><td>±6</td><td>-</td></tr><tr><td colspan=\"2\">3、上下平面分段之间中心线差</td><td>±2</td><td>±5</td><td>-</td></tr><tr><td colspan=\"2\">4、上下平面间肋骨线偏差</td><td>±2</td><td>±5</td><td>-</td></tr><tr><td rowspan=\"4\">立体分段</td><td colspan=\"2\">1、上下中心线重合度</td><td>±5</td><td>±8</td><td>-</td></tr><tr><td colspan=\"2\">2、上下肋位重合度</td><td>±5</td><td>±8</td><td>-</td></tr><tr><td colspan=\"2\">3、两个水平面间结构高度偏差</td><td>±5</td><td>±7</td><td>-</td></tr><tr><td colspan=\"2\">4、分段高度</td><td>±5</td><td>±0.15%h</td><td>h——分段高度</td></tr><tr><td rowspan=\"4\">艏柱装配</td><td colspan=\"2\">1、中心线(焊前)</td><td>≤2</td><td>≤5</td><td>-</td></tr><tr><td colspan=\"2\">2、中心线(焊后)</td><td>3</td><td>≤5</td><td>-</td></tr><tr><td colspan=\"2\">3、与外板轮廓线偏差</td><td>±5</td><td>≤5</td><td>-</td></tr><tr><td colspan=\"2\">4、构件位置偏差</td><td>2</td><td>≤5</td><td>-</td></tr><tr><td rowspan=\"2\">艉柱装配</td><td colspan=\"2\">1轴出口端面距尾尖舱隔壁距离L</td><td>±5</td><td>±10</td><td rowspan=\"2\">轴孔中心 舰杆中心线</td></tr><tr><td colspan=\"2\">2、杆中心线与艉中心线偏差</td><td>±3</td><td>±5</td></tr><tr><td rowspan=\"4\">上层建筑分段</td><td colspan=\"2\">1、分段宽度</td><td>±3</td><td>≤5</td><td>-</td></tr><tr><td colspan=\"2\">2、分段高度</td><td>±0.15%h</td><td>≤5</td><td rowspan=\"2\">h——分段高度</td></tr><tr><td colspan=\"2\">3、围壁垂直度</td><td>±0.15%h</td><td>≤5</td></tr><tr><td colspan=\"2\">4、分段中心线偏差</td><td>≤3</td><td>≤5</td><td>-</td></tr><tr><td rowspan=\"13\">大合拢装配精度</td><td rowspan=\"6\">中心线</td><td colspan=\"2\">双层底分段与船台(船坞)</td><td>≤3</td><td>≤5</td><td>-</td></tr><tr><td colspan=\"2\">甲板、平台、横舱壁与双层底</td><td>≤5</td><td>≤8</td><td>-</td></tr><tr><td colspan=\"2\">艏艉端点与船台(船坞)</td><td>&lt;0.1%h</td><td>&lt;0.15%h</td><td>h——艏艉端点高度</td></tr><tr><td colspan=\"2\">上层建筑与甲板</td><td rowspan=\"2\">≤4</td><td rowspan=\"3\">≤8</td><td>-</td></tr><tr><td colspan=\"2\">上舵承中心与船台(船坞)中心线</td><td>-</td></tr><tr><td colspan=\"2\">艉轴孔中心与船台(船坞)中心线</td><td>≤5</td><td>-</td></tr><tr><td rowspan=\"4\">水平度</td><td colspan=\"2\">底部、平台、甲板四角水平</td><td>≤8</td><td>≤12</td><td>-</td></tr><tr><td colspan=\"2\">舱壁左右(前后)水平</td><td>≤4</td><td>≤6</td><td>-</td></tr><tr><td colspan=\"2\">舷侧分段前后水平</td><td>≤5</td><td>≤10</td><td>-</td></tr><tr><td colspan=\"2\">上层建筑四角水平</td><td>≤10</td><td>≤15</td><td>-</td></tr><tr><td rowspan=\"3\">定位高度</td><td colspan=\"2\">舱壁</td><td>±3</td><td>±6</td><td>-</td></tr><tr><td colspan=\"2\">舷侧分段</td><td>±5</td><td>±8</td><td>-</td></tr><tr><td colspan=\"2\">上层建筑</td><td>≤10</td><td>≤15</td><td>-</td></tr></table>",
+    "table_img_path": "images/572e7738f8769142cacda8a00ecfd8e957d4a16d9f8242c8993ab58837169178.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表 1 结构装配精度（续2）",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表 1 结构装配精度（续2）",
+    "table_body": "<table><tr><td colspan=\"2\">分 类</td><td>项目名称</td><td>标准范围</td><td>允许范围</td><td>备注</td></tr><tr><td rowspan=\"2\">大合拢装配精度</td><td colspan=\"2\">分段接缝处肋距</td><td>±10</td><td>±20</td><td>—</td></tr><tr><td colspan=\"2\">舱壁垂直度</td><td>≤ 0.1%h且&lt;10</td><td>≤ 0.12%h且&lt;12</td><td>h——舱壁高度</td></tr></table>",
+    "table_img_path": "images/58472e7b6dbbfe0803586724a09e379342fae19f5606b59c97190f9022f0ab3c.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表 2",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表 2",
+    "table_body": "<table><tr><td>板厚</td><td>定位焊长度</td><td>定位焊间距</td><td>要求</td></tr><tr><td>≤4</td><td>点焊</td><td>20~40</td><td>采用密钉小点定位焊法</td></tr><tr><td>4~8</td><td>高强度钢≥50,普通钢≥30</td><td>150~250</td><td rowspan=\"2\">一般不得超过正式焊缝高度</td></tr><tr><td>≥8</td><td>高强度钢≥50,普通钢≥30</td><td>250~350</td></tr></table>",
+    "table_img_path": "images/c0fdf700cbb1b94b5596292ec3cd47be64574ef0cc4163f404b4d09fad0d5376.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 常见部位所采用的密试方法",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 常见部位所采用的密试方法",
+    "table_body": "<table><tr><td>序号</td><td>焊缝接头</td><td>密试方法</td><td>备注</td></tr><tr><td>1</td><td>一般角焊缝</td><td>分段阶段做角焊缝充气</td><td></td></tr><tr><td>2</td><td>分段遗留(密试板到分段端口)</td><td>做着色实验或磁粉探伤或预搭后抽真空</td><td></td></tr><tr><td>3</td><td>预搭后遗留未做角焊缝</td><td>抽真空或舱室密试</td><td></td></tr><tr><td>4</td><td>做不通的角焊缝</td><td>分段阶段抽真空或着色实验或磁粉探伤</td><td></td></tr><tr><td>5</td><td>密试眼板和止漏孔封焊后的焊缝</td><td>分段密试后进行着色实验</td><td>见图2</td></tr><tr><td>6</td><td>止漏孔封焊后的角焊缝</td><td rowspan=\"2\">抽真空或着色实验或磁粉探伤</td><td>见图4</td></tr><tr><td>7</td><td>全焊透和深熔焊焊缝</td><td></td></tr><tr><td>8</td><td>补板处焊缝</td><td>抽真空或保护焊缝预留到大舱密试</td><td></td></tr><tr><td>9</td><td>两端200mm止漏焊段</td><td>抽真空或着色实验或磁粉探伤</td><td>见图4</td></tr><tr><td>10</td><td>污水井/污油井</td><td>抽真空或着色实验,整体充气</td><td></td></tr><tr><td>11</td><td>自动焊焊缝</td><td>无需试验</td><td></td></tr><tr><td>12</td><td>预搭或搭载焊缝</td><td>抽真空或舱室密试</td><td></td></tr><tr><td>13</td><td>人孔圈焊缝</td><td>分段阶段着色实验或磁粉探伤或舱室密试</td><td></td></tr><tr><td>14</td><td>小舱口盖焊缝</td><td>在分段阶段做磁粉探伤或搭载冲水</td><td></td></tr><tr><td>15</td><td>放水塞焊缝</td><td>分段阶段做抽真空或着色实验或磁粉探伤(出坞前安装放水塞后需确认密试)</td><td></td></tr><tr><td>16</td><td>在车间完成的覆板与管子之间的焊缝和套管间的焊缝</td><td>在对焊缝做保护涂层或镀锌前做着色实验或磁粉探伤</td><td></td></tr><tr><td>17</td><td>管子贯穿于船体结构的焊缝</td><td>舱室密试或着色实验或磁粉探伤</td><td></td></tr><tr><td>18</td><td>海底门处的焊缝</td><td>海底门在分段阶段做密试</td><td></td></tr><tr><td>19</td><td>舷旁管、阴极保护、计程仪/测深仪与底部或外板贯通。</td><td>着色实验或磁粉探伤在分段合拢阶段</td><td></td></tr><tr><td>20</td><td>艉轴管</td><td>分段阶段水压试验</td><td></td></tr></table>",
+    "table_img_path": "images/d09bde8383adbfeeb6ac0cb2360698f9fc1d4b93ad983ba469f4a30183dfb132.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1",
+    "table_body": "<table><tr><td>序号</td><td>间隙a</td><td>焊接工艺要求</td><td>图示</td></tr><tr><td>1</td><td>a≤3 mm</td><td>不改变焊脚尺寸</td><td>图5a)</td></tr><tr><td>2</td><td>3 mm&lt;a≤5 mm</td><td>增加焊脚尺寸a-2 mm</td><td>图5a)</td></tr><tr><td>3</td><td>5 mm&lt;a≤16 mm</td><td>开单面30°坡口,加陶瓷衬垫</td><td>图5b)</td></tr><tr><td>4</td><td>a&gt;16 mm</td><td>加补板贴装</td><td>图5c)</td></tr></table>",
+    "table_img_path": "images/a111eb6e0f025201fc66e413766caf396cb632e8c9fb8e66c18463ed638b6afb.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 划线符号及标识要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 划线符号及标识要求",
+    "table_body": "<table><tr><td>名称</td><td>划线符号</td><td>样冲标识</td><td>要求</td></tr><tr><td>船体中心线</td><td>双</td><td>* *</td><td>在分段前后断口100mm范围内打上样冲标识</td></tr><tr><td>分段基准线</td><td>XXX</td><td>XXX</td><td>在分段断口100mm范围内打上两组样冲标识</td></tr><tr><td>检验线</td><td>XXX</td><td>··········</td><td>切割检验线和结构安装检验线两端打两组样冲标识</td></tr><tr><td>切割线</td><td>-</td><td>-··········</td><td>用石笔划出的开孔或转角余量切割线上打上样冲标识</td></tr><tr><td>构件厚度方向</td><td>-III</td><td>无</td><td>用记号笔在构件理论线上划出构件厚度方向符号</td></tr></table>",
+    "table_img_path": "images/5f6d2fe9db100fadea13fc0a65e69e5ce48dcf8c2d75b212adf38f7c9b264b10.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表2 划线精度要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2 划线精度要求",
+    "table_body": "<table><tr><td>分类</td><td colspan=\"2\">项 目</td><td>标准范围</td><td>允许极限</td><td>说 明</td></tr><tr><td rowspan=\"2\">线条</td><td colspan=\"2\">划线线条粗细</td><td>±1.0</td><td>±1.5</td><td rowspan=\"4\">-</td></tr><tr><td colspan=\"2\">中心线、理论线、对合线、检验线、安装位置线偏差</td><td rowspan=\"2\">±2.0</td><td rowspan=\"2\">±3.0</td></tr><tr><td rowspan=\"9\">零件划线</td><td colspan=\"2\">长度</td></tr><tr><td colspan=\"2\">宽度</td><td>±1.5</td><td>±2.5</td></tr><tr><td colspan=\"2\">对角线</td><td>±2.0</td><td>±3.0</td><td>指矩形板</td></tr><tr><td colspan=\"2\">曲线外型</td><td>±1.5</td><td>±2.5</td><td>-</td></tr><tr><td rowspan=\"3\">直\n线\n度</td><td>L≤4m</td><td>≤1.0</td><td>≤1.2</td><td rowspan=\"3\">零件的直线边缘</td></tr><tr><td>4m≤L≤8m</td><td>≤1.2</td><td>≤1.5</td></tr><tr><td>L≥8m</td><td>≤2.0</td><td>≤2.5</td></tr><tr><td colspan=\"2\">角度偏离</td><td>±1.5</td><td>±2.0</td><td>以每米偏离值计</td></tr><tr><td colspan=\"2\">开孔切口</td><td>≤1.5</td><td>≤2.0</td><td rowspan=\"5\">-</td></tr><tr><td rowspan=\"2\">分段划线</td><td colspan=\"2\">平面分段与图样尺寸的偏差</td><td rowspan=\"2\">±2.5</td><td rowspan=\"2\">±3.5</td></tr><tr><td colspan=\"2\">构件位置与图样标注位置的偏差</td></tr><tr><td rowspan=\"3\">胎架划线</td><td colspan=\"2\">胎架型线与样条偏差</td><td>±2</td><td>±3</td></tr><tr><td colspan=\"2\">胎架中心线</td><td>±1</td><td>±2</td></tr><tr><td colspan=\"2\">胎架水平</td><td>±3</td><td>±5</td><td>超差修正胎架</td></tr><tr><td rowspan=\"2\">安装位置线</td><td colspan=\"2\">结构划线偏差</td><td>±1</td><td>±2</td><td>相对于样杆或量尺</td></tr><tr><td colspan=\"2\">分段断面平面面度</td><td>±2</td><td>±3</td><td>激光测量值</td></tr><tr><td rowspan=\"3\">船坞/平台线基准线</td><td colspan=\"2\">中心线</td><td rowspan=\"5\">±1</td><td>±1.5</td><td rowspan=\"5\">-</td></tr><tr><td colspan=\"2\">辅助基线</td><td rowspan=\"2\">±3</td></tr><tr><td colspan=\"2\">半宽线、总长点</td></tr><tr><td rowspan=\"2\">其它</td><td colspan=\"2\">干舷标志高</td><td>±1</td></tr><tr><td colspan=\"2\">吃水标志高</td><td>±2</td></tr></table>",
+    "table_img_path": "images/876ae116cb63b1ba9a226354bdf09da35dbb3103709dddb25ad73180051a7eed.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "划线数据记录表",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/划线数据记录表",
+    "table_body": "<table><tr><td>船名</td><td>分段/部件名</td><td>施工单位</td><td>编号</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>测量项目(主尺寸)</td><td>测量位置</td><td>理论尺寸</td><td>实测尺寸</td></tr><tr><td rowspan=\"2\">长度</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">宽度</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">高度</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">对角</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td colspan=\"4\">简图描述:</td></tr><tr><td colspan=\"4\">测量者: 测量日期:</td></tr></table>",
+    "table_img_path": "",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 曲面胎架制作的精度要求及检验方法",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 曲面胎架制作的精度要求及检验方法",
+    "table_body": "<table><tr><td>序号</td><td>检验内容(代号)</td><td>标准公差</td><td>允许极限</td><td>检验方法</td></tr><tr><td>1</td><td>地上“十”字线</td><td>≤1</td><td>≤2</td><td>经纬仪检测</td></tr><tr><td>2</td><td>地上板缝投影标识</td><td rowspan=\"2\">≤2</td><td rowspan=\"2\">≤3</td><td rowspan=\"2\">卷尺测量</td></tr><tr><td>3</td><td>胎架间距线</td></tr><tr><td>4</td><td>胎架水平基线</td><td>±1</td><td rowspan=\"3\">-</td><td>经纬仪检测</td></tr><tr><td>5</td><td>胎架垂直度</td><td>±5</td><td>线锤或电子水平尺测量</td></tr><tr><td>6</td><td>胎架高度</td><td>±2</td><td>拉线检测</td></tr></table>",
+    "table_img_path": "images/0f3f7b18e5b2e6530b37387a234531912ff97fb8af2324d9659a8012f2e02489.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表 2 平面胎架制作的精度要求及检验方法",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表 2 平面胎架制作的精度要求及检验方法",
+    "table_body": "<table><tr><td>序号</td><td>检验内容（代号）</td><td>标准公差</td><td>检验方法</td></tr><tr><td>1</td><td>胎架水平基线</td><td>±1</td><td>经纬仪检测</td></tr><tr><td>2</td><td>胎架高度</td><td>±2</td><td>拉线检测</td></tr><tr><td>3</td><td>折角线位置</td><td>≤3</td><td>线锤、量尺检测（仅适用于支撑面有折角的胎架）</td></tr></table>",
+    "table_img_path": "images/2d0eb0ed494ab0fff6b7445617f3e00929bc9b3e9c5093c9762785b5e9ee4700.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 薄板在分段组立时对胎架的要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 薄板在分段组立时对胎架的要求",
+    "table_body": "<table><tr><td>胎架种类</td><td>要求</td></tr><tr><td>型材式支柱胎架</td><td>1、支柱按1000mm×500mm的方式进行排列,甲板或平台板的边缘应用500mm×500mm规格排列;2、支柱高度宜为500mm~1800mm,若高度大于1800mm时,应采取特殊的工艺措施以保证其刚度;3、支柱的安装应保证其垂直度,对支柱高度值较大的支点还应作必要的加固措施,以防止支柱倾斜;4、支柱型材可选用大于L100mm×75mm×10mm的角钢或与其剖面模数相当的型材;施工时,也可根据支撑点的平均受力情况选取材料规格;对于重量较为集中的区域,还可采用局部加密的方法增加支柱,以保证分段胎架的刚度;5、支柱的最高点与最低点的位置之差宜控制在1200mm内;6、板幅超出胎架支柱的距离不应超过200mm,板幅四周的自由边用槽钢担直。</td></tr><tr><td>桁架式胎架</td><td>1、胎架面应为由扁钢或球扁钢、角钢组成的平面桁架结构;2、扁钢的宽度约为100mm~150mm,厚度为6mm~12mm;桁材间距约为500mm×1000mm,特殊分段可适当加密。3、板幅超出胎架面的距离不应超过200mm,四周的自由边用槽钢担直。</td></tr></table>",
+    "table_img_path": "images/245f68f9b8c03e70e0a555cf87bc90a4e64c376f7e0c3b696d1d1e80514f8afd.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表2 矫正薄板变形的火工方法及温度的控制要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2 矫正薄板变形的火工方法及温度的控制要求",
+    "table_body": "<table><tr><td>火工方法</td><td>适用范围</td><td>加热要求</td><td>图示</td></tr><tr><td>长条形加热法</td><td>适用于各种结构变形的矫正,以矫正板架变形效果最好,且多用“背烧法”,此方法普遍采用“水火矫正”,温度为650℃~750℃,分段制作阶段背烧采用温度200℃~350℃,不允许水冷。</td><td>1、可直接施于骨架背面(单线法),也可施于骨架背面紧靠骨架的两侧(双线法),主变形消除后,在不平处补长条,或在同位置重复加热;2、长条可烧成“口”形,紧靠骨架且平行的直线;3、普遍使用“水火矫正”平板用正面跟踪水冷却;4、板格中央不施行加热线。</td><td></td></tr><tr><td>短条形加热法</td><td>适用于矫正2mm~6mm的薄板结构,以及四周有骨架的球面变形,很少用于板厚大于12mm的结构,此方法普遍采用“水火矫正”,温度为650℃~750℃</td><td>1、加热线应施于变形凸起的一面;2、施行加热线尽量靠近骨架处,加热温度则由外向里渐增。</td><td>骨架线\n骨骼线</td></tr><tr><td>十字形松叶状加热法</td><td>适用于变形较大,矫正要求较高的薄板结构,特别适合于四周有骨架、中间“鼓出”较大的球面变形,温度为650℃~750℃</td><td>1、加热线应施于变形凸起的一面;2、加热线的起点应靠近骨架的一边;3、加热从骨架处开始,由外向中部变形大处移动。</td><td>加热线\n加热线</td></tr><tr><td>链式密点式加热法</td><td>适用于变形不大的薄板结构,特别是2mm~4mm厚的薄板,厚板大于8mm的板材很少采用,此方法以矫正“鼓出”的柱面变形效果最好,温度为650℃~750℃</td><td>1、由外向中间变形较大处单列进行,温度也由外向里渐增;2、第二次加热应待第一次冷却后进行。</td><td>加热点</td></tr></table>",
+    "table_img_path": "images/831aa11a317a34c245e355a73f25e4388c60549a44696c18f32911e44b180927.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 薄板火工矫正方法",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 薄板火工矫正方法",
+    "table_body": "<table><tr><td>方法</td><td>加热区形式</td><td>规格和温度</td><td>操作要领</td><td>适用范围</td></tr><tr><td rowspan=\"2\">长条形线状加热法</td><td>骨架线</td><td rowspan=\"2\">加热线宽度:b=10mm~20mm加热线长度:l=F/b(F为加热面积)温度:650℃~750℃4mm~6mm薄板加热温度应小于750℃</td><td rowspan=\"2\">1.可直接施于骨架背面(单线法);也可施于骨架背面紧靠骨架的两侧(双线法),主变形消除后,在不平处补长条,或在同位置重复加热;2.长条可烧成“口”字形或紧靠骨架且平行骨架的直线;3.使用正面跟踪水冷却;4.板格中央不施行加热线</td><td rowspan=\"2\">此法矫正板架变形的效果最好,如“瘦马”变形和波浪变形,且多用“背烧法”;此法已普遍使用,对于小于6mm的薄板注意选择低参数</td></tr><tr><td>骨架线</td></tr><tr><td rowspan=\"2\">短条形加热法</td><td>骨架线</td><td rowspan=\"2\">加热线宽度:B=10mm~20mm加热线长度:L=100mm~150mm温度:650℃~750℃4mm~6mm薄板加热温度应小于750℃</td><td rowspan=\"2\">1.加热线应施于变形凸起的一面;2.施行加热线尽量靠骨架处,当矫正不足时才向中部变形处稍作移动,加热温度则由外向里渐增</td><td rowspan=\"2\">此法主要用于矫正四周有骨架的球面变形;可用水火矫正</td></tr><tr><td>加热线</td></tr><tr><td rowspan=\"2\">十字形松叶状加热法</td><td>加热线</td><td rowspan=\"2\">加热线宽度:b=10mm~12mm加热线长度:l=100mm~120mm加热线交角一般为相互垂直。温度:对4mm~6mm的薄板,约650℃~750℃</td><td rowspan=\"2\">1.加热线应施于变形凸起一面;2.加热线的起点应靠近骨架的一边;3.加热自骨架处开始,由外向中部变形大处移动</td><td rowspan=\"2\">适合于变形较大、矫正要求较高的薄板结构,特别适合于四周有骨架、中间“鼓出”较大的球面变形</td></tr><tr><td>骨架线</td></tr><tr><td>圆点形加热法</td><td>D\na\nb</td><td>圆点直径:D=(4δ+10)mm但不超过60mm(式中δ为板厚)a=200mm~400mmb=100mm~200mm温度:650℃~750℃对4mm~6mm的薄板约650℃~750℃</td><td>1.加热由变形最小处开始,顺次向变形大处移动;2.第二次加热须待第一次冷却后进行;3.加热过程中宜在周围冷金属区辅以木锤敲击以促其加快收缩</td><td>适用于各种厚度、各种结构形式,但工效低、质量差。薄板尽量少用此法</td></tr><tr><td>链式密点加热法</td><td>骨架线D</td><td>密点直径:d=10mm~20mm密点间距:30mm~50mm温度:650℃~750℃</td><td>1.由外向中间变形较大处单列进行,温度也由外向里渐增;2.第二次加热须待第一次冷却后进行;3.以木锤勿用铁锤敲击;4.用靠模加热效果更好</td><td>此法适合于变形不大的薄板结构,矫正“鼓出”的柱面变形效果最好</td></tr><tr><td>马蹄形加热法</td><td>d\nb\n20</td><td>圆环宽度:b=15mm~20mm圆环内径:d=40mm~50mm,最大不超过60mm温度:650℃~750℃</td><td>同圆点加热法。但不需用锤击;此法实际上是圆点加热法的特例</td><td>适用于6mm以下的薄板结构,矫正四周有骨架的球面变形效果要比矫正柱面变形更好。因操作较复杂,现场不常用</td></tr><tr><td>楔形三角形加热法</td><td>h\na\nH</td><td>加热长度:h≤2/3H加热区域角度:a=30°</td><td>1.在弯曲变形的凸起一边矫正;2.由两端向中间进行;3.加热线起点要在结构中和轴开始向边缘进行;4.加热温度要保证使整个厚度都烧透;5.第二次加热要在第一次冷却后进行,各次加热部位不宜重叠</td><td>适用于T形、H形结构和其他型材的弯曲变形。也可用于分段自由边缘的荷叶状变形</td></tr></table>",
+    "table_img_path": "images/1c63c013600004796463349e5715608786aa9bcf5afe0a8832f8e41fdb63b4c9.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表2 圆点形火工矫正参数",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2 圆点形火工矫正参数",
+    "table_body": "<table><tr><td rowspan=\"2\">矫正板厚</td><td rowspan=\"2\">加热嘴型号</td><td rowspan=\"2\">火圈直径</td><td rowspan=\"2\">凸弯挠度</td><td colspan=\"2\">火圈间距</td></tr><tr><td>垂直间距</td><td>水平间距</td></tr><tr><td rowspan=\"3\">4~6</td><td rowspan=\"3\">JB/T 7950-2014 中G20 型-2#、3#灯嘴</td><td rowspan=\"3\">40~50</td><td>5~10</td><td>400</td><td>200</td></tr><tr><td>11~15</td><td>350</td><td>175</td></tr><tr><td>16~20</td><td>300</td><td>150</td></tr></table>",
+    "table_img_path": "images/f69a0b2e8f1e989382eb260318bc64c82f22197063ba5037047c9f4a15cddf8a.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表3 长条形水火矫正参数",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表3 长条形水火矫正参数",
+    "table_body": "<table><tr><td colspan=\"2\">矫正项目</td><td>矫正参数</td></tr><tr><td colspan=\"2\">矫正板厚</td><td>4~6</td></tr><tr><td colspan=\"2\">所用加热嘴号数（G20型）</td><td>2~3</td></tr><tr><td colspan=\"2\">加热嘴孔径</td><td>1.5~2.0</td></tr><tr><td colspan=\"2\">火焰性质（氧炔比）</td><td>1.15~1.2</td></tr><tr><td colspan=\"2\">移动速度 mm/s</td><td>10~25</td></tr><tr><td colspan=\"2\">加热温度 ℃</td><td>700~750</td></tr><tr><td colspan=\"2\">加热宽度</td><td>(2~6) δ</td></tr><tr><td colspan=\"2\">加热深度</td><td>(0.5~1) δ</td></tr><tr><td rowspan=\"2\">最小水火距</td><td>低碳钢</td><td>40</td></tr><tr><td>低合金钢</td><td>80</td></tr><tr><td colspan=\"3\">注：δ为板厚。</td></tr></table>",
+    "table_img_path": "images/bd5c203f04ec00ec35239730987f638da4c03ce23e0295448eaf202c3a029531.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表4 加热嘴至工件表面的距离参考值",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表4 加热嘴至工件表面的距离参考值",
+    "table_body": "<table><tr><td>工件厚度</td><td>加热焰至工件表面的距离</td></tr><tr><td>4~5</td><td>-2~0</td></tr><tr><td>6</td><td>0</td></tr><tr><td colspan=\"2\">注：此处所说的距离，是指火焰焰心（白点）到工件表面的距离，并非加热嘴出口到工件表面的距离。</td></tr></table>",
+    "table_img_path": "images/5ac66bbb8d5f3ff48939f6e49f17d019730bc0db24d655206b3373a6036134e2.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表6 甲板内部平面度要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表6 甲板内部平面度要求",
+    "table_body": "<table><tr><td rowspan=\"2\">变形部位</td><td colspan=\"2\">平面度</td><td rowspan=\"2\">图形示例</td></tr><tr><td>标准范围</td><td>允许极限</td></tr><tr><td>强结构</td><td>≤10</td><td>≤15</td><td>强结构是指T梁或壁板,检测距离为两个强肋距(即跨三档强结构)两档强肋距平面度</td></tr><tr><td>空档</td><td>≤20</td><td>≤30</td><td>空档是指两条纵骨之间的板格部位,检测距离为纵骨间距平面度</td></tr><tr><td colspan=\"4\">注:甲板端口是指距离甲板边缘1m范围内或者最近的强结构至甲板边缘范围内,取两者最小值。</td></tr></table>",
+    "table_img_path": "images/df4487a7725c1bb2148411666e8f386cf6d9c208316fe581b653150939be13da.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表7 外板（外围壁）平面度要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表7 外板（外围壁）平面度要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td><td>图形示例</td></tr><tr><td>局部平面度</td><td>≤4</td><td>≤6</td><td rowspan=\"2\">局部平面度是指每一肋距的平面度\n平面度\n5000\n平面度\n5000</td></tr><tr><td>整体平面度</td><td>±10</td><td>±15</td></tr></table>",
+    "table_img_path": "images/c52155624460fe684c6609bb2608a6e9894a4490e91db61c960d44ea3ea3fcbb.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表8 船坞搭载及码头阶段薄板火工矫正平面度要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表8 船坞搭载及码头阶段薄板火工矫正平面度要求",
+    "table_body": "<table><tr><td colspan=\"3\">项目</td><td>标准范</td><td>允许极</td><td>备注</td><td></td><td></td><td></td></tr><tr><td rowspan=\"5\">局部平面度</td><td rowspan=\"2\">上层建筑甲板</td><td>暴露部位</td><td>≤4</td><td>≤6</td><td rowspan=\"5\">局部平面度是指每一肋距的平面度。“+”表示突出甲板的变形量,“-”表示凹入甲板的变形量</td><td></td><td></td><td></td></tr><tr><td>非暴露部位</td><td>≤7</td><td>≤9</td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\">围壁</td><td>外围壁</td><td>≤4</td><td>≤6</td><td></td><td></td><td></td></tr><tr><td>内围壁(暴露部位)</td><td>≤10</td><td>≤20</td><td></td><td></td><td></td></tr><tr><td>内围壁(非暴露部位)</td><td>≤20</td><td>≤30</td><td></td><td></td><td rowspan=\"2\"></td></tr><tr><td>整体平面度</td><td>上层建筑</td><td>甲板</td><td>±15</td><td>±20</td><td>最小的检测长度为5000\n5000\n平面度\n5000\n平面度\n5000\n平面度\n5000\n平面度\n5000\n平面度\n5000\n平面度\n5000\n平面度\n5000\n平面度\n5000\n平面度\n5000\n平面度\n5000\n平面度\n5000\n平面度\n5000\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面\n度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n50\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n6\n平面度\n6\n平面度\n6\n平面度\n6\n平面度\n6\n平面度\n6\n平面度\n6\n平面度\n6\n平面度\n6\n平面度\n6\n平面度\n6\n平面度\n6\n平面度\n6\n平面度\n6\n平面度\n6\n平面度\n6\n平面度\n6\n平面度\n6\n平面度\n6\n平面度\n6\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n.\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度\n5\n平面度</td><td>±15</td><td>±20</td></tr></table>",
+    "table_img_path": "images/5bbacd4c1d17177326e580791c53f94957456f2fa90220dcfaf00c443122ebe7.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表9 高强度钢薄板火工温度控制要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表9 高强度钢薄板火工温度控制要求",
+    "table_body": "<table><tr><td>材质</td><td>交货状态</td><td>冷却方式</td><td>火工温度要求℃</td></tr><tr><td rowspan=\"3\">AH32～EH32，AH36～EH36</td><td rowspan=\"3\">热轧（AR）、控制（CR）、正火（N）、调质（QT）</td><td>水冷</td><td>&lt;650</td></tr><tr><td>空冷</td><td>&lt;900</td></tr><tr><td>先空冷，后水冷</td><td>火工温度须低于900，水冷必须在火工件低于650后方可开始操作</td></tr><tr><td>AH32～DH32，AH36～DH36，EH32～EH36</td><td>温度形变控制轧制（TMCP）</td><td>水冷或空冷</td><td>&lt;900</td></tr></table>",
+    "table_img_path": "images/2d880cd75815c18856ddda1a82c61c71f2f3b4b4698dd81c386d16d9b351b9ac.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表A.1 典型特征的火工矫正工艺",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表A.1 典型特征的火工矫正工艺",
+    "table_body": "<table><tr><td colspan=\"2\">变形特征</td><td>简图</td><td>矫正要领</td><td>注意事项</td></tr><tr><td colspan=\"2\">板架的“瘦马”</td><td>(a)变形示图\n焊缝\n板\nA详图\n(b)矫正示图</td><td>1.宜选用长条形水火矫正法;\n2.加热线位于骨架的背部,即“背烧”;\n3.加热线数量:当变形严重时,采用双条,施于骨材背部的两侧;当变形较少时,可用单条,直接施于骨材背部的中心</td><td>1.矫正“瘦马”变形的加热温度不宜过高,可取长条形矫正法温度的下限;\n2.初次加热不宜烧得过于强烈,特别要防止不管变形如何,一律沿所有骨架能烧一遍的倾向,以免矫正过度或使结构形成较大的内应力</td></tr><tr><td rowspan=\"2\">波浪变形</td><td>板架的起伏波浪变形</td><td></td><td>1.第一阶段:在凹入面两侧的骨架处,用长条形加热法进行“背烧”;2.第二阶段:在凸出面的骨架之间靠近骨材处,用长条形或其它形式的加热法进行矫正</td><td>1.矫正起伏变形时的加热温度不能过高;\n2.第一阶段,不宜先烧凸出面,特别是凸出面的中间。\n3.第二阶段不必等第一阶段完全矫正后进行</td></tr><tr><td>同一板格中的凹凸变形</td><td></td><td>1.第一阶段:在骨架处①用长条形加热法进行“背烧”;2.第二阶段:在变形的凸部与凹部的交界处②用长条法或十字形加热③直至矫正</td><td>1.板格内加热线的间距可20,也可重复加热;\n2.加热温度:第一阶段不宜过高,第二分阶段视具体而定</td></tr></table>",
+    "table_img_path": "images/1c0fd2ee3dda64af0119285a80cee3563cf4b06c659d9e8003617257ac99b174.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表A.1 典型特征的火工矫正工艺（续）",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表A.1 典型特征的火工矫正工艺（续）",
+    "table_body": "<table><tr><td colspan=\"2\">变形特征</td><td>简图</td><td>矫正要领</td><td>注意事项</td></tr><tr><td>对接焊缝的起折</td><td>骨架间对接焊缝的起折</td><td>1.第一阶段:在位置1用长条形水火矫正进行“烧背”;2.第二阶段:在骨架一侧焊缝两边2、3处顺次用长条形水火矫正法加热;3.变形严重时,焊缝开刀重新装配调平</td><td>1.加热温度不应高750℃;2.当2,3不能完全矫平时,还可进行重复加热</td><td></td></tr><tr><td rowspan=\"2\">失稳变形</td><td>板端自由边缘的失稳变形</td><td>加热线\n加热线</td><td>1.在各扶强材的两个端部开始向板边进行加热;\n2.若平整度未达到要求,则在骨材处进行长条形加热;\n3.矫正时可辅以必要的夹具</td><td>1.矫正时,在变形的中间部位或仅在板边加热,效果较差;\n2.矫正时注意加热线的终点一定要到达板的边缘</td></tr><tr><td>开孔周边的失稳变形</td><td>骨架线\n圆窗开孔\n4\n6\n3</td><td>1.先矫正开孔附近的板和扶材的变形;\n2.根据变形情况用短条或楔形法按图示程序加热矫正;\n3.为提高矫正效果,必要时可用木锤锤击</td><td>1.矫正时,若在变形的中间部位或仅在板边加热,效果很差;\n2.矫正时注意加热线的终点一定要到达板的边缘</td></tr><tr><td colspan=\"5\">注:加热温度除满足表内温度要求外,应满足表9温度上限要求。</td></tr></table>",
+    "table_img_path": "images/746d91753850e94a5bb5c3782b24c0c8510a4df67ab12bdf3e9e6606b27030c2.jpg",
+    "parent_table": "表A.1 典型特征的火工矫正工艺"
+  },
+  {
+    "entity_name": "薄板火工矫正作业管理表",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/薄板火工矫正作业管理表",
+    "table_body": "<table><tr><td rowspan=\"2\">施工阶段</td><td rowspan=\"2\">部位</td><td colspan=\"2\">火工要求</td><td rowspan=\"2\">确认责任人</td><td rowspan=\"2\">备注</td></tr><tr><td>背烧</td><td>火工矫正</td></tr><tr><td>下料加工</td><td>所有部位</td><td>×</td><td>×</td><td>/</td><td></td></tr><tr><td rowspan=\"4\">中小组立</td><td>内围壁</td><td>✓</td><td>×</td><td>/</td><td></td></tr><tr><td>外板片体</td><td>✓</td><td>×</td><td>/</td><td></td></tr><tr><td>T型材</td><td>✓</td><td>✓</td><td>自检</td><td></td></tr><tr><td>其它部件</td><td>✓</td><td>×</td><td>/</td><td></td></tr><tr><td rowspan=\"4\">大组立</td><td>内围壁</td><td>×</td><td>×</td><td>/</td><td></td></tr><tr><td>外板</td><td>×</td><td>严控，按表8要求</td><td>现场服务工程师</td><td></td></tr><tr><td>甲板内部</td><td>✓</td><td>严控，按表7要求</td><td>现场服务工程师</td><td></td></tr><tr><td>甲板端口（1m范围内）</td><td>✓</td><td>严控，按表6要求</td><td>现场服务工程师</td><td></td></tr><tr><td rowspan=\"5\">预搭载</td><td>内围壁</td><td>×</td><td>门窗安装位置火工。</td><td>/</td><td></td></tr><tr><td>外板</td><td>×</td><td>门窗安装位置火工。</td><td>/</td><td></td></tr><tr><td>甲板</td><td>×</td><td>设备座架位置火工。</td><td>/</td><td></td></tr><tr><td>甲板端口（1m范围内）</td><td>×</td><td>×</td><td>/</td><td></td></tr><tr><td>其它部位</td><td>×</td><td>×</td><td>/</td><td></td></tr><tr><td rowspan=\"4\">搭载</td><td>内围壁</td><td>×</td><td>✓</td><td>自检</td><td></td></tr><tr><td>外板</td><td>×</td><td>✓</td><td>自检、工艺</td><td></td></tr><tr><td>甲板</td><td>×</td><td>✓</td><td>自检、工艺</td><td></td></tr><tr><td>其它部位</td><td>×</td><td>✓</td><td>自检</td><td></td></tr></table>",
+    "table_img_path": "images/ab03250a6913c580365da06090d94056d31a94046a6c781727ed2a193d5846fa.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 精度要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 精度要求",
+    "table_body": "<table><tr><td colspan=\"2\">项目</td><td>范围</td><td>允许极限</td></tr><tr><td colspan=\"2\">锚链筒直径允许偏差值△D0</td><td>+D0/200,且≤5</td><td>+D0/150,且≤7.5</td></tr><tr><td colspan=\"2\">锚链管的椭圆度</td><td>-</td><td>(Dmax-Dmin)≤0.02 Dmax</td></tr><tr><td rowspan=\"3\">直线度e1</td><td>L≤4000</td><td>≤1</td><td>≤1.5</td></tr><tr><td>4000&lt;L≤8000</td><td>≤1.5</td><td>≤2.0</td></tr><tr><td>L&gt;8000</td><td>≤2.0</td><td>≤2.5</td></tr></table>",
+    "table_img_path": "images/846febe513bf6426d9480b7cb854536da5d9c4dd0bc0ceb53dd388d6e19150d6.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表2 精度要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2 精度要求",
+    "table_body": "<table><tr><td>项目</td><td>偏差</td><td>备注</td></tr><tr><td>吊线锤的位置尺寸M</td><td rowspan=\"2\">—</td><td>现场根据实际情况选取,不小于3000</td></tr><tr><td>N</td><td>根据M值计算得出,由工艺人员提供</td></tr><tr><td>K</td><td>≤M/1000</td><td rowspan=\"2\">—</td></tr><tr><td>X</td><td>≤M/2000</td></tr></table>",
+    "table_img_path": "images/89c490eae110846f6510c4187afaee179db8852c968c0cf397112039365bd5c8.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 局部平面度要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 局部平面度要求",
+    "table_body": "<table><tr><td colspan=\"2\">项目</td><td>标准范围a≤</td><td>允许极限a≤</td><td>图示</td></tr><tr><td rowspan=\"2\">外板</td><td>平行肿体(船外侧、船体板)</td><td>4</td><td>6</td><td rowspan=\"20\">a为每一肋距平面度</td></tr><tr><td>前后弯曲部分</td><td>5</td><td>7</td></tr><tr><td>双层底</td><td>内底板</td><td>4</td><td>6</td></tr><tr><td colspan=\"2\">舱壁</td><td>5</td><td rowspan=\"2\">8</td></tr><tr><td colspan=\"2\">舱顶板</td><td rowspan=\"2\">4</td></tr><tr><td rowspan=\"3\">上甲板</td><td>平行肿体(含纵、横结构)</td><td>6</td></tr><tr><td>前后部位</td><td>6</td><td>8</td></tr><tr><td>非暴露部位</td><td>7</td><td>9</td></tr><tr><td rowspan=\"2\">第二甲板</td><td>暴露部位</td><td>6</td><td>8</td></tr><tr><td>非暴露部位</td><td>7</td><td>9</td></tr><tr><td>艏楼甲板</td><td>暴露部位</td><td>4</td><td>8</td></tr><tr><td>艉楼甲板</td><td>非暴露部位</td><td>6</td><td>9</td></tr><tr><td rowspan=\"2\">上层建筑甲板</td><td>暴露部位</td><td>4</td><td>6</td></tr><tr><td>非暴露部位</td><td>7</td><td>9</td></tr><tr><td colspan=\"2\">平台</td><td>5</td><td>7</td></tr><tr><td rowspan=\"3\">围壁</td><td>外围壁</td><td>4</td><td>6</td></tr><tr><td>内围壁</td><td>6</td><td>8</td></tr><tr><td>两面非暴露部位</td><td>7</td><td>9</td></tr><tr><td colspan=\"2\">内部构件(纵桁、强横梁的腹板等)</td><td rowspan=\"2\">5</td><td>7</td></tr><tr><td colspan=\"2\">双层底的肋板和纵桁</td><td>8</td></tr></table>",
+    "table_img_path": "images/cf3f1d03bde0055f99ff3a245bbcd815a0f4d43b43027a2656b6b3bd0c25ae83.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表2 整体平面度要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2 整体平面度要求",
+    "table_body": "<table><tr><td colspan=\"2\">项目</td><td>标准范围</td><td>允许极限</td><td>备注</td></tr><tr><td rowspan=\"2\">外板</td><td>平行肿体</td><td>±2 (l/1000)</td><td>±3 (l/1000)</td><td rowspan=\"2\">(+)</td></tr><tr><td>前后部分</td><td rowspan=\"2\">±3 (l/1000)</td><td rowspan=\"2\">±4 (l/1000)</td></tr><tr><td colspan=\"2\">甲板、平台、内底板</td><td rowspan=\"2\">(-)</td></tr><tr><td colspan=\"2\">舱壁</td><td>±4 (l/1000)</td><td>±5 (l/1000)</td></tr><tr><td rowspan=\"2\">上层建筑甲板</td><td>甲板</td><td>±3 (l/1000)</td><td>±4 (l/1000)</td><td rowspan=\"3\">l-检测距离的数值b-整体平面度平面度的检测方法:一个强框架间距,最小的检测长度为3m,但对舱壁、外壁的检测距离约为5m</td></tr><tr><td>外壁</td><td>±2 (l/1000)</td><td>±3 (l/1000)</td></tr><tr><td colspan=\"2\">其他</td><td>±5 (l/1000)</td><td>±6 (l/1000)</td></tr></table>",
+    "table_img_path": "images/7d0f2270588fe3099134612d637895f2e55f4ec7711176698d16785e99d2ccd1.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 普通焊接方式参数表",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 普通焊接方式参数表",
+    "table_body": "<table><tr><td>焊接方法</td><td>焊接位置</td><td>焊道</td><td>规格mm</td><td>焊接电流A</td><td>电弧电压V</td><td>气体流量L/min</td></tr><tr><td rowspan=\"6\">CO2气体保护焊(实芯焊丝)</td><td rowspan=\"2\">平(横)角焊</td><td>打底</td><td rowspan=\"6\">Φ1.2</td><td>150~220</td><td>20~24</td><td rowspan=\"6\">15~20</td></tr><tr><td>填充、盖面</td><td>150~240</td><td>20~26</td></tr><tr><td rowspan=\"2\">立角焊</td><td>打底</td><td rowspan=\"4\">150~200</td><td rowspan=\"4\">21~25</td></tr><tr><td>填充、盖面</td></tr><tr><td rowspan=\"2\">仰角焊</td><td>打底</td></tr><tr><td>填充、盖面</td></tr><tr><td rowspan=\"6\">手工电弧焊</td><td rowspan=\"2\">平(横)角焊</td><td rowspan=\"6\">打底、填充、盖面</td><td>Φ3.2</td><td>90~120</td><td>-</td><td>-</td></tr><tr><td>Φ4.0</td><td>120~160</td><td>-</td><td>-</td></tr><tr><td rowspan=\"2\">立角焊</td><td>Φ3.2</td><td>90~110</td><td>-</td><td>-</td></tr><tr><td>Φ4.0</td><td>120~160</td><td>-</td><td>-</td></tr><tr><td rowspan=\"2\">仰角焊</td><td>Φ3.2</td><td>90~120</td><td>-</td><td>-</td></tr><tr><td>Φ4.0</td><td>120~160</td><td>-</td><td>-</td></tr><tr><td rowspan=\"12\">CO2气体保护焊(药芯焊丝)</td><td rowspan=\"2\">平(横)角焊</td><td>打底</td><td rowspan=\"12\">Φ1.2</td><td>180~260</td><td rowspan=\"2\">24~29</td><td rowspan=\"12\">15~20</td></tr><tr><td>填充、盖面</td><td>200~280</td></tr><tr><td rowspan=\"2\">立角焊</td><td>打底</td><td>150~200</td><td rowspan=\"4\">21~25</td></tr><tr><td>填充、盖面</td><td>160~220</td></tr><tr><td rowspan=\"2\">仰角焊</td><td>打底</td><td>150~200</td></tr><tr><td>填充、盖面</td><td>160~220</td></tr><tr><td rowspan=\"6\">平对接</td><td>打底</td><td>170~190</td><td>23~27</td></tr><tr><td>填充、盖面</td><td>200~280</td><td>25~30</td></tr><tr><td>打底</td><td>170~190</td><td>23~26</td></tr><tr><td>填充、盖面</td><td>160~220</td><td>24~27</td></tr><tr><td>打底</td><td>150~180</td><td>21~25</td></tr><tr><td>填充、盖面</td><td>170~200</td><td>23~26</td></tr></table>",
+    "table_img_path": "images/5a820c6cc12fb9c3d55839317f0786abb8ca39d42aff587d7a3f7fb1843e6b00.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表2 不锈钢焊接方式参数表",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2 不锈钢焊接方式参数表",
+    "table_body": "<table><tr><td>焊接方法</td><td>焊接位置</td><td>焊道</td><td>规格mm</td><td>焊接电流A</td><td>电弧电压V</td><td>气体流量L/min</td></tr><tr><td rowspan=\"6\">手工电弧焊</td><td rowspan=\"2\">平(横)角焊</td><td rowspan=\"6\">打底、填充、盖面</td><td rowspan=\"6\">Φ3.2</td><td rowspan=\"2\">90~120</td><td>18~25</td><td>-</td></tr><tr><td>22~27</td><td>-</td></tr><tr><td rowspan=\"2\">立角焊</td><td>80~110</td><td>21~26</td><td>-</td></tr><tr><td>70~110</td><td>19~26</td><td>-</td></tr><tr><td rowspan=\"2\">仰角焊</td><td rowspan=\"2\">90~120</td><td>18~25</td><td>-</td></tr><tr><td>22~27</td><td>-</td></tr></table>",
+    "table_img_path": "images/59014fd8df1a8ce24d70afb9918d5739284760f7f279e8a1326de78ef6f13d93.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 常用临时加强材的型式和规格",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 常用临时加强材的型式和规格",
+    "table_body": "<table><tr><td>型式</td><td>加强材规格</td><td>码板规格</td><td>主要用途</td><td>备注</td></tr><tr><td rowspan=\"2\">三角板</td><td>250×250×16</td><td rowspan=\"7\">-</td><td rowspan=\"7\">主要作为吊码反面加强材,用于提高吊装结构强度</td><td rowspan=\"2\">标准件</td></tr><tr><td>200×200×16</td></tr><tr><td rowspan=\"5\">扁钢</td><td>L×250×16</td><td rowspan=\"4\">标准件,长度L根据实际需求选取,高度方向根据型材规格选取合适的标准件</td></tr><tr><td>L×200×16</td></tr><tr><td>L×150×16</td></tr><tr><td>L×100×16</td></tr><tr><td>L×150×t1</td><td>利用余料,板厚t1取16~20</td></tr><tr><td>槽钢</td><td>[20b]</td><td rowspan=\"3\">单槽及角钢:260×270×(12~16)双槽:150×150×(12~16)</td><td rowspan=\"3\">保型、支撑加强</td><td>基于加强,可2个槽钢组成矩形</td></tr><tr><td rowspan=\"2\">角钢</td><td>『100×100×10</td><td>外购成品</td></tr><tr><td>『150×150×t2</td><td>利用余料自轧,板厚t2取10~16</td></tr><tr><td rowspan=\"2\">圆管</td><td>Φ168×10</td><td>250×250×(12~16)</td><td rowspan=\"2\">保型、支撑加强分段运输加强</td><td rowspan=\"2\">-</td></tr><tr><td>Φ351×10</td><td>500×500×(12~16)</td></tr><tr><td colspan=\"5\">注:临时加强材一般选用Q235及以上规格钢材,表中厚度t为最低要求,其它满足强度要求的钢材也可替代使用。</td></tr></table>",
+    "table_img_path": "images/c7d962d8077b3ffb9ba953b7c544697686350cfb53020abd14b9ef5ed987ea35.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 常用吊码型式",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 常用吊码型式",
+    "table_body": "<table><tr><td>型式</td><td>规格</td><td>材质</td><td>设计载荷t</td><td>主要适用区域</td></tr><tr><td rowspan=\"6\">A</td><td>A5</td><td rowspan=\"3\">A</td><td>5</td><td rowspan=\"3\">除客滚船车库、上建以外的所有区域</td></tr><tr><td>A10</td><td>10</td></tr><tr><td>A20</td><td>20</td></tr><tr><td>A5B</td><td rowspan=\"3\">AH36</td><td>5</td><td rowspan=\"3\">客滚船车库、上建区域</td></tr><tr><td>A10B</td><td>10</td></tr><tr><td>A20B</td><td>20</td></tr><tr><td rowspan=\"3\">ZA</td><td>ZA30</td><td rowspan=\"3\">A</td><td>30</td><td rowspan=\"3\">除客滚船车库、上建以外的所有区域</td></tr><tr><td>ZA40</td><td>40</td></tr><tr><td>ZA50</td><td>50</td></tr></table>",
+    "table_img_path": "images/1f0b37381d6f3a671a6e69af1821c5c745743d717b1071eec9ebbcd02c18ef7c.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 常用吊码型式（续）",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 常用吊码型式（续）",
+    "table_body": "<table><tr><td>型式</td><td>规格</td><td>材质</td><td>设计载荷t</td><td>主要适用区域</td></tr><tr><td rowspan=\"2\">C</td><td>C30</td><td rowspan=\"7\">A</td><td>30</td><td rowspan=\"2\">除客滚船车库、上建以外的所有区域</td></tr><tr><td>C40</td><td>40</td></tr><tr><td rowspan=\"8\">CP</td><td>CP3</td><td>3</td><td>片体、组件、部件使用</td></tr><tr><td>CP5</td><td>5</td><td rowspan=\"4\">除客滚船车库、上建以外的所有区域</td></tr><tr><td>CP10</td><td>10</td></tr><tr><td>CP15</td><td>15</td></tr><tr><td>CP20</td><td>20</td></tr><tr><td>CP5B</td><td rowspan=\"3\">AH36</td><td>5</td><td rowspan=\"3\">客滚船车库、上建区域</td></tr><tr><td>CP10B</td><td>10</td></tr><tr><td>CP15B</td><td>15</td></tr><tr><td rowspan=\"5\">D</td><td>D10</td><td rowspan=\"9\">A</td><td>10</td><td rowspan=\"5\">仅限于安装面板厚大于8mm区域使用</td></tr><tr><td>D20</td><td>20</td></tr><tr><td>D30</td><td>30</td></tr><tr><td>D40</td><td>40</td></tr><tr><td>D50</td><td>50</td></tr><tr><td rowspan=\"4\">E</td><td>E20</td><td>20</td><td rowspan=\"4\">吊码需要伸出板边或平台时使用仅限于安装面板厚大于8mm区域使用</td></tr><tr><td>E25</td><td>25</td></tr><tr><td>E30</td><td>30</td></tr><tr><td>E40</td><td>40</td></tr><tr><td rowspan=\"5\">N</td><td>N10-600/700/800/900</td><td rowspan=\"5\">AH36</td><td>10</td><td rowspan=\"5\">所有区域</td></tr><tr><td>N20-600/700/800/900</td><td>20</td></tr><tr><td>N25-600/700/800/900</td><td>25</td></tr><tr><td>N30-600/700/800/900</td><td>30</td></tr><tr><td>N40-600/700/800/900</td><td>40</td></tr><tr><td rowspan=\"3\">M</td><td>M10</td><td rowspan=\"3\">腹板的屈服强度不低于开孔母板结构的屈服强度。</td><td>10</td><td rowspan=\"3\">结构一体化吊码,设在型材或非水密板材上</td></tr><tr><td>M20</td><td>20</td></tr><tr><td>M30</td><td>30</td></tr><tr><td rowspan=\"3\">BJA</td><td>BJA3</td><td rowspan=\"3\">A</td><td>3</td><td rowspan=\"3\">常用于片体、组件、部件</td></tr><tr><td>BJA5</td><td>5</td></tr><tr><td>BJA10</td><td>10</td></tr><tr><td>FSA</td><td>FSA20</td><td>AH36</td><td>20</td><td>客滚船上建分段翻身工装专用吊码</td></tr></table>",
+    "table_img_path": "images/dcfb2be570307aa3c21e275962a5217f30c15e1f48e881e09bc652b69cb7eb0d.jpg",
+    "parent_table": "表1 常用吊码型式"
+  },
+  {
+    "entity_name": "表2 A 型吊码的基本尺寸",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2 A 型吊码的基本尺寸",
+    "table_body": "<table><tr><td>规格</td><td>a</td><td>b</td><td>H</td><td>B</td><td>t1</td><td>t3</td><td>R1</td><td>R3</td><td>K1</td><td>K2</td><td>H/min</td><td>材质</td><td>重量kg</td></tr><tr><td>A5</td><td>140</td><td>40</td><td>155</td><td rowspan=\"2\">150</td><td>16</td><td>10</td><td>70</td><td rowspan=\"2\">32</td><td>8(P.P)</td><td>8</td><td>75</td><td rowspan=\"3\">A</td><td>5.5</td></tr><tr><td>A10</td><td>180</td><td>50</td><td>165</td><td>20</td><td>12</td><td>90</td><td>10(P.P)</td><td>10</td><td>85</td><td>8.9</td></tr><tr><td>A20</td><td>240</td><td>55</td><td>180</td><td>200</td><td>25</td><td>14</td><td>120</td><td>35</td><td>12(P.P)</td><td>12</td><td>100</td><td>16.7</td></tr><tr><td>A5B</td><td>140</td><td>40</td><td>155</td><td rowspan=\"2\">150</td><td>11</td><td>7</td><td>70</td><td rowspan=\"2\">32</td><td>6</td><td>6</td><td rowspan=\"2\">85</td><td rowspan=\"3\">AH36</td><td>3.8</td></tr><tr><td>A10B</td><td>180</td><td>50</td><td>165</td><td>14</td><td>9</td><td>90</td><td>10</td><td>7</td><td>6.4</td></tr><tr><td>A20B</td><td>240</td><td>55</td><td>180</td><td>200</td><td>18</td><td>10</td><td>120</td><td>35</td><td>9(P.P)</td><td>8</td><td>90</td><td>12</td></tr><tr><td colspan=\"14\">注:A5B、A10B型不需要开坡口</td></tr></table>",
+    "table_img_path": "images/28e1884262ee477441f47519337b668e168106445fd195b363fe46446b50185f.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表3 ZA型吊码的基本尺寸",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表3 ZA型吊码的基本尺寸",
+    "table_body": "<table><tr><td>规格</td><td>a</td><td>b</td><td>c</td><td>d</td><td>e</td><td>f</td><td>g</td><td>t1</td><td>t2</td><td>t3</td><td>R1</td><td>R2</td><td>R3</td><td>k1</td><td>k2</td><td>k3</td><td>材质</td><td>重量kg</td><td>要求</td></tr><tr><td>ZA30</td><td>450</td><td rowspan=\"3\">185</td><td rowspan=\"3\">120</td><td rowspan=\"3\">30</td><td rowspan=\"3\">205</td><td rowspan=\"3\">120</td><td rowspan=\"3\">120</td><td>22</td><td rowspan=\"3\">20</td><td rowspan=\"3\">15</td><td>125</td><td>90</td><td rowspan=\"3\">45</td><td>9(P.P)</td><td rowspan=\"3\">13</td><td rowspan=\"3\">10</td><td rowspan=\"3\">A</td><td>25.8</td><td rowspan=\"3\">双面安装复板</td></tr><tr><td>ZA40</td><td>510</td><td>24</td><td>145</td><td>100</td><td>10(P.P)</td><td>29.1</td></tr><tr><td>ZA50</td><td>620</td><td>26</td><td>165</td><td>115</td><td>11(P.P)</td><td>46.2</td></tr></table>",
+    "table_img_path": "images/4a06184c7f7bfd91170f2b1d74d15dd661a1cec4174e27ad929538b38cbb9db9.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表4 C 型吊码的基本尺寸",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表4 C 型吊码的基本尺寸",
+    "table_body": "<table><tr><td>规格</td><td>a</td><td>b</td><td>t1</td><td>t2</td><td>R1</td><td>R2</td><td>R3</td><td>k1</td><td>k2</td><td>k3</td><td>材质</td><td>重量kg</td><td>要求</td></tr><tr><td>C30</td><td>430</td><td rowspan=\"2\">250</td><td rowspan=\"2\">26</td><td>20</td><td>145</td><td>110</td><td rowspan=\"2\">45</td><td>13</td><td>13</td><td rowspan=\"2\">11.5</td><td rowspan=\"2\">A</td><td>49.3</td><td rowspan=\"2\">单面安装复板</td></tr><tr><td>C40</td><td>510</td><td>22</td><td>165</td><td>130</td><td>14</td><td>14</td><td>71</td></tr></table>",
+    "table_img_path": "images/79e206460e126e1ab5bfb508911293f39ee2eb32d7a70d162a8903e8c2807413.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表5 CP 型吊码的基本尺寸",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表5 CP 型吊码的基本尺寸",
+    "table_body": "<table><tr><td>规格</td><td>L</td><td>B</td><td>R1</td><td>R3</td><td>l</td><td>t</td><td>k</td><td>材质</td><td>重量kg</td></tr><tr><td>CP3</td><td>155</td><td>110</td><td>55</td><td>20</td><td>40</td><td>16</td><td rowspan=\"2\">6</td><td rowspan=\"5\">A</td><td>2.6</td></tr><tr><td>CP5</td><td>250</td><td>180</td><td>90</td><td rowspan=\"2\">32</td><td rowspan=\"2\">60</td><td>12~16</td><td>8.6</td></tr><tr><td>CP10</td><td>280</td><td>200</td><td>100</td><td>17~23</td><td>10</td><td>10.8</td></tr><tr><td>CP15</td><td>300</td><td>230</td><td>115</td><td rowspan=\"2\">40</td><td rowspan=\"2\">80</td><td>23~25</td><td rowspan=\"2\">15</td><td>16.0</td></tr><tr><td>CP20</td><td>375</td><td>250</td><td>125</td><td>28~30</td><td>25.8</td></tr><tr><td>CP5B</td><td>250</td><td>180</td><td>90</td><td rowspan=\"2\">32</td><td rowspan=\"2\">60</td><td>12</td><td>6</td><td rowspan=\"3\">AH36</td><td>6.1</td></tr><tr><td>CP10B</td><td>280</td><td>200</td><td>100</td><td>14</td><td>7</td><td>8.9</td></tr><tr><td>CP15B</td><td>300</td><td>230</td><td>115</td><td>40</td><td>80</td><td>18</td><td>9</td><td>12.5</td></tr></table>",
+    "table_img_path": "images/4a713cadcd12f24ef9994e617519c1d8ca7132e202725a3ab5c856ee8b879a9c.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表6 D 型吊码的基本尺寸",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表6 D 型吊码的基本尺寸",
+    "table_body": "<table><tr><td>规格</td><td>a</td><td>b</td><td>c</td><td>d</td><td>e</td><td>f</td><td>g</td><td>h</td><td>t1</td><td>t2</td><td>t3</td><td>R1</td><td>R2</td><td>R3</td><td>k1</td><td>k2</td><td>k3</td><td>重量kg</td><td>材质</td><td>要求</td></tr><tr><td>D10</td><td>300</td><td>60</td><td>330</td><td>135</td><td>85</td><td rowspan=\"3\">65</td><td>105</td><td>94</td><td rowspan=\"2\">22</td><td>-</td><td rowspan=\"2\">16</td><td>100</td><td>-</td><td>32.5</td><td rowspan=\"2\">9 (P.P)</td><td>7</td><td>10</td><td>29.8</td><td rowspan=\"5\">A</td><td>无复板</td></tr><tr><td>D20</td><td>350</td><td>70</td><td>380</td><td>145</td><td>100</td><td rowspan=\"4\">120</td><td>100</td><td>10</td><td>125</td><td>90</td><td>40</td><td>9</td><td rowspan=\"4\">12</td><td>45.2</td><td rowspan=\"4\">双面安装复板</td></tr><tr><td>D30</td><td>400</td><td rowspan=\"2\">80</td><td>420</td><td>169</td><td rowspan=\"3\">120</td><td>105</td><td rowspan=\"2\">26</td><td>14</td><td rowspan=\"3\">20</td><td>145</td><td>110</td><td rowspan=\"3\">45</td><td>11 (P.P)</td><td rowspan=\"3\">11</td><td>72.4</td></tr><tr><td>D40</td><td>450</td><td>460</td><td>176</td><td rowspan=\"2\">70</td><td>116</td><td rowspan=\"2\">16</td><td>165</td><td>130</td><td>12 (P.P)</td><td>89.8</td></tr><tr><td>D50</td><td>500</td><td>90</td><td>500</td><td>175</td><td>111</td><td>30</td><td>185</td><td>150</td><td>13 (P.P)</td><td>118.5</td></tr></table>",
+    "table_img_path": "images/15d4560352f4895a110489e4b1da6f87b679777bc8e9a14654724242974dbe52.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表7 E 型吊码的基本尺寸",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表7 E 型吊码的基本尺寸",
+    "table_body": "<table><tr><td>规格</td><td>a</td><td>t1</td><td>t2</td><td>t3</td><td>t4</td><td>R1</td><td>R2</td><td>R3</td><td>k1</td><td>k2</td><td>k3</td><td>要求</td></tr><tr><td>E20</td><td>450</td><td>20</td><td rowspan=\"2\">12</td><td>12</td><td>18</td><td>125</td><td>90</td><td rowspan=\"4\">45</td><td>8(P.P)</td><td>7</td><td>8(P.P)</td><td rowspan=\"4\">双面安装复板</td></tr><tr><td>E25</td><td rowspan=\"2\">500</td><td>22</td><td>14</td><td>20</td><td>130</td><td>95</td><td>9(P.P)</td><td rowspan=\"2\">8.5</td><td>9(P.P)</td></tr><tr><td>E30</td><td>24</td><td rowspan=\"2\">14</td><td>16</td><td>24</td><td>145</td><td>110</td><td>10(P.P)</td><td>10(P.P)</td></tr><tr><td>E40</td><td>600</td><td>26</td><td>18</td><td>24</td><td>165</td><td>130</td><td>11(P.P)</td><td>10</td><td>11(P.P)</td></tr></table>",
+    "table_img_path": "images/c385fddaf1e025a8d4bdbacb4b6879cea99c22ce8921c633e4ea849263e45933.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表8 N 型吊码基本尺寸",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表8 N 型吊码基本尺寸",
+    "table_body": "<table><tr><td>规格</td><td>a</td><td>H</td><td>h</td><td>R3</td><td>t1</td><td>k1</td><td>材质</td><td>重量kg</td></tr><tr><td>N10-600</td><td rowspan=\"5\">600</td><td>160</td><td>90</td><td>25</td><td>12</td><td>6</td><td rowspan=\"20\">AH36</td><td>7.7</td></tr><tr><td>N20-600</td><td>190</td><td>110</td><td>30</td><td>19</td><td>8</td><td>13.6</td></tr><tr><td>N25-600</td><td>220</td><td>120</td><td>35</td><td>23</td><td>10</td><td>18.6</td></tr><tr><td>N30-600</td><td>230</td><td>130</td><td>40</td><td>26</td><td>12</td><td>21.6</td></tr><tr><td>N40-600</td><td>245</td><td>145</td><td>45</td><td>30</td><td>16</td><td>26</td></tr><tr><td>N10-700</td><td rowspan=\"5\">700</td><td>160</td><td>90</td><td>25</td><td>12</td><td>6</td><td>9</td></tr><tr><td>N20-700</td><td>190</td><td>110</td><td>30</td><td>19</td><td>8</td><td>15.8</td></tr><tr><td>N25-700</td><td>220</td><td>120</td><td>35</td><td>23</td><td>10</td><td>21.4</td></tr><tr><td>N30-700</td><td>230</td><td>130</td><td>40</td><td>26</td><td>12</td><td>25</td></tr><tr><td>N40-700</td><td>245</td><td>145</td><td>45</td><td>30</td><td>16</td><td>30.2</td></tr><tr><td>N10-800</td><td rowspan=\"5\">800</td><td>160</td><td>90</td><td>25</td><td>12</td><td>6</td><td>10.2</td></tr><tr><td>N20-800</td><td>190</td><td>110</td><td>30</td><td>19</td><td>8</td><td>18</td></tr><tr><td>N25-800</td><td>220</td><td>120</td><td>35</td><td>23</td><td>10</td><td>24.3</td></tr><tr><td>N30-800</td><td>230</td><td>130</td><td>40</td><td>26</td><td>12</td><td>28.3</td></tr><tr><td>N40-800</td><td>245</td><td>145</td><td>45</td><td>30</td><td>16</td><td>34.2</td></tr><tr><td>N10-900</td><td rowspan=\"5\">900</td><td>160</td><td>90</td><td>25</td><td>12</td><td>6</td><td>11.4</td></tr><tr><td>N20-900</td><td>190</td><td>110</td><td>30</td><td>19</td><td>8</td><td>20.1</td></tr><tr><td>N25-900</td><td>220</td><td>120</td><td>35</td><td>23</td><td>10</td><td>27.3</td></tr><tr><td>N30-900</td><td>230</td><td>130</td><td>40</td><td>26</td><td>12</td><td>31.7</td></tr><tr><td>N40-900</td><td>245</td><td>145</td><td>45</td><td>30</td><td>16</td><td>38.3</td></tr></table>",
+    "table_img_path": "images/efc7e74aacde1e56ff2d8393ccf60c6c3ca30bf3c353ba28d9aa14a69646a1df.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表9 M 型吊码的基本尺寸",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表9 M 型吊码的基本尺寸",
+    "table_body": "<table><tr><td>规格</td><td>D</td><td>d</td><td>t</td><td>φ</td><td>a</td><td>母(型)材板厚限定范围δ</td><td>k</td><td>重量kg</td></tr><tr><td>M10</td><td>150</td><td>80</td><td>12</td><td>60</td><td>125</td><td>8~24</td><td>8</td><td>0.53</td></tr><tr><td>M20</td><td rowspan=\"2\">240</td><td rowspan=\"2\">100</td><td>16</td><td rowspan=\"2\">80</td><td rowspan=\"2\">170</td><td>10~30</td><td rowspan=\"2\">11</td><td>3.52</td></tr><tr><td>M30</td><td>16(双面复板)</td><td>14~30</td><td>7.04</td></tr></table>",
+    "table_img_path": "images/39d8950316af40c7c900a78f0018e884edce3cc62394816d291d01387c29884e.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表10 BJA型吊码的基本尺寸",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表10 BJA型吊码的基本尺寸",
+    "table_body": "<table><tr><td>规格</td><td>t</td><td>H</td><td>B</td><td>R</td><td>r</td><td>F</td><td>h</td><td>k</td><td>重量\nkg</td><td>材质</td></tr><tr><td>BJA3</td><td>10~20</td><td>115</td><td>110</td><td>55</td><td>20</td><td>60</td><td>35</td><td rowspan=\"2\">7</td><td>0.8~1.6</td><td rowspan=\"3\">A</td></tr><tr><td>BJA5</td><td>12</td><td rowspan=\"2\">200</td><td rowspan=\"2\">180</td><td rowspan=\"2\">90</td><td rowspan=\"2\">30</td><td rowspan=\"2\">110</td><td rowspan=\"2\">60</td><td>2.8</td></tr><tr><td>BJA10</td><td>20</td><td>9</td><td>5.1</td></tr></table>",
+    "table_img_path": "images/d9d126056100f0f6d0e8b38e9d1cca779957b2c2802688e38fb8fcdf1518a1d9.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表11 FSA 型吊码的基本尺寸",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表11 FSA 型吊码的基本尺寸",
+    "table_body": "<table><tr><td>规格</td><td>t</td><td>H</td><td>B</td><td>R</td><td>r</td><td>F</td><td>h</td><td>k</td><td>重量\nkg</td><td>材质</td></tr><tr><td>FSA20</td><td>20</td><td>290</td><td>240</td><td>120</td><td>40</td><td>170</td><td>80</td><td>11(P.P)</td><td>9.2</td><td>AH36</td></tr></table>",
+    "table_img_path": "images/d965fb8a318d2e3060d13526f418d5a6d11e8974e18a76f0ba5c904d6423987f.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表12 焊接方法适用原则",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表12 焊接方法适用原则",
+    "table_body": "<table><tr><td>施工阶段</td><td>允许使用的焊接方法</td></tr><tr><td>吊码制作</td><td>实心焊丝CO2气体保护焊（GMAW）</td></tr><tr><td rowspan=\"3\">吊码安装</td><td>实心焊丝CO2气体保护焊（GMAW）</td></tr><tr><td>药芯焊丝CO2气体保护焊（FCAW）</td></tr><tr><td>手工焊条电弧焊（SMAW）</td></tr></table>",
+    "table_img_path": "images/265865ce7970e2587d75ad3d50c27ca5a54ecc0678b1910fc6d3485b220a4383.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1",
+    "table_body": "<table><tr><td>材料名称</td><td>材料型号</td><td>规格</td><td>适用钢材等级</td></tr><tr><td>焊 丝</td><td>H-14</td><td>4.0 mm</td><td rowspan=\"2\">A、B、D、AH32、AH36、DH32、DH36</td></tr><tr><td>焊 剂</td><td>S-707T</td><td>-</td></tr></table>",
+    "table_img_path": "images/7add11084da6a9ebcf5252b653d23fc371852b0f649350911dd303bddd97e681.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表 A.1",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表 A.1",
+    "table_body": "<table><tr><td>接头种类</td><td>板厚t, t1</td><td colspan=\"2\">坡口形状</td><td>坡口角度θ。</td><td>装配间隙g</td><td>钝边h</td></tr><tr><td rowspan=\"2\">同厚</td><td>10≤t≤20</td><td colspan=\"2\">t\ng</td><td>-</td><td rowspan=\"4\">0~2</td><td>-</td></tr><tr><td>20＜t≤56</td><td colspan=\"2\">θ\nh\ng</td><td>55~65</td><td>6~8</td></tr><tr><td rowspan=\"2\">不同厚a</td><td>t1-t≤3</td><td colspan=\"2\">θ\nt\nh\nH\nt1</td><td rowspan=\"2\">按以上薄板(t)的坡口</td><td>H=h+t1-t, h与同厚接头要求相同</td></tr><tr><td>t1-t&gt;3</td><td colspan=\"2\">θ\nt\nh\nH\na\nb\nt1</td><td>h与同厚接头要求相同</td></tr><tr><td colspan=\"7\">a 不同厚过渡削斜示意图以Y型坡口举例，I型坡口过渡削斜相同。</td></tr></table>",
+    "table_img_path": "images/96ee214df71a975ae41fe928d93887449e143413ec2a9850daa415fab702b37c.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表 A.2",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表 A.2",
+    "table_body": "<table><tr><td rowspan=\"2\">板厚mm</td><td rowspan=\"2\" colspan=\"2\">焊道布置</td><td rowspan=\"2\">电极名称</td><td colspan=\"3\">焊接条件</td></tr><tr><td>电流A</td><td>电压V</td><td>焊接速度cm/min</td></tr><tr><td rowspan=\"4\">14</td><td rowspan=\"16\">12</td><td rowspan=\"2\">1</td><td>L</td><td>600~650</td><td>36~38</td><td rowspan=\"18\">64~66</td></tr><tr><td>T</td><td>500~550</td><td rowspan=\"5\">38~40</td></tr><tr><td rowspan=\"2\">2</td><td>L</td><td>800~900</td></tr><tr><td>T</td><td>600~650</td></tr><tr><td rowspan=\"4\">15~16</td><td rowspan=\"2\">1</td><td>L</td><td>700~750</td></tr><tr><td>T</td><td>600~650</td></tr><tr><td rowspan=\"2\">2</td><td>L</td><td>900~1000</td><td>40~42</td></tr><tr><td>T</td><td>600~650</td><td rowspan=\"2\">38~40</td></tr><tr><td rowspan=\"4\">17~18</td><td rowspan=\"2\">1</td><td>L</td><td>750~800</td></tr><tr><td>T</td><td>600~650</td><td>42~44</td></tr><tr><td rowspan=\"2\">2</td><td>L</td><td>1000~1100</td><td>43~45</td></tr><tr><td>T</td><td>600~650</td><td>42~44</td></tr><tr><td rowspan=\"4\">19~20</td><td rowspan=\"2\">1</td><td>L</td><td>850~900</td><td>38~40</td></tr><tr><td>T</td><td>600~650</td><td>42~44</td></tr><tr><td rowspan=\"2\">2</td><td>L</td><td>1000~1100</td><td>43~45</td></tr><tr><td>T</td><td>600~650</td><td>39~41</td></tr><tr><td rowspan=\"6\">&gt;20</td><td rowspan=\"6\">11n+1</td><td rowspan=\"2\">1</td><td>L</td><td>700~750</td><td>38~40</td></tr><tr><td>T</td><td>600~650</td><td>39~41</td></tr><tr><td rowspan=\"2\">n</td><td>L</td><td>900~1000</td><td rowspan=\"4\">40~42</td><td rowspan=\"2\">50~55</td></tr><tr><td>T</td><td>600~650</td></tr><tr><td rowspan=\"2\">n+1</td><td>L</td><td>950~1000</td><td rowspan=\"2\">64~66</td></tr><tr><td>T</td><td>650~700</td></tr><tr><td colspan=\"7\">当正面达不到焊接电流条件时,背面需进行碳刨扣槽,一般深度为5mm左右,焊接时仍按照板厚所需焊接参数进行。当不同厚度的板拼接时,背面焊接按较厚板的焊接参数进行;如果较厚板超过20mm,则需进行碳刨,深度为薄板侧往下5mm。</td></tr></table>",
+    "table_img_path": "images/58ea5bc3a4aafb774406825f87a3957e89862790ce8949a27ea0114c3e5ccf8d.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 低氢、非低氢、不锈钢焊条焙烘与保温要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 低氢、非低氢、不锈钢焊条焙烘与保温要求",
+    "table_body": "<table><tr><td>类型</td><td>焙烘温度℃</td><td>焙烘时间h</td><td>保温温度℃</td><td>备注</td></tr><tr><td>低氢型</td><td>350~400</td><td>1~2</td><td>100~150</td><td>-</td></tr><tr><td>非低氢型</td><td>100~150</td><td>0.5~1</td><td>-</td><td>适用于焊条受潮后</td></tr><tr><td>不锈钢焊条</td><td>300~350</td><td>1~2</td><td>100~150</td><td>-</td></tr></table>",
+    "table_img_path": "images/76370fd52f6ab0d03eae578c05a8b3e301057110583a4a23366b7a6a80ea5519.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表2 埋弧焊剂烘培与保温要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2 埋弧焊剂烘培与保温要求",
+    "table_body": "<table><tr><td>分类</td><td>焙烘温度 ℃</td><td>焙烘时间 h</td><td>保温温度 ℃</td></tr><tr><td>烧结型</td><td>350~400</td><td>1~2</td><td>100~150</td></tr></table>",
+    "table_img_path": "images/782fa8ef11729887242b50d51234747908e7dd23b4460d2bb06f7dcc140f9916.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 焊接材料",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 焊接材料",
+    "table_body": "<table><tr><td>焊接方法</td><td>焊接材料和型号</td><td>适用钢材牌号</td></tr><tr><td rowspan=\"2\">手工电弧焊</td><td>GB E5003a</td><td>A、B、D、AH32、AH36、DH32、DH36</td></tr><tr><td>AWS E7018-1</td><td rowspan=\"3\">A、B、D、E、AH32、AH36、DH32、DH36、EH32、EH36、船用碳锰钢铸钢件</td></tr><tr><td rowspan=\"2\">CO2气体保护焊</td><td>AWS E71T-1C</td></tr><tr><td>AWS ER70S-6</td></tr><tr><td colspan=\"3\">a对于高强度钢焊缝返修,其钢板厚度不大于30mm,且碳当量不高于0.41%。</td></tr></table>",
+    "table_img_path": "images/30ae4c29e984ff869c5187acd5c5c2a6f09933cdd50796a038b6c22dd8b329fd.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表A.1 焊缝缺陷的修补方法",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表A.1 焊缝缺陷的修补方法",
+    "table_body": "<table><tr><td>序号</td><td>缺陷名称</td><td>缺陷特征</td><td>修补方法</td></tr><tr><td>1</td><td>焊缝尺寸偏差</td><td>焊缝宽度不均的、焊缝余高超差、焊缝波形粗劣、角焊缝焊脚不等边等</td><td>根据具体情况采用打磨或碳刨去除缺陷,必要时进行补焊</td></tr><tr><td>2</td><td>咬边</td><td>沿焊趾的母材部分产生凹陷</td><td>补焊</td></tr><tr><td>3</td><td>焊瘤</td><td>熔合金属流淌到未熔合的母材表面,彼此未熔合</td><td>打磨或碳刨去除缺陷,必要时进行补焊</td></tr><tr><td>4</td><td>烧穿</td><td>熔合金属从背面流出形成穿孔性的缺陷</td><td>先在一面进行补焊,然后另一面碳刨、打磨清除缺陷后进行封底补焊</td></tr><tr><td>5</td><td>气孔</td><td>焊接时,气泡在熔池凝固前未逸出熔池而残留在焊缝中或焊缝表面所形成的孔穴</td><td rowspan=\"5\">碳刨、打磨去除缺陷,然后补焊</td></tr><tr><td>6</td><td>夹渣</td><td>留在焊缝中的固体残渣</td></tr><tr><td>7</td><td>裂纹</td><td>焊缝表面或内部存在的缝隙</td></tr><tr><td>8</td><td>未焊透</td><td>焊缝根部未完全熔透</td></tr><tr><td>9</td><td>未熔合</td><td>焊道与母材、焊道与焊道之间未完全熔合</td></tr><tr><td>10</td><td>弧坑</td><td>焊缝端部的凹坑</td><td>补焊</td></tr><tr><td>11</td><td>飞溅</td><td>焊缝或母材表面存在颗粒性的熔敷金属</td><td>打磨去除</td></tr></table>",
+    "table_img_path": "images/7e6563b573cc2673dab0f98301586d4a37307d47af54a6901976a8a6eff8128e.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表 1 典型缓焊区设计长度",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表 1 典型缓焊区设计长度",
+    "table_body": "<table><tr><td>船型、分段类型</td><td>图示</td><td>说明</td></tr><tr><td rowspan=\"4\">货船、半潜船等同类型船舶货船及压载舱区域,分段名称首字母:D,BG,S,U,L,Y,T等;军品、客滚船、科考船等同类型船舶所有分段。</td><td>200</td><td>纵向构件如纵桁、平台,所带加强材需要与其它段连接时。</td></tr><tr><td>200</td><td>横向结构如肋板、壁板,所带加强材需要与其它段连接时。</td></tr><tr><td>200</td><td>内板、外底板、内壳板、甲板、平台板等所带纵向或横向结构如纵骨、纵桁、肋板、横梁需要与其它段连接时。</td></tr><tr><td>200</td><td>壁墩与纵横舱壁、底部段与纵横舱壁、壁墩与底部段等总组或预搭载时所形成的角焊缝。</td></tr><tr><td>货船、半潜船等类型船舶,货舱或压载舱以外类型分段</td><td>300</td><td>-</td></tr></table>",
+    "table_img_path": "images/ba6b1d13635cba7d45447b68f2e5a97b850526c6698526e409928275116446cf.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 埋弧焊设备要求和适用板厚",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 埋弧焊设备要求和适用板厚",
+    "table_body": "<table><tr><td>适用板厚</td><td>单丝埋弧焊设备额定电流和暂载率\nA</td><td>电流类型</td></tr><tr><td>4~6.5</td><td>≥630（100%暂载率）</td><td rowspan=\"3\">DCEP</td></tr><tr><td>7~14</td><td>≥1250（100%暂载率）</td></tr><tr><td>15~25</td><td>≥1600（100%暂载率）</td></tr></table>",
+    "table_img_path": "images/70ecf3697ac6c76b849f54da97ecd7a705cab4655aeef0f13e0c0ac91d5fd21d.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表2 定位焊要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2 定位焊要求",
+    "table_body": "<table><tr><td>板厚</td><td>定位焊长度L</td><td>定位焊间距L1</td><td>定位焊高度要求</td><td>图示</td><td>备注</td></tr><tr><td>&lt;7</td><td>15~20</td><td>100~150</td><td>定位焊高度要求≤1.5</td><td rowspan=\"2\">L\nL1\nL</td><td>采用密点焊法</td></tr><tr><td>≥7</td><td>普通钢≥30高强钢≥50</td><td>250~350</td><td>定位焊高度要求≤5</td><td>-</td></tr></table>",
+    "table_img_path": "images/a19e65d519fc6871b493d16bcce644e179dadba8b23e44c00b1224d91ec7c58a.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表A.1 FAB 埋弧焊焊接材料组合形式",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表A.1 FAB 埋弧焊焊接材料组合形式",
+    "table_body": "<table><tr><td rowspan=\"2\">焊接材料组合形式</td><td colspan=\"4\">焊接材料</td><td colspan=\"2\">适用钢板级别与板厚</td><td rowspan=\"2\">备注</td></tr><tr><td>名称</td><td>牌号</td><td>规格</td><td>认可等级</td><td>等级</td><td>板厚</td></tr><tr><td rowspan=\"4\">组合1</td><td>焊丝</td><td>H-14</td><td>Φ4.8、Φ4.0</td><td rowspan=\"8\">2Y</td><td rowspan=\"8\">A、AH32、AH36</td><td rowspan=\"4\">10~25</td><td rowspan=\"8\">—</td></tr><tr><td>焊剂</td><td>S-705EF</td><td>—</td></tr><tr><td>坡口填充物</td><td>CW</td><td>Φ1.0</td></tr><tr><td>衬垫</td><td>CBM-G22</td><td>—</td></tr><tr><td rowspan=\"4\">组合2</td><td>焊丝</td><td>H-14</td><td>Φ4.8、Φ4.0</td><td rowspan=\"4\">7~25</td></tr><tr><td>焊剂</td><td>S-705EF</td><td rowspan=\"3\">—</td></tr><tr><td>坡口填充物</td><td>IRN</td></tr><tr><td>衬垫</td><td>CBM-G22</td></tr><tr><td rowspan=\"4\">组合3</td><td>焊丝</td><td>H-14</td><td>Φ3.2、Φ2.5</td><td rowspan=\"7\">3Y</td><td rowspan=\"7\">A、AH36</td><td rowspan=\"7\">4~6.5</td><td rowspan=\"4\">适用于装配间隙2~5的自然坡口</td></tr><tr><td>焊剂</td><td>S-707T</td><td rowspan=\"3\">—</td></tr><tr><td>坡口填充物</td><td>IRN</td></tr><tr><td>衬垫</td><td>CBM-G22</td></tr><tr><td rowspan=\"3\">组合4</td><td>焊丝</td><td>H-14</td><td>Φ3.2、Φ2.5</td><td rowspan=\"3\">适用于装配间隙0~1的自然坡口</td></tr><tr><td>焊剂</td><td>S-707T</td><td rowspan=\"2\">—</td></tr><tr><td>衬垫</td><td>CBM-G22</td></tr><tr><td colspan=\"8\">注:包括但不局限于以上认可的组合形式。</td></tr></table>",
+    "table_img_path": "images/90755984af60802bcdc64b87ebc77d5a0dbfba4f6d2b7bcf85ead34b558c33dc.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表B.1 FAB 埋弧焊坡口形式、尺寸和装配要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表B.1 FAB 埋弧焊坡口形式、尺寸和装配要求",
+    "table_body": "<table><tr><td>板厚t</td><td>坡口形状</td><td>坡口角度θ°</td><td>装配间隙g</td><td>板厚差h</td></tr><tr><td>4~6.5</td><td>t g</td><td>-</td><td rowspan=\"2\">0~3(最大5)</td><td>板厚差或错边量≤0.5</td></tr><tr><td>7~25</td><td>t g</td><td>45+5-5</td><td>错边或板厚差在坡口背面时,错边量或板厚差≤1</td></tr></table>",
+    "table_img_path": "images/a45ebf4e668b74ef14c0a0464e01055bb7305ac8ff7fe72b6057e3f0a0960597.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表C.1 引、熄弧板和拘束焊要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表C.1 引、熄弧板和拘束焊要求",
+    "table_body": "<table><tr><td>内容</td><td colspan=\"2\">图示</td></tr><tr><td>引、熄弧板尺寸</td><td>200A200A</td><td>30°A-A</td></tr><tr><td>引弧板装配要求与引弧端拘束焊要求</td><td colspan=\"2\">50引弧板150拘束焊7.8</td></tr><tr><td>熄弧板装配要求与熄弧端拘束焊要求</td><td colspan=\"2\">2020350拘束焊熄弧板</td></tr></table>",
+    "table_img_path": "images/76dcddc16f71b45f0576901f60ef5c62e8e5aef921af6ef0b343f99c994e56ca.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表D.1 FAB 埋弧焊无坡口填充物焊接参数",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表D.1 FAB 埋弧焊无坡口填充物焊接参数",
+    "table_body": "<table><tr><td>板厚t</td><td>标准装配间隙</td><td>焊接电流A</td><td>电弧电压V</td><td>焊接速度m/h</td></tr><tr><td>4</td><td rowspan=\"4\">0~1</td><td rowspan=\"4\">540~660</td><td rowspan=\"4\">31~35</td><td rowspan=\"4\">30~40</td></tr><tr><td>5</td></tr><tr><td>6</td></tr><tr><td>6.5</td></tr></table>",
+    "table_img_path": "images/bfbbba501356a92bcfaaee4e5fd355622e11d4f48e6b874543ec336df1bd5f28.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表E.1 FAB 埋弧焊坡口填充物（碎焊丝 CW）高度与焊接参数",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表E.1 FAB 埋弧焊坡口填充物（碎焊丝 CW）高度与焊接参数",
+    "table_body": "<table><tr><td>坡口填充材料</td><td>板厚t</td><td>标准装配间隙</td><td>碎焊丝高度</td><td>焊接电流A</td><td>电弧电压V</td><td>焊接速度m/h</td></tr><tr><td rowspan=\"16\">碎焊丝CW</td><td>10</td><td rowspan=\"16\">0~3</td><td>8~9</td><td rowspan=\"2\">800~860</td><td rowspan=\"4\">30~33</td><td rowspan=\"3\">14~15</td></tr><tr><td>11</td><td>9~10</td></tr><tr><td>12</td><td>10~11</td><td rowspan=\"2\">820~860</td></tr><tr><td>13</td><td>11~12</td><td rowspan=\"3\">15~16</td></tr><tr><td>14</td><td>12~13</td><td>830~870</td><td rowspan=\"2\">31~33</td></tr><tr><td>15</td><td>13~14</td><td>840~880</td></tr><tr><td>16</td><td>14~15</td><td>870~910</td><td rowspan=\"2\">32~33</td><td rowspan=\"3\">14~15</td></tr><tr><td>17</td><td>15~16</td><td>900~930</td></tr><tr><td>18</td><td>16~17</td><td>920~950</td><td rowspan=\"2\">33~34</td></tr><tr><td>19</td><td>17~18</td><td>930~970</td><td rowspan=\"6\">13~14</td></tr><tr><td>20</td><td>18~19</td><td>950~1000</td><td>34~36</td></tr><tr><td>21</td><td>19~20</td><td rowspan=\"3\">990~1050</td><td rowspan=\"3\">35~36</td></tr><tr><td>22</td><td>20~21</td></tr><tr><td>23</td><td>21~22</td></tr><tr><td>24</td><td>22~23</td><td>1000~1050</td><td>36~37</td></tr><tr><td>25</td><td>23~24</td><td>1000~1100</td><td>37~38</td><td>13~14.5</td></tr></table>",
+    "table_img_path": "images/78445683e4317eb380ec7dd2a386042ef2e5b97966ebf8f17d86fcb9c19d6589.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表F.1 FAB 埋弧焊坡口填充物（铁粉 IRN）高度与焊接参数",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表F.1 FAB 埋弧焊坡口填充物（铁粉 IRN）高度与焊接参数",
+    "table_body": "<table><tr><td>坡口填充材料</td><td>板厚t</td><td>标准装配间隙</td><td>铁粉高度</td><td>焊接电流A</td><td>电弧电压V</td><td>焊接速度m/h</td></tr><tr><td rowspan=\"23\">铁粉 IRN</td><td>4</td><td rowspan=\"4\">3~5</td><td>3~4</td><td rowspan=\"4\">520~640</td><td rowspan=\"4\">31~34</td><td rowspan=\"4\">28~37</td></tr><tr><td>5</td><td>4~5</td></tr><tr><td>6</td><td>5~6</td></tr><tr><td>6.5</td><td>5.5~6.5</td></tr><tr><td>7</td><td rowspan=\"19\">0~3</td><td>6~7</td><td>710~720</td><td>31~32</td><td rowspan=\"3\">20~21</td></tr><tr><td>8</td><td>7~8</td><td>720~730</td><td>32~33</td></tr><tr><td>9</td><td rowspan=\"2\">8~9</td><td>730~740</td><td>33~34</td></tr><tr><td>10</td><td rowspan=\"2\">800~860</td><td rowspan=\"4\">30~33</td><td rowspan=\"7\">16~17</td></tr><tr><td>11</td><td>9~10</td></tr><tr><td>12</td><td>10~11</td><td rowspan=\"2\">820~860</td></tr><tr><td>13</td><td>11~12</td></tr><tr><td>14</td><td>12~13</td><td>800~850</td><td rowspan=\"3\">32~33</td></tr><tr><td>15</td><td>13~14</td><td>820~870</td></tr><tr><td>16</td><td>14~15</td><td>870~900</td></tr><tr><td>17</td><td>15~16</td><td>900~930</td><td rowspan=\"2\">33~34</td><td rowspan=\"2\">15~16</td></tr><tr><td>18</td><td>16~17</td><td>920~950</td></tr><tr><td>19</td><td>17~18</td><td>95~970</td><td rowspan=\"2\">34~36</td><td rowspan=\"2\">14~15</td></tr><tr><td>20</td><td>18~19</td><td>960~980</td></tr><tr><td>21</td><td>19~20</td><td>970~1000</td><td rowspan=\"2\">35~37</td><td>13~14</td></tr><tr><td>22</td><td>20~21</td><td>980~1020</td><td rowspan=\"2\">12~13</td></tr><tr><td>23</td><td>21~22</td><td>990~1040</td><td rowspan=\"2\">36~38</td></tr><tr><td>24</td><td>22~23</td><td>1000~1050</td><td rowspan=\"2\">11~12</td></tr><tr><td>25</td><td>23~24</td><td>1050~1100</td><td>38~42</td></tr></table>",
+    "table_img_path": "images/1473f14397630539e4aae388d2d507355ab36f89335eb562c959aae04f0658b3.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表G.1 FAB 埋弧焊典型缺陷预防、处理措施",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表G.1 FAB 埋弧焊典型缺陷预防、处理措施",
+    "table_body": "<table><tr><td>缺陷类型</td><td>缺陷示意图</td><td>产生原因</td><td>预防、处理措施</td></tr><tr><td>未熔合</td><td>定位焊</td><td>1)焊丝未矫直或焊接过程中偏焊;2)埋弧焊小车轨道不平,行走时有跳动</td><td>1)焊前应确保焊丝已完全矫直,焊接过程中及时调节,保证不偏焊;2)及时更换或维修轨道,保证轨道平整度</td></tr><tr><td>未焊透</td><td>定位焊</td><td>1)焊接参数不匹配,电流过小或焊接速度较快;2)定位焊高度过高,FAB埋弧焊难以熔透</td><td>1)按照相关的FAB埋弧焊焊接工艺规程认可的焊接参数焊接,根据板厚情况选择合适焊接参数,并根据现场情况适当调节;2)严格按工艺要求焊接定位焊,对于超标的定位焊要打磨处理</td></tr><tr><td>焊穿、焊漏</td><td>定位焊</td><td>1)焊接参数不匹配,焊接电流较大,焊接速度较慢;2)衬垫黏贴不紧,特别是在衬垫连接处,或有影响衬垫贴紧马脚、横头未打磨等</td><td>1)按照相关的FAB埋弧焊焊接工艺规程认可的焊接参数焊接,根据板厚情况选择合适焊接参数,并根据现场情况适当调节;2)严格按工艺要求黏贴衬垫,黏贴时特别要注意衬垫连接处、有横头处的黏贴质量</td></tr><tr><td>裂纹</td><td>定位焊</td><td>1)定位焊有裂纹,主要是缩孔裂纹和定位焊爆焊;2)拘束焊有裂纹,主要是缩孔裂纹;3)FAB埋弧焊终端热裂纹,主要原因是未按工艺要求进行拘束焊</td><td>1)定位焊需专门的装配工焊接,又对定位焊质量进行检查;2)拘束焊焊接时从坡口内引弧向引、熄弧板方向焊接,避免在坡口里停弧,对引弧处焊缝进行打磨;3)按工艺要求进行装配,端头严格按工艺要求焊接拘束焊</td></tr><tr><td rowspan=\"2\">余高不足或过高</td><td></td><td>1)碎焊丝或者铁粉填充高度不够;2)坡口尺寸不满足工艺要求;3)焊接参数不匹配,焊接电流过大,焊接速度过快</td><td>1)按工艺要求,根据不同板厚铺设碎焊丝或铁粉;2)严格控制坡口质量,特别是坡口角度和间隙;3)按工艺要求,根据板厚选择合适的焊接采数</td></tr><tr><td></td><td>1)焊丝干伸长不足或焊剂覆盖不均匀;2)设地线、电缆连接不规范,焊接参数不稳定;3)埋弧焊轨道不平直,埋弧焊小车轮子损坏</td><td>1)按工艺要求调节合适的干伸长,保证焊剂可以完全覆盖焊接电弧;2)严格按工艺要求连接地线、电缆,焊前做好检查;3)维修或更换埋弧焊轨道、埋弧焊小车轮子</td></tr><tr><td>焊缝尺寸偏差</td><td></td><td>1)焊丝干伸长不足或焊剂覆盖不均匀;2)设地线、电缆连接不规范,焊接参数不稳定;3)埋弧焊轨道不平直,埋弧焊小车轮子损坏</td><td>1)按工艺要求调节合适的干伸长,保证焊剂可以完全覆盖焊接电弧;2)严格按工艺要求连接地线、电缆,焊前做好检查;3)维修或更换埋弧焊轨道、焊弧焊小车轮子</td></tr></table>",
+    "table_img_path": "images/10289cd75ef1d1c231c0f0b7a44cd6dab57f205c18ce00f8366564f8b51cc18e.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 薄板焊接接头类型、焊接方法及工艺要点",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 薄板焊接接头类型、焊接方法及工艺要点",
+    "table_body": "<table><tr><td>序号</td><td>接头类型</td><td>推荐焊接方法</td><td>工艺要点</td></tr><tr><td rowspan=\"2\">1</td><td rowspan=\"2\">拼板平对接</td><td rowspan=\"2\">埋弧自动焊</td><td>贴衬垫,单面焊双面成型,装配标准间隙确保0~3,局部最大不超过5,焊丝直径φ2.5、φ3.2</td></tr><tr><td>翻身双面埋弧焊,标准装配间隙确保0~1,局部最大不超过2,避免烧穿,焊丝直径φ2.5、φ3.2</td></tr><tr><td>2</td><td>平对接</td><td rowspan=\"2\">自动/半自动CO2焊(药芯)</td><td>贴衬垫,单面焊双面成型,标准装配间隙4~6,局部最大不超过12,焊丝直径φ1.0、φ1.2</td></tr><tr><td rowspan=\"2\">3</td><td rowspan=\"2\">立对接</td><td>贴衬垫,单面焊双面成型,标准装配间隙4~6,局部最大不超过12,焊丝直径φ1.0、φ1.2</td></tr><tr><td>自动/半自动CO2焊(实心)</td><td>双面下行焊,标准装配间隙0~1,局部最大不超过2,焊丝直径φ1.0、φ1.2</td></tr><tr><td rowspan=\"2\">4</td><td rowspan=\"2\">横对接</td><td rowspan=\"3\">自动/半自动CO2焊(药芯)</td><td>贴衬垫,单面焊双面成型,标准装配间隙4~6,局部最大不超过12,,焊丝直径φ1.0、φ1.2</td></tr><tr><td>双面焊接,装配间隙0~1,局部最大不超过2,焊丝直径φ1.0、φ1.2</td></tr><tr><td>5</td><td>平、横、仰角焊</td><td>标准装配间隙0~1,局部最大不超过2,焊丝直径φ1.0、φ1.2</td></tr><tr><td rowspan=\"2\">6</td><td rowspan=\"2\">立角焊</td><td>自动/半自动CO2焊(实心、药芯)</td><td>标准装配间隙0~1,局部最大不超过2,焊丝直径φ1.0、φ1.2,立向下焊接(仅适用于上建特定区域)</td></tr><tr><td>自动/半自动CO2焊(药芯)</td><td>标准装配间隙0~1,局部最大不超过2,焊丝直径φ1.0,立向上焊接</td></tr></table>",
+    "table_img_path": "images/614f91f881823a22ed9c1e5321ffe1b9f205ca0438a7c4c2f8bf246bfa6df492.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表3 定位焊形式及要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表3 定位焊形式及要求",
+    "table_body": "<table><tr><td>焊接方法</td><td>规格</td></tr><tr><td>药芯焊丝CO2半自动焊</td><td rowspan=\"2\">Φ1.0、Φ1.2</td></tr><tr><td>实心焊丝CO2半自动焊</td></tr></table>",
+    "table_img_path": "images/6c76cfb0816bc2b9eefdf2e201e2f2044e4782732f75ed4cf7046082f76121c7.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表A.1 埋弧焊焊接参数",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表A.1 埋弧焊焊接参数",
+    "table_body": "<table><tr><td>板厚</td><td>坡口形式</td><td>焊丝规格</td><td colspan=\"2\">焊道</td><td>焊接电流A</td><td>焊接电压V</td><td>焊接速度m/h</td></tr><tr><td rowspan=\"2\">4</td><td rowspan=\"10\">I型</td><td rowspan=\"6\">Φ2.5</td><td>正面</td><td>1</td><td>300~310</td><td rowspan=\"2\">33~34</td><td>42~45</td></tr><tr><td>反面</td><td>1&#x27;</td><td>320~340</td><td>44~47</td></tr><tr><td rowspan=\"2\">5</td><td>正面</td><td>1</td><td>310~330</td><td rowspan=\"2\">34~35</td><td>41~44</td></tr><tr><td>反面</td><td>1&#x27;</td><td>320~340</td><td>43~46</td></tr><tr><td rowspan=\"2\">6</td><td>正面</td><td>1</td><td>320~330</td><td rowspan=\"2\">35~36</td><td>39~41</td></tr><tr><td>反面</td><td>1&#x27;</td><td>400~440</td><td>41~43</td></tr><tr><td rowspan=\"2\">5</td><td rowspan=\"4\">Φ3.2</td><td>正面</td><td>1</td><td>380~400</td><td>29~31</td><td rowspan=\"4\">38~40</td></tr><tr><td>反面</td><td>1&#x27;</td><td>450~500</td><td>30~31</td></tr><tr><td rowspan=\"2\">6</td><td>正面</td><td>1</td><td>400~430</td><td>30~32</td></tr><tr><td>反面</td><td>1&#x27;</td><td>510~530</td><td>31~32</td></tr></table>",
+    "table_img_path": "images/54d15f2758ab7491904c9945d224983a05a14a0521114a695d94d73f6c5eb1d4.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表A.2 ${ \\mathsf { C } } 0 _ { 2 }$ 焊焊接参数",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表A.2 ${ \\mathsf { C } } 0 _ { 2 }$ 焊焊接参数",
+    "table_body": "<table><tr><td>接头形式</td><td>板厚t</td><td>坡口形式及装配间隙</td><td>焊丝</td><td>层数</td><td>电流A</td><td>电压V</td><td>备注</td></tr><tr><td rowspan=\"4\">平对接</td><td rowspan=\"2\">t≤4</td><td>4~6</td><td rowspan=\"2\">药芯φ1.0</td><td rowspan=\"3\">1</td><td rowspan=\"2\">160~180</td><td rowspan=\"2\">22~23</td><td>贴衬垫,单面焊双面成型</td></tr><tr><td>0~1</td><td>无衬垫,双面焊,背面打磨凹槽1~2</td></tr><tr><td rowspan=\"2\">4&lt;t≤6</td><td rowspan=\"2\">45°45&#x27;</td><td rowspan=\"2\">药芯φ1.0、φ1.2</td><td>170~190</td><td>23~26</td><td rowspan=\"2\">贴衬垫,单面焊双面成型</td></tr><tr><td>2</td><td>190~250</td><td>24~29</td></tr><tr><td rowspan=\"4\">横对接</td><td rowspan=\"2\">t≤4</td><td>4~6</td><td rowspan=\"2\">药芯φ1.0</td><td rowspan=\"3\">1</td><td rowspan=\"2\">120~140</td><td rowspan=\"2\">23~24</td><td rowspan=\"2\">无衬垫,双面焊,背面打磨凹槽1~2</td></tr><tr><td>0~1</td></tr><tr><td rowspan=\"2\">4&lt;t≤6</td><td rowspan=\"2\">45°45&#x27;</td><td rowspan=\"2\">药芯φ1.0、φ1.2</td><td>150~180</td><td>23~26</td><td rowspan=\"2\">贴衬垫,单面焊双面成型</td></tr><tr><td>2</td><td>190~220</td><td>25~27</td></tr><tr><td rowspan=\"3\">立对接</td><td>t≤4</td><td>0~1</td><td>实心φ1.0</td><td rowspan=\"2\">1</td><td>70~80</td><td>17~19</td><td>无衬垫,双面焊,背面打磨凹槽1~2 焊前需认真打磨除锈</td></tr><tr><td rowspan=\"2\">4&lt;t≤6</td><td rowspan=\"2\">45°45&#x27;</td><td rowspan=\"2\">药芯φ1.0、φ1.2</td><td>160~180</td><td>23~24</td><td rowspan=\"2\">贴衬垫,单面焊双面成型</td></tr><tr><td>2</td><td>190~210</td><td>24~25</td></tr></table>",
+    "table_img_path": "images/c9db98b0bcf74518c8ef8b51ae6c4479625ec4ea5635245ec121ac36efd41e2f.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表A.3 填角焊焊接参数",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表A.3 填角焊焊接参数",
+    "table_body": "<table><tr><td>填角焊缝位置</td><td>焊脚尺寸k</td><td>焊丝规格</td><td>电流A</td><td>电压V</td><td>速度mm/min</td></tr><tr><td rowspan=\"4\">平、横填角焊</td><td>3.5≤k≤4</td><td rowspan=\"2\">Φ1.0</td><td>170~180</td><td rowspan=\"3\">26~28</td><td>600~630</td></tr><tr><td rowspan=\"2\">4&lt;k≤5</td><td>180~200</td><td rowspan=\"2\">550~600</td></tr><tr><td rowspan=\"2\">Φ1.2</td><td>220~230</td></tr><tr><td>5&lt;k≤6</td><td>260~280</td><td>28~30</td><td>450~550</td></tr><tr><td rowspan=\"3\">立向上填角焊</td><td rowspan=\"2\">4≤k≤5</td><td>Φ1.0</td><td>180~200</td><td rowspan=\"2\">18~22</td><td>350~450</td></tr><tr><td rowspan=\"2\">Φ1.2</td><td>180~220</td><td>300~400</td></tr><tr><td>5&lt;k≤6</td><td>180~240</td><td>20~24</td><td>250~300</td></tr><tr><td rowspan=\"3\">立向下填角焊</td><td>3.5≤k≤4</td><td rowspan=\"3\">Φ1.0、Φ1.2</td><td rowspan=\"3\">180~220</td><td rowspan=\"2\">23~27</td><td>600~750</td></tr><tr><td>4&lt;k≤5</td><td>500~650</td></tr><tr><td>5&lt;k≤6</td><td>24~27</td><td>450~600</td></tr></table>",
+    "table_img_path": "images/571a483b7b8875e412887b722fdd039e28a2a22b3dcae159a5e49681f451bc9a.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表2 焊缝咬边要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2 焊缝咬边要求",
+    "table_body": "<table><tr><td rowspan=\"2\">焊接方法</td><td rowspan=\"2\">焊缝形式</td><td rowspan=\"2\">焊缝宽度B</td><td colspan=\"2\">焊缝余高h</td></tr><tr><td>标准范围</td><td>允许极限</td></tr><tr><td rowspan=\"2\">埋弧焊</td><td>I形焊缝</td><td>≥b+2a(2a≥6)</td><td rowspan=\"4\">0~0.2B</td><td rowspan=\"4\">≤6</td></tr><tr><td>非I形焊缝</td><td>≥g+2a(2a≥6)</td></tr><tr><td rowspan=\"2\">手工焊及气体保护焊</td><td>I形焊缝</td><td>≥b+2a(2a≥4)</td></tr><tr><td>非I形焊缝</td><td>≥g+2a(2a≥6)</td></tr><tr><td colspan=\"5\">注：b为符合工艺要求的实际装配值。</td></tr></table>",
+    "table_img_path": "images/a94afcabefb8a82f8993b642d814be06927123955c7a2d045bbbbfc5ab0377f6.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表3 缺陷及处理等级要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表3 缺陷及处理等级要求",
+    "table_body": "<table><tr><td colspan=\"2\">缺陷类型</td><td colspan=\"3\">处理等级要求</td></tr><tr><td>名称</td><td>图示</td><td>P1</td><td>P2</td><td>P3</td></tr><tr><td>焊接飞溅物</td><td>a)b)c</td><td>表面应无任何疏松的焊接飞溅物(见图示a)</td><td>表面应无任何疏松的和轻微附着的焊接飞溅物(见图示a和图示b),图示c显示的焊接飞溅物可保留</td><td>表面应无任何焊接飞溅物</td></tr><tr><td>焊接波纹/表面成形</td><td></td><td>不需要处理</td><td>表面应去除(如采用打磨)不规则的和尖锐边缘部分</td><td>表面应充分处理至光滑</td></tr><tr><td>焊渣</td><td></td><td>表面应无焊渣</td><td>表面应无焊渣</td><td>表面应无焊渣</td></tr><tr><td>咬边</td><td></td><td>不需要处理</td><td>表面应无尖锐的或深度的咬边</td><td>表面应无咬边</td></tr></table>",
+    "table_img_path": "images/e395e8d499ccf6b68feda20e5e4fa0fa2393475dd99a0ea40c5be889830b0649.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表3 缺陷及处理等级要求（续）",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表3 缺陷及处理等级要求（续）",
+    "table_body": "<table><tr><td colspan=\"2\">缺陷类型</td><td colspan=\"3\">处理等级</td></tr><tr><td>名称</td><td>图示</td><td>P1</td><td>P2</td><td>P3</td></tr><tr><td>气孔</td><td>1-可见孔2-不可见孔(可能在磨料喷射清理后打开)</td><td rowspan=\"2\">不需处理</td><td>表面的孔应被充分打开以便涂料渗入,或孔被磨去</td><td>表面应无可见的孔</td></tr><tr><td>弧坑(端部焊坑)</td><td></td><td>弧坑应无尖锐边缘</td><td>表面应无可见的弧坑</td></tr></table>",
+    "table_img_path": "images/3f514768bfbea076658302c5d467f6ac04b49cf13b417c9cc97be264184cba6e.jpg",
+    "parent_table": "表3 缺陷及处理等级要求"
+  },
+  {
+    "entity_name": "表4 船舶管系焊缝表面外形质量要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表4 船舶管系焊缝表面外形质量要求",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td><td>图例及说明</td></tr><tr><td>焊缝的侧面角θ</td><td>-</td><td>≥90°</td><td></td></tr></table>",
+    "table_img_path": "images/620c5dfa3a5b9f4c3d66846f6b398018e01165b39e1f4b05b4a2ce14198ba231.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表4 船舶管系焊缝表面外形质量要求（续）",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表4 船舶管系焊缝表面外形质量要求（续）",
+    "table_body": "<table><tr><td>项目</td><td>标准范围</td><td>允许极限</td><td>图例及说明</td></tr><tr><td>对接焊缝增高量e</td><td>≤2.5</td><td>≤3.0</td><td>t-管子壁厚焊件错边≤10% t</td></tr><tr><td>焊脚尺寸K0</td><td>-</td><td>≥0.9K</td><td>K0-焊角尺寸K-设计焊角尺寸对于凹形角焊缝K0按实际焊缝计算厚度换算</td></tr><tr><td>焊道表面凹凸高低差DN≤100且L≤25 DN&gt;100且L≤30 a-b</td><td>≤1.5</td><td>≤2</td><td>a-b</td></tr><tr><td>多层多道焊焊缝表面重叠相交处下凹深度h</td><td>≤1.0</td><td>≤1.5</td><td></td></tr></table>",
+    "table_img_path": "images/1ddd8ed58ee4ca832b4fa6beeca47f0022c475ab0200359485b55a71eb220b6f.jpg",
+    "parent_table": "表4 船舶管系焊缝表面外形质量要求"
+  },
+  {
+    "entity_name": "表5 焊缝处理要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表5 焊缝处理要求",
+    "table_body": "<table><tr><td>级别</td><td>要求</td><td>适用管系</td></tr><tr><td>A</td><td>管子内焊缝打磨光顺平滑,去掉焊缝飞溅物和焊渣</td><td>滑油管、液压管、燃油喷注管、涡轮蒸汽管、橡胶衬管、货油特涂管、涂塑管、蒸汽管、压缩空气管</td></tr><tr><td>B</td><td>清除焊缝飞溅物、焊渣、焊缝清洁、毛刺、尖角磨平</td><td>涡轮排气管、燃油日用管、饮用水管、喷嘴冷却水管、供水管、冷凝水管、海水冷却管清洗管、货舱通风管</td></tr><tr><td>C</td><td>清除焊缝飞溅物和焊渣</td><td>泄放管、溢流管、通风管、锅炉排气管</td></tr></table>",
+    "table_img_path": "images/f24b68e53f997e5cbda817d8552cdbcea6974e477754be777a11f6e1dfd2abbe.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表6 焊缝处理流程图",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表6 焊缝处理流程图",
+    "table_body": "<table><tr><td>序号</td><td>处理步骤</td><td colspan=\"3\">处理内容</td><td>责任人</td></tr><tr><td>1</td><td>自检</td><td>标记需要气刨或者打磨处理的缺陷</td><td>检查缺陷并进行修补，如需打磨则同时做好打磨标记</td><td>自己铲除飞溅</td><td>焊工本人</td></tr><tr><td>2</td><td>互检</td><td>标记打磨位置，采用圆圈或者线条标识打磨区域，白色粉笔</td><td>标记焊接缺陷</td><td>标记焊接缺陷</td><td>工班长</td></tr></table>",
+    "table_img_path": "images/bbe742c7577b0ba4a8be107fe12dbb1f363f5946d4e77c82e14dc22ce404c2a2.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表6 焊缝处理流程图（续）",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表6 焊缝处理流程图（续）",
+    "table_body": "<table><tr><td>序号</td><td>处理步骤</td><td>处理内容</td><td>责任人</td></tr><tr><td rowspan=\"2\">3</td><td rowspan=\"2\">打磨</td><td>1、按标识进行打磨,未标识位置不允许进行打磨处理;2、QC报验前采用电动或气动钢丝刷对焊缝进行表面灰尘、毛刺、污垢等杂物进行清理。</td><td>打磨工</td></tr><tr><td></td><td></td></tr><tr><td colspan=\"4\">注1:代号:碳刨-G,修补磨-W+0,打磨-0;注2:粉笔颜色:自互检一白色,QC专检一黄色,船检一红色,船东一蓝色。</td></tr></table>",
+    "table_img_path": "images/eb0232075023263b43a6d318f9b872b13396456b3927a31a9908f3c662e3f4fc.jpg",
+    "parent_table": "表6 焊缝处理流程图"
+  },
+  {
+    "entity_name": "表1 半自动填角焊推荐焊丝",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 半自动填角焊推荐焊丝",
+    "table_body": "<table><tr><td>填角焊缝位置</td><td>推荐焊丝牌号</td><td>型号</td><td>规格</td><td>等级</td><td>备注</td></tr><tr><td>平、横、仰角焊缝</td><td>YCJ501-1、CHT711、Supercored71、GFL-71</td><td>E71T-1C</td><td rowspan=\"3\">φ1.0、φ1.2</td><td rowspan=\"3\">3Y</td><td rowspan=\"3\">特殊焊接材料根据相关的工艺要求进行使用</td></tr><tr><td>立向上角焊缝</td><td>YCJ501-1、CHT711、Supercored71、GFL-71、DW-110EV</td><td>E71T-1C、E71T-9C</td></tr><tr><td>立向下角焊缝</td><td>WH50-6</td><td>ER70S-6</td></tr></table>",
+    "table_img_path": "images/73d4784c66fe54e509e93b21f11ce10df5aeadda3fa0237ce358d7385757ad07.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表2 自动填角焊推荐焊丝",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2 自动填角焊推荐焊丝",
+    "table_body": "<table><tr><td>填角焊缝位置</td><td>推荐焊丝牌号</td><td>型号</td><td>规格</td><td>等级</td><td>备注</td></tr><tr><td>平/横角焊</td><td>Supercored70MXH、KX-200H</td><td>E70T-1C</td><td rowspan=\"3\">φ1.0、φ1.2</td><td rowspan=\"3\">3Y</td><td rowspan=\"3\">在特殊情况下可以使用本厂在用的药芯焊丝进行焊接,但应得到工艺人员确认。</td></tr><tr><td>立向上角焊</td><td>DW-110EV</td><td>E71T-9C</td></tr><tr><td>立向下角焊</td><td>WH50-6</td><td>ER70S-6</td></tr></table>",
+    "table_img_path": "images/a20fcac800bc93166069f9916c08a2ef79fc2e580faea7d02765c9a07f9b8f21.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表3 定位焊焊材选择要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表3 定位焊焊材选择要求",
+    "table_body": "<table><tr><td rowspan=\"2\">焊接方法</td><td colspan=\"3\">规格</td></tr><tr><td>板厚t≤7</td><td>7&lt;板厚t≤10</td><td>板厚t&gt;10</td></tr><tr><td>手工电弧焊</td><td>φ2.5</td><td>φ2.5、φ3.2</td><td>φ3.2、φ4.0</td></tr><tr><td>药芯焊丝CO2半自动焊</td><td rowspan=\"2\">φ1.0</td><td rowspan=\"2\">φ1.0、φ1.2</td><td rowspan=\"2\">φ1.2</td></tr><tr><td>实心焊丝CO2半自动焊</td></tr></table>",
+    "table_img_path": "images/b28314f1ae2b6c55adfe3ee8d1643170ea5f40aa66369a4fdf07a5d4c2e155d4.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表4 定位焊要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表4 定位焊要求",
+    "table_body": "<table><tr><td>定位焊长度L</td><td>定位焊间距L1</td><td>定位焊高度要求</td><td>图示</td><td>备注</td></tr><tr><td>15~20</td><td>100~150</td><td>角焊缝定位焊高度要求≤2</td><td rowspan=\"3\">L\nL1</td><td>采用密点焊法,推荐薄板使用</td></tr><tr><td>普通钢≥30</td><td rowspan=\"2\">250~350</td><td rowspan=\"2\">角焊缝定位焊高度不得超过正式焊脚高度的1/2</td><td rowspan=\"2\">-</td></tr><tr><td>高强钢≥50</td></tr></table>",
+    "table_img_path": "images/b1f2ec792b9b541e4f83b2be4194164831312a7b15b0fd6a8e82d88d48d6a530.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表5 平、横、立位置填角焊焊接要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表5 平、横、立位置填角焊焊接要求",
+    "table_body": "<table><tr><td>焊接位置</td><td>角焊缝情况</td><td>焊接要求</td></tr><tr><td rowspan=\"2\">平、横位置</td><td>长度超过800且无结构阻碍填角焊缝</td><td>自动填角焊（如平角焊小车等）</td></tr><tr><td>其它情况填角焊缝</td><td>半自动填角焊</td></tr><tr><td rowspan=\"4\">立位置</td><td>长度超过1000且无结构阻碍填角焊缝</td><td>立向上自动填角焊（如立角焊小车）</td></tr><tr><td>客滚船上建干区长度超过1000且无结构阻碍内围壁板填角焊缝</td><td>立向下自动填角焊（如立角焊小车）</td></tr><tr><td>客滚船上建干区长度不超过1000或有结构阻碍内围壁板填角焊缝</td><td>立向下半自动填角焊</td></tr><tr><td>其它情况填角焊缝</td><td>立向上半自动填角焊</td></tr><tr><td>仰位置</td><td>所有情况填角焊缝</td><td>半自动填角焊</td></tr></table>",
+    "table_img_path": "images/c7db7128010e547b4219b07690a02fbefd5ecb39cded3302edd09a2f7cb5beeb.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表6 角焊缝焊道布置要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表6 角焊缝焊道布置要求",
+    "table_body": "<table><tr><td>焊脚尺寸</td><td colspan=\"3\">焊道布置方式</td></tr><tr><td>Ka≤5</td><td rowspan=\"2\" colspan=\"2\">/</td><td rowspan=\"2\">/</td></tr><tr><td>5＜Ka≤8</td></tr><tr><td>Ka&gt;8</td><td colspan=\"2\">312</td><td>n3n1124</td></tr></table>",
+    "table_img_path": "images/298cc1c1cacce95c359cf2939ded984876734d7d5efacc0d9a4fe497370a0532.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表7 填角焊缝成型及焊脚尺寸要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表7 填角焊缝成型及焊脚尺寸要求",
+    "table_body": "<table><tr><td>船型</td><td colspan=\"2\">项目</td><td>标准范围</td><td>备注</td></tr><tr><td>所有船型</td><td>焊趾侧面角 θ</td><td>0°</td><td>≤90°</td><td>最大不超过90°；超过90°时需打磨处理</td></tr><tr><td>客滚船、特种船全船,民船板厚t≤6</td><td rowspan=\"2\">设计焊脚尺寸K实际焊脚尺寸Ka设计焊喉尺寸h实际焊喉尺寸ha</td><td rowspan=\"2\">Ka</td><td>0.9h≤ha≤1.0h0.9K≤Ka≤1.0K</td><td rowspan=\"2\">1、当焊脚尺寸未达到允许范围时,应进行修补,且不应形成短焊缝;2、同一填角焊缝两侧焊脚尺寸偏差≤1.5;3、包角焊处焊脚≥1.2K</td></tr><tr><td>原油轮、成品油轮、极地船、半潜船、散货船等民船板厚t&gt;6</td><td>0.9h≤ha≤1.1h0.9k≤Ka≤1.1k</td></tr><tr><td>所有船型</td><td>咬边e</td><td>e</td><td>强力结构:e≤0.5其他:e≤0.8</td><td>1、e≤0.5~0.8时,如有尖锐咬边,即使咬边角度小于90°也应打磨至光顺;2、e&gt;0.8时,应焊接修补(高强度钢应避免短焊道修补)</td></tr></table>",
+    "table_img_path": "images/7b9909c21ae223aa6a444c807af79ffe79d19b91ddf45308cf318a91d897d3e7.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表A.1 平、横、立、仰位置填角焊焊接参数",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表A.1 平、横、立、仰位置填角焊焊接参数",
+    "table_body": "<table><tr><td>填角焊缝位置</td><td>焊脚</td><td>焊丝规格</td><td>电流A</td><td>电压V</td><td>速度mm/min</td></tr><tr><td rowspan=\"5\">平、横、仰角焊</td><td>3.5≤k≤4</td><td rowspan=\"2\">Φ1.0</td><td>170~180</td><td rowspan=\"3\">26~28</td><td>600~630</td></tr><tr><td rowspan=\"2\">4&lt;k≤5</td><td>180~200</td><td rowspan=\"2\">550~600</td></tr><tr><td rowspan=\"3\">Φ1.2</td><td rowspan=\"2\">220~230</td></tr><tr><td>5&lt;k≤7</td><td rowspan=\"2\">28~30</td><td>450~550</td></tr><tr><td>7&lt;k≤8</td><td rowspan=\"2\">260~280</td><td>300~350</td></tr><tr><td rowspan=\"4\">立向上角焊</td><td rowspan=\"2\">4≤k≤5</td><td>Φ1.0</td><td rowspan=\"2\">18~22</td><td>350~450</td></tr><tr><td rowspan=\"3\">Φ1.2</td><td>180~220</td><td>300~400</td></tr><tr><td>5&lt;k≤7</td><td>180~240</td><td>20~24</td><td rowspan=\"2\">250~300</td></tr><tr><td>7&lt;k≤8</td><td>200~240</td><td>23~26</td></tr><tr><td rowspan=\"5\">立向下角焊</td><td>3.5≤k≤4</td><td rowspan=\"2\">Φ1.0</td><td rowspan=\"5\">180~220</td><td rowspan=\"2\">23~27</td><td>600~750</td></tr><tr><td>4&lt;k≤5</td><td>500~650</td></tr><tr><td>5&lt;k≤6</td><td rowspan=\"3\">Φ1.2</td><td>24~27</td><td>450~600</td></tr><tr><td>6&lt;k≤7</td><td rowspan=\"2\">23~27</td><td rowspan=\"2\">350~560</td></tr><tr><td>&gt;7</td></tr><tr><td colspan=\"6\">应根据现场焊接情况对焊接参数进行微调来保证焊接质量,改善焊缝成型。焊脚尺寸K&gt;8的填角焊缝焊接参数可参考表中参数进行调整。</td></tr></table>",
+    "table_img_path": "images/51587a7746cd24c4b02099104a94aa99028dc2ce1aa84f95efb7d196f6e34184.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 焊条焙烘与保温要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 焊条焙烘与保温要求",
+    "table_body": "<table><tr><td colspan=\"2\">焊条类型</td><td>级别</td><td>焙烘温度和时间℃/h</td><td>保温温度℃</td><td>适用钢材</td><td>钢标准号</td></tr><tr><td rowspan=\"2\">低氢</td><td>E5015</td><td>3Y</td><td rowspan=\"2\">350~400/1~2</td><td rowspan=\"2\">100~150</td><td rowspan=\"2\">A、B、D、E、AH32、AH36、DH32、DH36、EH32、EH36 以及其它同等级材料</td><td rowspan=\"3\">GB 712</td></tr><tr><td>E5018</td><td>3Y、4Y</td></tr><tr><td>非低氢</td><td>E5003</td><td>2、3、2Y</td><td>70~100/0.5~1</td><td>50~60</td><td>非重要结构部位的低碳钢、低合金钢</td></tr><tr><td rowspan=\"2\">不锈钢</td><td>E309/E309L</td><td rowspan=\"2\">-</td><td rowspan=\"2\">300~350/1~2</td><td rowspan=\"2\">100~150</td><td>304、304L、316、316L+碳钢</td><td rowspan=\"2\">GB/T 20878</td></tr><tr><td>E316/E316L</td><td>304、304L、316、316L</td></tr></table>",
+    "table_img_path": "images/01c42c8b5c6d033678878cd46468a94c9805e8e9290dc59e39e4d0e1e13de679.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表2 手工焊对接坡口节点图",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2 手工焊对接坡口节点图",
+    "table_body": "<table><tr><td>厚度范围</td><td>平焊、立焊、仰焊</td><td>横焊</td></tr><tr><td>5≤t≤20</td><td>60+10/50t0~200~3</td><td>45+5/0t0~215+5/50t</td></tr></table>",
+    "table_img_path": "images/ff5fdff96a8fd8b805602218139e4bd3b9104b1ea10246c2c8b2a99c16477f6c.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表2 手工焊对接坡口节点图（续）",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2 手工焊对接坡口节点图（续）",
+    "table_body": "<table><tr><td>厚度范围</td><td>平焊、立焊、仰焊</td><td>横焊</td></tr><tr><td>t&gt;20</td><td>60+10°t0~200~360+10°t</td><td>45+5°t0~245+5°t2/3t</td></tr></table>",
+    "table_img_path": "images/3956f6b18cfef06723a2a3d0c5d878b7e4f57b4c0fc169c0d099814a47536fbb.jpg",
+    "parent_table": "表2 手工焊对接坡口节点图"
+  },
+  {
+    "entity_name": "表 3 手工电弧焊焊接工艺参数表",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表 3 手工电弧焊焊接工艺参数表",
+    "table_body": "<table><tr><td>焊接方法</td><td>焊接位置</td><td>焊道</td><td>规格mm</td><td>焊接电流A</td><td>电弧电压V</td></tr><tr><td rowspan=\"9\">手工电弧焊</td><td rowspan=\"3\">平对接</td><td>打底</td><td>φ3.2</td><td>110~130</td><td>22~25</td></tr><tr><td>填充</td><td rowspan=\"2\">φ4.0/φ3.2</td><td>145~175</td><td rowspan=\"2\">24~27</td></tr><tr><td>盖面</td><td>150~180</td></tr><tr><td rowspan=\"3\">横(仰)对接</td><td>打底</td><td>φ3.2</td><td>110~130</td><td>22~25</td></tr><tr><td>填充</td><td rowspan=\"2\">φ4.0/φ3.2</td><td>115~175</td><td rowspan=\"2\">24~27</td></tr><tr><td>盖面</td><td>120~190</td></tr><tr><td rowspan=\"3\">立对接</td><td>打底</td><td>φ3.2</td><td>110~125</td><td>21~24</td></tr><tr><td>填充</td><td rowspan=\"2\">φ4.0/φ3.2</td><td rowspan=\"2\">115~170</td><td rowspan=\"2\">23~26</td></tr><tr><td>盖面</td></tr><tr><td rowspan=\"4\">手工电弧焊</td><td rowspan=\"2\">平(横、仰)角焊</td><td>打底</td><td>φ3.2</td><td>110~175</td><td rowspan=\"2\">22~27</td></tr><tr><td>填充、盖面</td><td>φ4.0/φ3.2</td><td>150~180</td></tr><tr><td rowspan=\"2\">立角焊</td><td>打底</td><td>φ3.2</td><td>110~170</td><td>21~26</td></tr><tr><td>填充、盖面</td><td>φ4.0/φ3.2</td><td>140~170</td><td>23~26</td></tr></table>",
+    "table_img_path": "images/b2785ad9bd62564972b4935a0dbcba73c41d227bd062ffe3fbf72675452a1b10.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 常用碳棒规格",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 常用碳棒规格",
+    "table_body": "<table><tr><td>碳棒形式</td><td colspan=\"4\">规格</td></tr><tr><td>圆碳棒</td><td>φ4×355</td><td>φ6×355</td><td>φ8×355</td><td>φ10×355</td></tr><tr><td>扁碳棒</td><td colspan=\"2\">5×12×355</td><td colspan=\"2\">5×15×355</td></tr></table>",
+    "table_img_path": "images/13ffd11ab511375373dbc65d40138f316abae8ffea738fe2a9feca6dcc210961.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表2 圆形碳棒使用参数",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2 圆形碳棒使用参数",
+    "table_body": "<table><tr><td rowspan=\"4\">参数</td><td colspan=\"4\">创槽深度mm</td></tr><tr><td>≈4</td><td>≈5</td><td>≈6</td><td>≈6</td></tr><tr><td colspan=\"4\">创槽宽度mm</td></tr><tr><td>≈6</td><td>≈9</td><td>≈12</td><td>≈14</td></tr><tr><td>碳棒直径mm</td><td>4</td><td>6</td><td>8</td><td>10</td></tr><tr><td>电流A</td><td>150~200</td><td>250~300</td><td>350~400</td><td>400~500</td></tr><tr><td>压缩空气压力MPa</td><td colspan=\"4\">0.4~0.6</td></tr></table>",
+    "table_img_path": "images/32a1a516fe8e4018062bdca69d1c3c25b43d5105999618ea5cb3fedf6413594f.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表3 扁形碳棒使用参数",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表3 扁形碳棒使用参数",
+    "table_body": "<table><tr><td>碳棒规格（厚度×宽度）\nmm</td><td>5×12</td><td>5×15</td></tr><tr><td>电流\nA</td><td>320~380</td><td>380~480</td></tr><tr><td>压缩空气压力\nMPa</td><td colspan=\"2\">0.4~0.6</td></tr></table>",
+    "table_img_path": "images/c922fc2996e1f1797492438776bc60de454895aae37a056aaabaff75f019f73e.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 立向下填角焊焊接方法",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 立向下填角焊焊接方法",
+    "table_body": "<table><tr><td>焊接方法</td><td>焊接位置和接头形式</td><td>适用钢材等级</td><td>适用板厚</td></tr><tr><td>GMAW</td><td>FVd（立向下填角焊）</td><td>A~AH36</td><td>3.0~8.0</td></tr></table>",
+    "table_img_path": "images/3f18ca78d49b84c7cb0f2a3c90b65572642abd0c67ecb423cf78659859baeb10.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表2 CCS 船级社对接焊工考证位置适用范围",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2 CCS 船级社对接焊工考证位置适用范围",
+    "table_body": "<table><tr><td rowspan=\"2\">考试位置</td><td rowspan=\"2\">焊接方法</td><td colspan=\"2\">适用于焊接生产中的实际焊接位置</td></tr><tr><td>板对接</td><td>板填角焊</td></tr><tr><td>Vd（板对接焊）</td><td rowspan=\"2\">GMAW</td><td>Vd</td><td rowspan=\"2\">FVd</td></tr><tr><td>FVd（板填角焊）</td><td>—</td></tr></table>",
+    "table_img_path": "images/0d66747508ef553a4025b14a84d77dc410c6c3f93b652bc41bbb660505167089.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表3 焊接材料选用表",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表3 焊接材料选用表",
+    "table_body": "<table><tr><td>焊接方法</td><td>焊丝型号</td><td>焊丝牌号</td><td>规格</td><td>焊丝等级</td><td>适用于钢材等级</td></tr><tr><td>GMAW</td><td>AWS A5.18 ER70S-6</td><td>WH50-6</td><td>φ1.2、φ1.0</td><td>3Y</td><td>A~AH36</td></tr></table>",
+    "table_img_path": "images/9b0c836ba6ce0144b611cca63c2b2262dfd2963a657448c168ce1fc3bc8b054a.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表5 定位焊要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表5 定位焊要求",
+    "table_body": "<table><tr><td rowspan=\"2\">焊接方法</td><td colspan=\"2\">规格</td></tr><tr><td>板厚t≤6</td><td>板厚t&gt;6</td></tr><tr><td>SMAW</td><td>φ2.5</td><td>φ2.5、φ3.2</td></tr><tr><td>FCAW</td><td rowspan=\"2\">φ1.0</td><td rowspan=\"2\">φ1.0、φ1.2</td></tr><tr><td>GMAW</td></tr></table>",
+    "table_img_path": "images/bf84cb80f7913058ddac5d4caa6dbd054a8d3f3f74029d1a2ecfcc88ad5745db.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表6 焊道布置要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表6 焊道布置要求",
+    "table_body": "<table><tr><td>焊接位置</td><td>焊脚尺寸</td><td>装配间隙</td><td>焊道分布</td></tr><tr><td rowspan=\"3\">立向下填角焊</td><td>4.2~5.5</td><td rowspan=\"3\">≤2</td><td>1</td></tr><tr><td>6~7</td><td>21</td></tr><tr><td>&gt;7</td><td>213</td></tr><tr><td colspan=\"4\">注:立向下角焊单道焊缝成型不饱满(焊喉不足或偏焊)时,应在其表面加焊以改善焊缝成型。</td></tr></table>",
+    "table_img_path": "images/3da6fa517e79e22c2acf3f5411e0e98fe7914024e618f3de4c1431753fb1e518.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表7 焊缝外观成型要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表7 焊缝外观成型要求",
+    "table_body": "<table><tr><td colspan=\"2\">项目</td><td>标准范围</td><td>备注</td></tr><tr><td>焊趾侧面角 θ</td><td>0</td><td>≤90°</td><td>最大不超过90°；超过90°时需打磨处理</td></tr><tr><td>设计焊脚尺寸K实际焊脚尺寸Ka设计焊喉尺寸h实际焊喉尺寸ha</td><td>0.9h≤ha≤1.1h0.9K≤Ka≤1.1K</td><td>0.9h≤ha≤1.1h0.9K≤Ka≤1.1K</td><td>1、当焊脚尺寸未达到允许范围时，应进行修补，且不应形成短焊缝；2、同一填角焊缝两侧焊脚尺寸偏差≤1.5；3、焊喉不小于0.7ka，且应不小于3</td></tr><tr><td>咬边e</td><td>e</td><td>强力结构：e≤0.5其他：e≤0.8</td><td>1、e≤0.5~0.8时，如有尖锐咬边，即使咬边角度小于90°也应打磨至光顺；2、e&gt;0.8时，应焊接修补（高强度钢应避免短焊道修补）</td></tr></table>",
+    "table_img_path": "images/aee03b93fb8e78ed9b9fb27e25caef20e74b05bc89b61b92ed13b008e974ee6e.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表A.1 立向下填角焊焊接参数",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表A.1 立向下填角焊焊接参数",
+    "table_body": "<table><tr><td>焊接方法</td><td>焊道分布</td><td>焊丝直径</td><td>焊脚尺寸</td><td>焊接电流A</td><td>电弧电压V</td><td>焊接速度mm/min</td><td>气体流量L/min</td></tr><tr><td rowspan=\"5\">实心焊丝CO2气体保护焊(GMAW)</td><td rowspan=\"3\">单道焊</td><td rowspan=\"5\">Φ1.2、Φ1.0</td><td>4.2~4.5</td><td rowspan=\"3\">180~220</td><td rowspan=\"5\">23~27</td><td>550~600</td><td rowspan=\"5\">15~20</td></tr><tr><td>4.5~5</td><td>500~550</td></tr><tr><td>5.5~6</td><td>450~500</td></tr><tr><td rowspan=\"2\">多道焊</td><td>6~7</td><td rowspan=\"2\">175~215</td><td rowspan=\"2\">350~560</td></tr><tr><td>≥7</td></tr></table>",
+    "table_img_path": "images/159602776730307f489cbfead024b28a65aa59fbc2823046ce46a869c59af73f.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 常用不锈钢焊接焊材",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 常用不锈钢焊接焊材",
+    "table_body": "<table><tr><td rowspan=\"2\">焊接方法</td><td rowspan=\"2\">焊材型号</td><td colspan=\"2\">焊接适用范围</td></tr><tr><td>牌号</td><td>母材标准</td></tr><tr><td rowspan=\"5\">手工电弧焊</td><td>E308-16</td><td>304</td><td rowspan=\"4\">GB/T 20878</td></tr><tr><td>E308L-16</td><td>304L、304</td></tr><tr><td>E316-16</td><td>304、316</td></tr><tr><td>E316L-16</td><td>316L、316、304L、304</td></tr><tr><td>E309L</td><td>一般强度结构钢、高强钢与不锈钢连接</td><td>-</td></tr></table>",
+    "table_img_path": "images/dc96c088da257d1858cb990f102aac889beffbc98d18990d94778b146a595aa5.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 常用不锈钢焊接焊材（续）",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 常用不锈钢焊接焊材（续）",
+    "table_body": "<table><tr><td rowspan=\"2\">焊接方法</td><td rowspan=\"2\">焊材型号</td><td colspan=\"2\">焊接适用范围</td></tr><tr><td>牌号</td><td>母材标准</td></tr><tr><td rowspan=\"5\">CO2气体保护焊</td><td>E308T1-1</td><td>304</td><td rowspan=\"4\">GB/T 20878</td></tr><tr><td>E308LT1-1</td><td>304L、304</td></tr><tr><td>E316T1-1</td><td>304、316</td></tr><tr><td>E316LT1-1</td><td>316L、316、304L、304</td></tr><tr><td>E309LT1-1、E309LMoT1-1</td><td>一般强度结构钢、高强钢与不锈钢连接</td><td>-</td></tr><tr><td rowspan=\"5\">氩弧焊</td><td>ER308</td><td>304</td><td rowspan=\"4\">GB/T 20878</td></tr><tr><td>ER308L</td><td>304L、304</td></tr><tr><td>ER316</td><td>304、316</td></tr><tr><td>ER316L</td><td>316L、316、304L、304</td></tr><tr><td>ER309L</td><td>一般强度结构钢、高强钢与不锈钢连接</td><td>-</td></tr></table>",
+    "table_img_path": "images/7f55a8b7fc6868c758916a5a47d12c0a047435961455c1812e6eaf2b26675616.jpg",
+    "parent_table": "表1 常用不锈钢焊接焊材"
+  },
+  {
+    "entity_name": "表2 不锈钢装配要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2 不锈钢装配要求",
+    "table_body": "<table><tr><td>焊接方法</td><td>板厚</td><td>对接装配图</td><td>角接装配图</td></tr><tr><td>手工电弧焊</td><td>t≤24</td><td>-</td><td>0~3</td></tr><tr><td>CO2气体保护焊</td><td>t≤24</td><td>45+5°0~26-1t</td><td>0~3</td></tr><tr><td>钨极氩弧焊</td><td>t≤18</td><td>60+5°0~23~4</td><td>0~3</td></tr></table>",
+    "table_img_path": "images/c057dbffc5e39987aae5bf7523b4cb2549da6e7889a81399c3686785130ed8fb.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 常用焊接材料",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 常用焊接材料",
+    "table_body": "<table><tr><td>焊接方法</td><td>焊材型号</td><td>焊丝等级</td><td>适用于钢材等级</td><td>钢材标准</td></tr><tr><td rowspan=\"2\">CO2半自动药芯焊</td><td>E492T1-1C1</td><td rowspan=\"2\">3Y</td><td rowspan=\"2\">A、B、D、E、AH32、AH36、DH32、DH36、EH32、EH36</td><td rowspan=\"2\">GB 712-2011</td></tr><tr><td>E71T-1C</td></tr></table>",
+    "table_img_path": "images/0ebe3404ec7d4c7298a1f9e7645cf6e70d6a3e7a0505832f16410fa496a52f40.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表2 坡口节点图",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2 坡口节点图",
+    "table_body": "<table><tr><td>焊接方式</td><td>板厚t</td><td>坡口型式</td><td>坡口角度θ°</td><td>间隙g</td><td>钝边h</td></tr><tr><td>CO2气体保护焊</td><td>10≤t≤40</td><td>θt-1h\ng</td><td>40+5-5</td><td>16&lt;g≤1.5t;最大不得超25</td><td>0~2</td></tr></table>",
+    "table_img_path": "images/09cfffc61fb05c3264d0d067e43b6f0d2ce7059d681542000ec91705f6392b88.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表3 焊道布置图",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表3 焊道布置图",
+    "table_body": "<table><tr><td>焊接方式</td><td>焊接位置</td><td>焊道布置</td><td>堆焊后型式</td></tr><tr><td rowspan=\"3\">CO2气体保护焊</td><td>平</td><td>陶瓷衬垫</td><td>5~12</td></tr><tr><td>横</td><td>陶瓷衬垫</td><td>5~12</td></tr><tr><td>立</td><td>陶瓷衬垫</td><td>5~12</td></tr></table>",
+    "table_img_path": "images/3290964c597ed8532e9d7b6728a46923af43923049866d46a688e6e35f41d55e.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表A.1 ${ \\mathsf { C } } { \\mathsf { 0 } } _ { 2 }$ 气体保护焊堆焊焊接参数",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表A.1 ${ \\mathsf { C } } { \\mathsf { 0 } } _ { 2 }$ 气体保护焊堆焊焊接参数",
+    "table_body": "<table><tr><td>焊接方法</td><td>规格mm</td><td>焊接位置</td><td>焊道</td><td>焊接电流A</td><td>电弧电压V</td><td>气体流量L/min</td></tr><tr><td rowspan=\"9\">CO2气体保护焊</td><td rowspan=\"9\">Φ1.2/Φ1.0</td><td rowspan=\"3\">平对接</td><td>打底</td><td>160~190</td><td>21~24</td><td rowspan=\"9\">15~25</td></tr><tr><td>填充</td><td>170~240</td><td rowspan=\"2\">21~25</td></tr><tr><td>盖面</td><td>160~250</td></tr><tr><td rowspan=\"3\">横对接</td><td>打底</td><td>160~190</td><td>21~24</td></tr><tr><td>填充</td><td>170~240</td><td rowspan=\"2\">21~25</td></tr><tr><td>盖面</td><td>160~250</td></tr><tr><td rowspan=\"3\">立对接</td><td>打底</td><td>130~170</td><td>19~25</td></tr><tr><td>填充</td><td rowspan=\"2\">130~190</td><td>21~27</td></tr><tr><td>盖面</td><td>21~28</td></tr></table>",
+    "table_img_path": "images/5161f10e989fb2cd2c4559ccb323733afd313a746a68937a404682c76220a5e0.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 埋弧自动焊、非单面衬垫焊的手工电弧焊和 ${ \\mathsf { C } } { \\mathsf { 0 } } _ { 2 }$ 半自动焊、混合焊的对接接头偏差",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 埋弧自动焊、非单面衬垫焊的手工电弧焊和 ${ \\mathsf { C } } { \\mathsf { 0 } } _ { 2 }$ 半自动焊、混合焊的对接接头偏差",
+    "table_body": "<table><tr><td colspan=\"3\">项目</td><td>偏差</td><td>备注</td></tr><tr><td rowspan=\"3\">坡口根部间隙</td><td rowspan=\"3\">坡口根部间隙a</td><td>埋弧自动焊</td><td>≤1.0</td><td>—</td></tr><tr><td>手工电弧焊CO2半自动焊</td><td>≤2.0 (t≤14.0)≤3.0 (t&gt;14.0)</td><td>单面衬垫焊按照相关规范</td></tr><tr><td>混合焊</td><td>≤3.0</td><td>—</td></tr><tr><td colspan=\"5\">注：混合焊是指手工电弧焊或CO2气体保护半自动焊打底，埋弧自动焊盖面，或仰焊采用手工焊、埋弧自动焊封底。</td></tr></table>",
+    "table_img_path": "images/aade99c710a820a6d772d1c93ffcd49754631e602649f7d881ddc4994cd38c7f.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1",
+    "table_body": "<table><tr><td>位数</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td></tr><tr><td>涵义</td><td colspan=\"2\">功能码</td><td colspan=\"2\">小类码</td><td colspan=\"2\">序列码</td><td colspan=\"2\">工序码</td></tr></table>",
+    "table_img_path": "images/4c60060f1424ef14e7caf4fe4b8c6a3ef6551b7c4d32aab705062a3f2c2a964b.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表2",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2",
+    "table_body": "<table><tr><td>序号</td><td>功能代码</td><td>含义</td></tr><tr><td>1</td><td>JG</td><td>船体加工类</td></tr><tr><td>2</td><td>ZH</td><td>船体装焊类</td></tr><tr><td>3</td><td>XZ</td><td>管、电晒装类</td></tr><tr><td>4</td><td>ZD</td><td>轴、舵系晒装类</td></tr><tr><td>5</td><td>XS</td><td>船舶下水类</td></tr><tr><td>6</td><td>TZ</td><td>涂装类</td></tr><tr><td>7</td><td>PD</td><td>攀登类</td></tr><tr><td>8</td><td>ZC</td><td>支撑、承重类</td></tr><tr><td>9</td><td>CZ</td><td>储存与转运类</td></tr><tr><td>10</td><td>QD</td><td>起重与吊装类</td></tr><tr><td>11</td><td>JS</td><td>检验、检测及试验类</td></tr><tr><td>12</td><td>AF</td><td>安全与防护类</td></tr></table>",
+    "table_img_path": "images/9bdb608740a4a9ec24bfc017f66328175c44713854c1332f038335e7f4398787.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表3",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表3",
+    "table_body": "<table><tr><td>功能</td><td>小类码</td><td>含义</td></tr><tr><td rowspan=\"2\">船体加工类</td><td>01</td><td>边缘加工类</td></tr><tr><td>02</td><td>成型加工类</td></tr><tr><td rowspan=\"3\">船体装焊类</td><td>01</td><td>装配类</td></tr><tr><td>02</td><td>磁力工装类</td></tr><tr><td>03</td><td>焊接类</td></tr><tr><td rowspan=\"2\">管、电舾装类</td><td>01</td><td>管子</td></tr><tr><td>02</td><td>电器</td></tr><tr><td rowspan=\"4\">轴、舵系舾装类</td><td>01</td><td>轴系加工类</td></tr><tr><td>02</td><td>舵系加工类</td></tr><tr><td>03</td><td>轴、舵系安装</td></tr><tr><td>04</td><td>基座加工工装</td></tr><tr><td rowspan=\"3\">船舶下水类</td><td>01</td><td>船坞下水类</td></tr><tr><td>02</td><td>船台下水类</td></tr><tr><td>03</td><td>平地造船、半潜舶下水类</td></tr><tr><td rowspan=\"3\">涂装类</td><td>01</td><td>钢材预处理类</td></tr><tr><td>02</td><td>钢材表面二次处理</td></tr><tr><td>03</td><td>喷涂类</td></tr><tr><td rowspan=\"2\">攀登类</td><td>01</td><td>脚手类</td></tr><tr><td>02</td><td>直梯、斜梯类</td></tr><tr><td rowspan=\"2\">支撑、承重类</td><td>01</td><td>支撑类</td></tr><tr><td>02</td><td>承重类</td></tr><tr><td rowspan=\"2\">储存与转运类</td><td>01</td><td>储存类</td></tr><tr><td>02</td><td>转运类</td></tr><tr><td rowspan=\"2\">起重与吊装类</td><td>01</td><td>起重类</td></tr><tr><td>02</td><td>吊装类</td></tr><tr><td rowspan=\"3\">检验、检测及试验类</td><td>01</td><td>检验类</td></tr><tr><td>02</td><td>检测类</td></tr><tr><td>03</td><td>试验类</td></tr><tr><td rowspan=\"2\">安全与防护类</td><td>01</td><td>措施类</td></tr><tr><td>02</td><td>防护类</td></tr></table>",
+    "table_img_path": "images/31a9ce795da3bc0d35f465f94fdebe3b7d0e6e6125e8d50d9eaca67ed338ae2c.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表4",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表4",
+    "table_body": "<table><tr><td>功能</td><td>小类码</td><td>含义</td><td>序列码</td><td>含义(工装名称)</td></tr><tr><td rowspan=\"10\">船体加工类</td><td rowspan=\"6\">01</td><td rowspan=\"6\">边缘加工类</td><td>01</td><td>坡口切割平台</td></tr><tr><td>02</td><td>火焰切割平台</td></tr><tr><td>03</td><td>干式数控等离子切割平台</td></tr><tr><td>04</td><td>激光切割平台</td></tr><tr><td>05</td><td>手工切割靠模</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"4\">02</td><td rowspan=\"4\">成型加工类</td><td>01</td><td>水火弯板平台</td></tr><tr><td>02</td><td>油压机加工模具</td></tr><tr><td>03</td><td>肋骨冷弯加工随动工装</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"14\">船体装焊类</td><td rowspan=\"14\">01</td><td rowspan=\"14\">装配类</td><td>01</td><td>分段活络胎架</td></tr><tr><td>02</td><td>支点胎架防倾撑杆拉杆</td></tr><tr><td>03</td><td>结构安装防倾架</td></tr><tr><td>04</td><td>可调节拉杆</td></tr><tr><td>05</td><td>肋板拉入装置</td></tr><tr><td>06</td><td>构架固定活络支撑</td></tr><tr><td>07</td><td>无码加强排</td></tr><tr><td>08</td><td>反顶吊码安装小车</td></tr><tr><td>09</td><td>分段固定地锚</td></tr><tr><td>10</td><td>吊码铣根机</td></tr><tr><td>11</td><td>吊码马脚打磨工装</td></tr><tr><td>12</td><td>胎架下顶升小车</td></tr><tr><td>13</td><td>舱口盖顶升扁担</td></tr><tr><td>14</td><td>棘轮拉紧器</td></tr></table>",
+    "table_img_path": "images/ac448e6e28631fd1536d01ed2ed0c6647cc0a8949b55cc182440b091e4df020b.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表4（续）",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表4（续）",
+    "table_body": "<table><tr><td>功能</td><td>小类码</td><td>含义</td><td>序列码</td><td>含义(工装名称)</td></tr><tr><td rowspan=\"24\">船体装焊类</td><td rowspan=\"3\">01</td><td rowspan=\"3\">装配类</td><td>15</td><td>液压拉码</td></tr><tr><td>16</td><td>总段三维调整装置</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"15\">02</td><td rowspan=\"15\">磁力工装类</td><td>01</td><td>磁性防倾斜撑</td></tr><tr><td>02</td><td>磁性拼板工装</td></tr><tr><td>03</td><td>型材安装磁性压码</td></tr><tr><td>04</td><td>部件防倾倒磁性支架</td></tr><tr><td>05</td><td>小型永磁吸盘</td></tr><tr><td>06</td><td>直线修割轻便靠山</td></tr><tr><td>07</td><td>直角对位和防倒塌磁性工装</td></tr><tr><td>08</td><td>型材磁性安装工装</td></tr><tr><td>09</td><td>磁力拉码</td></tr><tr><td>10</td><td>磁铁式接地连接器</td></tr><tr><td>11</td><td>手持式搬运磁铁</td></tr><tr><td>12</td><td>小部件固定永磁铁夹具</td></tr><tr><td>13</td><td>分段下部电缆整理用磁铁</td></tr><tr><td>14</td><td>防止雨水漏入的磁夹具</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"6\">03</td><td rowspan=\"6\">焊接类</td><td>01</td><td>焊接防风罩</td></tr><tr><td>02</td><td>焊接设备悬臂架</td></tr><tr><td>03</td><td>焊接预热与保温工装</td></tr><tr><td>04</td><td>小组焊接机器人</td></tr><tr><td>05</td><td>中组焊接机器人</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"16\">管、电舾装类</td><td rowspan=\"13\">01</td><td rowspan=\"13\">管子</td><td>01</td><td>校管平台</td></tr><tr><td>02</td><td>有色金属管校焊平台</td></tr><tr><td>03</td><td>校管V型托架</td></tr><tr><td>04</td><td>管子编码标刻机</td></tr><tr><td>05</td><td>管子对中工装</td></tr><tr><td>06</td><td>管子焊接变位器</td></tr><tr><td>07</td><td>管子焊接充气工装</td></tr><tr><td>08</td><td>防尘管堵</td></tr><tr><td>09</td><td>双壁管吹扫工装</td></tr><tr><td>10</td><td>合拢管再现工装</td></tr><tr><td>11</td><td>油盘</td></tr><tr><td>12</td><td>投油工装</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"3\">02</td><td rowspan=\"3\">电器</td><td>01</td><td>电缆打码工装</td></tr><tr><td>02</td><td>电缆敷设工装</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"5\">轴、舵系舾装类</td><td rowspan=\"5\">01</td><td rowspan=\"5\">轴系加工类</td><td>01</td><td>尾轴镗孔平台</td></tr><tr><td>02</td><td>桨轴拂配工装</td></tr><tr><td>03</td><td>中间轴铰孔托架</td></tr><tr><td>04</td><td>镗孔排架及临时支撑</td></tr><tr><td>05</td><td>镗排滑车工装</td></tr><tr><td rowspan=\"18\">轴、舵系舾装类</td><td rowspan=\"3\">01</td><td rowspan=\"3\">轴系加工类</td><td>06</td><td>艉鳍末端钻孔模板</td></tr><tr><td>07</td><td>尾轴镗孔镗杆及座架</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"3\">02</td><td rowspan=\"3\">舵系加工类</td><td>01</td><td>舵杆拂配工装</td></tr><tr><td>02</td><td>舵销拂配工装</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"9\">03</td><td rowspan=\"9\">轴、舵系安装</td><td>01</td><td>艉轴接长杆</td></tr><tr><td>02</td><td>轴系安装工装</td></tr><tr><td>03</td><td>艉轴安装小车</td></tr><tr><td>04</td><td>尾套、液压螺母安装工装</td></tr><tr><td>05</td><td>舵衬套吊装工装</td></tr><tr><td>06</td><td>舵杆螺母托盘工装</td></tr><tr><td>07</td><td>赛龙套安装冷冻箱</td></tr><tr><td>08</td><td>桨、舵、轴安装平台</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"3\">04</td><td rowspan=\"3\">基座加工工装</td><td>01</td><td>刮刀</td></tr><tr><td>02</td><td>刮排</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"17\">船舶下水类</td><td rowspan=\"8\">01</td><td rowspan=\"8\">船坞下水类</td><td>01</td><td>半船定位支架</td></tr><tr><td>02</td><td>定位销</td></tr><tr><td>03</td><td>坞侧拖带引船装置</td></tr><tr><td>04</td><td>船/船防撞装置</td></tr><tr><td>05</td><td>半船起浮放水工装</td></tr><tr><td>06</td><td>半船起浮“管弄”封板</td></tr><tr><td>07</td><td>半船起浮艉管封板</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"4\">02</td><td rowspan=\"4\">船台下水类</td><td>01</td><td>船台横担</td></tr><tr><td>02</td><td>船台活络墩</td></tr><tr><td>03</td><td>墩木打撞工装</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"5\">03</td><td rowspan=\"5\">平地造船、半潜 舶下水类</td><td>01</td><td>平台移船小车</td></tr><tr><td>02</td><td>移船小车钢支架</td></tr><tr><td>03</td><td>驳船连接轨道</td></tr><tr><td>04</td><td>过桥梁吊架</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"3\">涂装类</td><td rowspan=\"2\">01</td><td rowspan=\"2\">钢材预处理类</td><td>01</td><td>自动喷码装置</td></tr><tr><td>99</td><td>其它</td></tr><tr><td>02</td><td>钢材表面二次 处理</td><td>01</td><td>手持式冲砂枪</td></tr></table>",
+    "table_img_path": "images/dda44214d39e3ed0c26ae9e3045e50cf972db07facd7b4a6c95c66888d6378b3.jpg",
+    "parent_table": "表4"
+  },
+  {
+    "entity_name": "表4（续2）",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表4（续2）",
+    "table_body": "<table><tr><td>功能</td><td>小类码</td><td>含义</td><td>序列码</td><td>含义(工装名称)</td></tr><tr><td rowspan=\"4\">涂装类</td><td rowspan=\"2\">02</td><td rowspan=\"2\">钢材表面二次处理</td><td>02</td><td>船体表面除锈系统</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"2\">03</td><td rowspan=\"2\">喷涂类</td><td>01</td><td>外板喷涂爬行机器人</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"14\">攀登类</td><td rowspan=\"5\">01</td><td rowspan=\"5\">脚手类</td><td>01</td><td>脚手固定架</td></tr><tr><td>02</td><td>脚手端头安全栏杆柱</td></tr><tr><td>03</td><td>脚手架</td></tr><tr><td>04</td><td>脚手板</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"9\">02</td><td rowspan=\"9\">直梯、斜梯类</td><td>01</td><td>移动式斜梯</td></tr><tr><td>02</td><td>胎架上下斜踏步</td></tr><tr><td>03</td><td>移动式作业平台</td></tr><tr><td>04</td><td>外板端接缝工作笼</td></tr><tr><td>05</td><td>集装箱船定位销安装作业平台</td></tr><tr><td>06</td><td>舷侧移动作业吊篮</td></tr><tr><td>07</td><td>登船梯</td></tr><tr><td>08</td><td>船/船间桥</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"13\">支撑、承重类</td><td rowspan=\"5\">01</td><td rowspan=\"5\">支撑类</td><td>01</td><td>手推式分段搁凳</td></tr><tr><td>02</td><td>可调搁墩与支撑头</td></tr><tr><td>03</td><td>高位固定支撑墩</td></tr><tr><td>04</td><td>上建总组辅助支撑</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"8\">02</td><td rowspan=\"8\">承重类</td><td>01</td><td>特殊零件托架</td></tr><tr><td>02</td><td>薄板零件托架</td></tr><tr><td>03</td><td>支撑墩</td></tr><tr><td>04</td><td>高位组合支撑</td></tr><tr><td>05</td><td>挂舵臂总段翻身搁榄</td></tr><tr><td>06</td><td>特殊形状分段承重墩</td></tr><tr><td>07</td><td>舱盖临时搁墩</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"8\">储存与转运类</td><td rowspan=\"8\">01</td><td rowspan=\"8\">储存类</td><td>01</td><td>曲面零件托架</td></tr><tr><td>02</td><td>型材托架</td></tr><tr><td>03</td><td>管材托架</td></tr><tr><td>04</td><td>托盘放置架</td></tr><tr><td>05</td><td>电缆筒托架</td></tr><tr><td>06</td><td>气源管收放转盘</td></tr><tr><td>07</td><td>船体小零件托盘</td></tr><tr><td>08</td><td>吊索存放栏</td></tr><tr><td rowspan=\"17\">储存与转运类</td><td rowspan=\"7\">01</td><td rowspan=\"7\">储存类</td><td>09</td><td>防倾倒装置存放架</td></tr><tr><td>10</td><td>分段支撑墩</td></tr><tr><td>11</td><td>吊排托架</td></tr><tr><td>12</td><td>脚手打包架</td></tr><tr><td>13</td><td>料架</td></tr><tr><td>14</td><td>工具设备箱</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"10\">02</td><td rowspan=\"10\">转运类</td><td>01</td><td>原材料输送辊道</td></tr><tr><td>02</td><td>原材料输送小车</td></tr><tr><td>03</td><td>钢板运输门架</td></tr><tr><td>04</td><td>壁板类部件运输托架</td></tr><tr><td>05</td><td>部件运输托架</td></tr><tr><td>06</td><td>分段门架</td></tr><tr><td>07</td><td>分段移位小车</td></tr><tr><td>08</td><td>分段转运托架</td></tr><tr><td>09</td><td>管子单元运输平台</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"12\">起重与吊装类</td><td rowspan=\"6\">01</td><td rowspan=\"6\">起重类</td><td>01</td><td>电磁吊吊排</td></tr><tr><td>02</td><td>大型吊排</td></tr><tr><td>03</td><td>分拣电磁小吊排</td></tr><tr><td>04</td><td>单元模块吊排</td></tr><tr><td>05</td><td>起吊钢索防缠绕装置</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"6\">02</td><td rowspan=\"6\">吊装类</td><td>01</td><td>艉轴拂配起吊工装</td></tr><tr><td>02</td><td>中间轴起吊工装</td></tr><tr><td>03</td><td>联轴节起吊工装</td></tr><tr><td>04</td><td>球扁钢夹头</td></tr><tr><td>05</td><td>分段翻滚支撑</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"9\">检验、检测及试验类</td><td rowspan=\"7\">01</td><td rowspan=\"7\">检验类</td><td>01</td><td>活络三角样板</td></tr><tr><td>02</td><td>活络样板校验台</td></tr><tr><td>03</td><td>CM节点检验样板</td></tr><tr><td>04</td><td>预密性工装</td></tr><tr><td>05</td><td>角焊缝密性专用阀座</td></tr><tr><td>06</td><td>计程仪、测深仪密试工装</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"2\">02</td><td rowspan=\"2\">检测类</td><td>01</td><td>T排、型材安装检测工装</td></tr><tr><td>02</td><td>厚板坡口检测工装</td></tr></table>",
+    "table_img_path": "images/de53ff38044adbe51353fc040e4189b8d2d49503de0c13ade3fea615071562bc.jpg",
+    "parent_table": "表4"
+  },
+  {
+    "entity_name": "表4（续3）",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表4（续3）",
+    "table_body": "<table><tr><td>功能</td><td>小类码</td><td>含义</td><td>序列码</td><td>含义(工装名称)</td></tr><tr><td rowspan=\"18\">检验、检测及试验类</td><td rowspan=\"13\">02</td><td rowspan=\"13\">检测类</td><td>03</td><td>肋骨量角器</td></tr><tr><td>04</td><td>超厚板补坡口&amp;板厚差定位工装</td></tr><tr><td>05</td><td>弯管卡尺</td></tr><tr><td>06</td><td>法兰安装检测卡尺</td></tr><tr><td>07</td><td>尾管测同轴度工装</td></tr><tr><td>08</td><td>舵机安装测量工装</td></tr><tr><td>09</td><td>全站仪测量光靶</td></tr><tr><td>10</td><td>电子测距辅助工装</td></tr><tr><td>11</td><td>可调光靶</td></tr><tr><td>12</td><td>基准靶工装</td></tr><tr><td>13</td><td>拉线架</td></tr><tr><td>14</td><td>光靶</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"5\">03</td><td rowspan=\"5\">试验类</td><td>01</td><td>船舶发电机组负载试验工装</td></tr><tr><td>02</td><td>集装箱船试箱工装</td></tr><tr><td>03</td><td>管子强度试验工装</td></tr><tr><td>04</td><td>管系密性工装</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"19\">安全与防护类</td><td rowspan=\"10\">01</td><td rowspan=\"10\">安全措施类</td><td>01</td><td>开口处防坠落盖</td></tr><tr><td>02</td><td>甲板开口防雨防坠工装</td></tr><tr><td>03</td><td>舱口临时护栏</td></tr><tr><td>04</td><td>尖角防碰撞罩</td></tr><tr><td>05</td><td>舱壁边缘安全通道</td></tr><tr><td>06</td><td>舱口围防倾装置</td></tr><tr><td>07</td><td>安全警戒绳收集架</td></tr><tr><td>08</td><td>系留穴临时栏杆立柱</td></tr><tr><td>09</td><td>管束单元防倾倒支架</td></tr><tr><td>99</td><td>其它</td></tr><tr><td rowspan=\"9\">02</td><td rowspan=\"9\">安全防护类</td><td>01</td><td>工作吊笼</td></tr><tr><td>02</td><td>高空作业车防撞支架</td></tr><tr><td>03</td><td>柔性门防坠落装置</td></tr><tr><td>04</td><td>车间安全通道管线架空架</td></tr><tr><td>05</td><td>电缆线固定支架</td></tr><tr><td>06</td><td>车间内部栏杆</td></tr><tr><td>07</td><td>外场安全通道走线架</td></tr><tr><td>08</td><td>坞边电缆托架</td></tr><tr><td>09</td><td>管道防护栏</td></tr><tr><td rowspan=\"9\">安全与防护类</td><td rowspan=\"9\">02</td><td rowspan=\"9\">安全防护类</td><td>10</td><td>免焊临时栏杆立柱</td></tr><tr><td>11</td><td>舱口盖护栏</td></tr><tr><td>12</td><td>船坞栏杆</td></tr><tr><td>13</td><td>移动式安全护栏</td></tr><tr><td>14</td><td>皮带保护槽</td></tr><tr><td>15</td><td>舷侧工具箱悬挂平台</td></tr><tr><td>16</td><td>开口处防水围栏</td></tr><tr><td>17</td><td>安全带便携式挂钩夹头</td></tr><tr><td>99</td><td>其它</td></tr></table>",
+    "table_img_path": "images/6917b3b884c1f5eda5cc3e0837c3f8fa7579f6ab33326fe302c905eac5454a1f.jpg",
+    "parent_table": "表4"
+  },
+  {
+    "entity_name": "表5 生产中日程计划及其工序",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表5 生产中日程计划及其工序",
+    "table_body": "<table><tr><td colspan=\"6\">先行中日程计划P</td></tr><tr><td>工序名称</td><td>工序编码</td><td>工序名称</td><td>工序编码</td><td>工序名称</td><td>工序编码</td></tr><tr><td>预处理</td><td>P</td><td>分段预埋</td><td>A</td><td>预搭载</td><td>X</td></tr><tr><td>下料</td><td>L</td><td>完整性报验</td><td>D</td><td>预搭载舾装</td><td>S</td></tr><tr><td>加工</td><td>J</td><td>分段预舾装</td><td>K</td><td>预搭载涂装</td><td>3</td></tr><tr><td>小组立</td><td>B</td><td>分段涂装</td><td>1</td><td>-</td><td>-</td></tr><tr><td>中组立</td><td>M</td><td>总组</td><td>E</td><td>-</td><td>-</td></tr><tr><td>中组立舾装</td><td>H</td><td>总段预舾装</td><td>G</td><td>-</td><td>-</td></tr><tr><td>大组立</td><td>C</td><td>总段涂装</td><td>2</td><td>-</td><td>-</td></tr><tr><td colspan=\"6\">搭载中日程计划D</td></tr><tr><td>工序名称</td><td>工序编码</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td>搭载</td><td>D</td><td>-</td><td>-</td><td>-</td><td>-</td></tr><tr><td colspan=\"6\">后行中日程计划A</td></tr><tr><td>任务类型</td><td>任务编码</td><td>任务类型</td><td>任务编码</td><td>任务类型</td><td>任务编码</td></tr><tr><td>电舾件安装</td><td>E</td><td>外装试验(调试)</td><td>7</td><td>内装舱室材料安装</td><td>W</td></tr><tr><td>电缆安装</td><td>M</td><td>机装铁舾安装</td><td>F</td><td>内装管子安装</td><td>U</td></tr><tr><td>电缆填料</td><td>N</td><td>机装设备安装</td><td>J</td><td>内装风管安装</td><td>R</td></tr><tr><td>电气设备安装</td><td>K</td><td>机装管子安装</td><td>G</td><td>内装铁舾安装</td><td>T</td></tr><tr><td>电装试验(调试)</td><td>A</td><td>机装风管安装</td><td>V</td><td>内装设备安装</td><td>Z</td></tr><tr><td>外装铁舾安装</td><td>B</td><td>机装试验(调试)</td><td>C</td><td>内装试验(调试)</td><td>8</td></tr></table>",
+    "table_img_path": "images/2d559f910e6c85fac75d579b2a0779f8e4ead94f5ddc9c9ca8e80373326cf253.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表5 生产中日程计划及其工序（续）",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表5 生产中日程计划及其工序（续）",
+    "table_body": "<table><tr><td colspan=\"6\">后行中日程计划A</td></tr><tr><td>任务类型</td><td>任务编码</td><td>任务类型</td><td>任务编码</td><td>任务类型</td><td>任务编码</td></tr><tr><td>外装设备安装</td><td>D</td><td>机装主机轴系工程</td><td>H</td><td>舱室完整性</td><td>S</td></tr><tr><td>外装管子安装</td><td>P</td><td>机装水下工程</td><td>L</td><td>综合项目</td><td>X</td></tr><tr><td>外装风管安装</td><td>Y</td><td>机装舵机工程</td><td>Q</td><td>一般涂装</td><td>4</td></tr><tr><td colspan=\"6\">制作中日程计划U</td></tr><tr><td>制作类型</td><td>制作编码</td><td>制作类型</td><td>制作编码</td><td>制作类型</td><td>制作编码</td></tr><tr><td>管子制作</td><td>G</td><td>帆缆类制作</td><td>C</td><td>单元制作</td><td>U</td></tr><tr><td>风管类制作</td><td>V</td><td>铁舾件制作</td><td>F</td><td>-</td><td>-</td></tr><tr><td>木舾制作</td><td>W</td><td>电舾制作</td><td>B</td><td>-</td><td>-</td></tr></table>",
+    "table_img_path": "images/83bba83fee77c8d4b25de00281c8433dd983815d40aea4312251470a594c85a3.jpg",
+    "parent_table": "表5 生产中日程计划及其工序"
+  },
+  {
+    "entity_name": "表1 焊接材料选用表",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 焊接材料选用表",
+    "table_body": "<table><tr><td>焊丝型号</td><td>我司常用焊丝牌号</td><td>规格</td><td>焊丝等级</td><td>适用于钢材等级</td><td>适用板厚</td></tr><tr><td rowspan=\"4\">AWS A5.20E71T-1</td><td>GFL-71</td><td rowspan=\"7\">Φ1.2Φ1.0</td><td rowspan=\"4\">3Y</td><td rowspan=\"4\">A、B、D、E、A32、A36、D32、D36、E32、E36</td><td rowspan=\"4\">9~36</td></tr><tr><td>Surpercored 71</td></tr><tr><td>CHT711</td></tr><tr><td>YCJ501-1</td></tr><tr><td>AWS A5.36E81T1-C1A6-K2</td><td>Supercored81-K2</td><td>5Y40</td><td>A32、A36、D32、D36、E32、E36、A40、D40、E40</td><td>20~80</td></tr><tr><td>AWS A5.36E81T1-C1A8-K2</td><td>SC-81K2H</td><td rowspan=\"2\">5Y46</td><td>A40、D40、E40、D47、E47</td><td rowspan=\"2\">40~100</td></tr><tr><td>AWS A5.29E81T1-K2C</td><td>GFR-81K2</td><td>A40、D40、E40、D47、E47</td></tr></table>",
+    "table_img_path": "images/1cb2945e76163e876e30e1921e099ac605a8fd5d123f4b4808c7fc1756061b49.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表A.1 平对接、立对接自动焊坡口要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表A.1 平对接、立对接自动焊坡口要求",
+    "table_body": "<table><tr><td>焊接方式</td><td>板厚tmm</td><td>坡口型式</td><td>坡口角度θ°</td><td>间隙gmm</td><td>钝边hmm</td></tr><tr><td rowspan=\"2\">平对接、立对接自动焊</td><td>6≤t≤40</td><td rowspan=\"2\">θt</td><td>40+5-5</td><td>6+6-1</td><td rowspan=\"2\">0~2</td></tr><tr><td>40&lt; t</td><td>35+5-0</td><td>8+6-2</td></tr></table>",
+    "table_img_path": "images/68a8975e7bb9d9ccb311ecc701ce14ec8c0f426618e3eaf8f6ddd8ecd40ffcfd.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表A.2 横对接自动焊坡口要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表A.2 横对接自动焊坡口要求",
+    "table_body": "<table><tr><td rowspan=\"2\">焊接方式</td><td rowspan=\"2\">板厚tmm</td><td rowspan=\"2\">坡口型式</td><td colspan=\"2\">坡口角度</td><td rowspan=\"2\">间隙gmm</td><td rowspan=\"2\">钝边hmm</td></tr><tr><td>θ°</td><td>a°</td></tr><tr><td rowspan=\"2\">横对接自动焊</td><td>6≤t≤40</td><td rowspan=\"2\">tga</td><td rowspan=\"2\">10+50</td><td>30+5-5</td><td rowspan=\"2\">6+6-1</td><td rowspan=\"2\">0~2</td></tr><tr><td>40&lt; t</td><td>25+5-5</td></tr></table>",
+    "table_img_path": "images/6d5e544219d737c990f66857c3e04730bfa1d462a66da9d48c1f5da3af62f07c.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表A.3 双面焊坡口要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表A.3 双面焊坡口要求",
+    "table_body": "<table><tr><td rowspan=\"2\">焊接方式</td><td rowspan=\"2\">板厚tmm</td><td rowspan=\"2\">坡口型式</td><td colspan=\"2\">坡口角度°</td><td rowspan=\"2\">间隙gmm</td><td rowspan=\"2\">钝边hmm</td></tr><tr><td>θ°</td><td>a°</td></tr><tr><td rowspan=\"4\">平对接、立对接自动焊</td><td rowspan=\"2\">20&lt; t≤40</td><td rowspan=\"2\">θt2t/3a</td><td>40+5-5</td><td>50+5-5</td><td>0~3</td><td rowspan=\"4\">0~2</td></tr><tr><td>40+5-5</td><td>50+5-5</td><td>8+6-2</td></tr><tr><td rowspan=\"2\">40&lt; t</td><td rowspan=\"2\">θt2t/2a</td><td>35+20-0</td><td>35+20-0</td><td>0~3</td></tr><tr><td>35+20-0</td><td>35+20-0</td><td>8+6-2</td></tr><tr><td rowspan=\"4\">横对接自动焊</td><td rowspan=\"2\">20&lt; t≤40</td><td rowspan=\"2\">aθt2t/3</td><td rowspan=\"2\">10+50</td><td rowspan=\"2\">35+5-5</td><td>0~3</td><td rowspan=\"2\">0~2</td></tr><tr><td>6+6-1</td></tr><tr><td rowspan=\"2\">40&lt; t</td><td rowspan=\"2\">aθt2t/2</td><td rowspan=\"2\">10+50</td><td rowspan=\"2\">35+5-5</td><td>0~3</td><td rowspan=\"2\">0~2</td></tr><tr><td>6+6-1</td></tr></table>",
+    "table_img_path": "images/f3cb834526cc1be5dd657ece9a0db87a48f26617b0329c06f01335b2c2f7b434.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表B.1 推荐的焊接参数",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表B.1 推荐的焊接参数",
+    "table_body": "<table><tr><td>位置</td><td>焊道</td><td>焊接电流A</td><td>电弧电压V</td><td>焊接速度cm/min</td><td>摆动频率周/min</td><td>气体流量L/min</td><td>摆动停留时间S</td><td>备注</td></tr><tr><td rowspan=\"3\">平对接立对接</td><td>打底</td><td>170~190</td><td>25~30</td><td>5~20</td><td rowspan=\"3\">10~20</td><td rowspan=\"3\">15~20</td><td rowspan=\"3\">0~1</td><td rowspan=\"6\">a)打底采用手工半自动CO2焊,应控制电流避免裂纹的产生;b)具体的焊接参数可在此范围内调节,以保证焊缝成型和焊接质量为宜。</td></tr><tr><td>填充</td><td>190~250</td><td>26~32</td><td>9~25</td></tr><tr><td>盖面</td><td>200~260</td><td>26~32</td><td>8~25</td></tr><tr><td rowspan=\"3\">横对接</td><td>打底</td><td>160~180</td><td>23~25</td><td>10~20</td><td rowspan=\"3\">-</td><td rowspan=\"3\">15~20</td><td rowspan=\"3\">-</td></tr><tr><td>填充</td><td>180~260</td><td>30~32</td><td>30~40</td></tr><tr><td>盖面</td><td>190~220</td><td>30~32</td><td>40~50</td></tr></table>",
+    "table_img_path": "images/4d71fecd1a8759e23fc77e2d63daffadfdfbd3ea5b0ab03459aa26e913694391.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 自动角焊小车类型及适用位置",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 自动角焊小车类型及适用位置",
+    "table_body": "<table><tr><td>自动角焊小车类型</td><td>适用填角焊缝位置</td><td>导向行走方式</td></tr><tr><td>平角焊小车</td><td>平、横位置</td><td rowspan=\"2\">无轨式</td></tr><tr><td>立角焊小车</td><td>立位置</td></tr></table>",
+    "table_img_path": "images/f87f5acf18afc4b57d1d84751e66f197b0e35ac589d9a694d20a9edf3f89d5e8.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表2 自动角焊小车推荐用焊丝",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2 自动角焊小车推荐用焊丝",
+    "table_body": "<table><tr><td>填角焊缝位置</td><td>型号</td><td>规格</td><td>等级</td><td>适用钢材等级</td></tr><tr><td rowspan=\"4\">平位置、横位置</td><td>AWS A5.20 E70T-1C、E71T-1C</td><td rowspan=\"2\">φ1.0、φ1.2</td><td rowspan=\"2\">3Y</td><td rowspan=\"2\">A、B、D、E、AH32、DH32、EH32、AH36、DH36、EH36</td></tr><tr><td>AWS A5.36 E70T-C1</td></tr><tr><td>AWS A5.20 E71T-1C-J</td><td rowspan=\"2\">φ1.2</td><td>4Y</td><td>A、B、D、E、AH32、DH32、EH32、FH32、AH36、DH36、EH36、FH36</td></tr><tr><td>AWS A5.29 E81T1-K2C</td><td>5Y40</td><td>AH32、DH32、EH32、FH32、AH36、DH36、EH36、FH36、AH40、DH40、EH40、FH40</td></tr><tr><td rowspan=\"3\">立位置</td><td>AWS A5.20 E71T-9C、E71T-1C</td><td>φ1.0、φ1.2</td><td>3Y</td><td>A、B、D、E、AH32、DH32、EH32、AH36、DH36、EH36</td></tr><tr><td>AWS A5.20 E71T-1C-J</td><td rowspan=\"2\">φ1.2</td><td>4Y</td><td>A、B、D、E、AH32、DH32、EH32、FH32、AH36、DH36、EH36、FH36</td></tr><tr><td>AWS A5.29 E81T1-K2C</td><td>5Y40</td><td>AH32、DH32、EHH32、FH32、AH36、DH36、EH36、FH36、AH40、DH40、EH40、FH40</td></tr></table>",
+    "table_img_path": "images/7292e97001da12796602425c6b6d52753fa3e399add79bcabadba2f8375de34d.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表3 定位焊焊接方法和焊材要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表3 定位焊焊接方法和焊材要求",
+    "table_body": "<table><tr><td rowspan=\"2\">焊接方法</td><td colspan=\"3\">规格</td></tr><tr><td>板厚t≤7</td><td>7&lt;板厚t≤10</td><td>板厚t&gt;10</td></tr><tr><td>手工电弧焊</td><td>φ2.5</td><td>φ2.5、φ3.2</td><td>φ3.2、φ4.0</td></tr><tr><td>药芯焊丝CO2半自动焊</td><td>φ1.0</td><td>φ1.0、φ1.2</td><td>φ1.2</td></tr></table>",
+    "table_img_path": "images/3a89cd77ed3800f2852dbe40c385299f37a83ec3ebc09d0c5561301a42aec9d1.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表4 定位焊长度、高度、间距要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表4 定位焊长度、高度、间距要求",
+    "table_body": "<table><tr><td>图示</td><td>板厚</td><td>长度L</td><td>间距L1</td><td>焊脚K1</td><td>备注</td></tr><tr><td rowspan=\"2\">L</td><td>≤7</td><td>15~20</td><td>100~150</td><td>≤2</td><td rowspan=\"2\">焊缝呈内凹型</td></tr><tr><td>&gt;7</td><td>普通钢≥30高强钢≥50</td><td>250~350</td><td>≤1/2正式焊脚</td></tr></table>",
+    "table_img_path": "images/5b09a3e0add464ba2711d5eed998b33b848e6efe6b3da2cb7df9349ee8b2f932.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表5 自动角焊小车最小应用长度要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表5 自动角焊小车最小应用长度要求",
+    "table_body": "<table><tr><td rowspan=\"2\">自动角焊小车类型</td><td colspan=\"3\">施工阶段</td><td rowspan=\"2\">备注</td></tr><tr><td>部件</td><td>组立</td><td>总组、搭载</td></tr><tr><td>平角焊小车</td><td>≥500</td><td>≥500</td><td rowspan=\"2\">≥1000</td><td rowspan=\"2\">无结构阻挡</td></tr><tr><td>立角焊小车</td><td>≥1000</td><td>≥1000</td></tr></table>",
+    "table_img_path": "images/355ab39b2cb9e9efba97971690a8f79d121cd18127b137eb2c102b765a74bbce.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表 A 自动角焊小车焊接参数",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表 A 自动角焊小车焊接参数",
+    "table_body": "<table><tr><td>填角焊缝和位置</td><td>焊脚Kmm</td><td>焊丝规格mm</td><td>电流A</td><td>电压V</td><td>速度mm/min</td></tr><tr><td rowspan=\"5\">平角焊、横角焊</td><td>3.5≤k≤4</td><td rowspan=\"2\">Φ1.0</td><td>170~180</td><td rowspan=\"3\">26~28</td><td>600~630</td></tr><tr><td rowspan=\"2\">4&lt;k≤5</td><td>180~200</td><td rowspan=\"2\">550~600</td></tr><tr><td rowspan=\"3\">Φ1.2</td><td rowspan=\"2\">220~230</td></tr><tr><td>5&lt;k≤6</td><td rowspan=\"2\">28~30</td><td>450~550</td></tr><tr><td>7≤k≤8</td><td rowspan=\"2\">260~280</td><td>300~350</td></tr><tr><td rowspan=\"4\">立向上角焊</td><td rowspan=\"2\">4≤k≤5</td><td>Φ1.0</td><td rowspan=\"2\">18~22</td><td>350~450</td></tr><tr><td rowspan=\"3\">Φ1.2</td><td>180~220</td><td>300~400</td></tr><tr><td>5&lt;k≤7</td><td>180~240</td><td>20~24</td><td rowspan=\"2\">250~300</td></tr><tr><td>7≤k≤8</td><td>200~240</td><td>23~26</td></tr><tr><td colspan=\"6\">注1:应根据现场焊接情况对焊接参数进行微调来保证焊接质量,改善焊缝成型;注2:焊脚尺寸K&gt;8时,焊脚填角焊缝焊接参数可参考表中参数。</td></tr></table>",
+    "table_img_path": "images/375360026b73d92ae8411639b059b6701eb42fadfef590e1c2297f1daa00a879.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表B 自动角焊小车焊缝焊道布置要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表B 自动角焊小车焊缝焊道布置要求",
+    "table_body": "<table><tr><td>填角焊缝位置</td><td>焊脚尺寸</td><td colspan=\"3\">适用焊道布置方式</td></tr><tr><td rowspan=\"3\">平位置</td><td>Ka≤5</td><td rowspan=\"2\">1</td><td>-</td><td>-</td></tr><tr><td>5&lt;Ka≤8</td><td>2</td><td>-</td></tr><tr><td>Ka&gt;8</td><td>3</td><td>7</td><td>3</td></tr><tr><td rowspan=\"3\">横位置</td><td>Ka≤5</td><td rowspan=\"2\">1</td><td>-</td><td>-</td></tr><tr><td>5&lt;Ka≤8</td><td>2</td><td>3</td></tr><tr><td>Ka&gt;8</td><td>3</td><td>7</td><td>3</td></tr><tr><td rowspan=\"3\">立位置</td><td>Ka≤5</td><td rowspan=\"2\">1</td><td>-</td><td>-</td></tr><tr><td>5&lt;Ka≤8</td><td>2</td><td>-</td></tr><tr><td>Ka&gt;8</td><td>3</td><td>7</td><td>1/24</td></tr></table>",
+    "table_img_path": "images/2d5063102ffe7ef347ef2a98f57716de7e0539e3a2f7f6d64b5bd74d08ba879f.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表C 自动角焊小车焊缝成型及焊脚尺寸要求",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表C 自动角焊小车焊缝成型及焊脚尺寸要求",
+    "table_body": "<table><tr><td colspan=\"2\">项目</td><td>标准范围</td><td>备注</td></tr><tr><td>焊趾侧面角 θ</td><td colspan=\"2\">≤60°</td><td>最大不超过90°,超过90°需打磨处理</td></tr><tr><td>设计焊脚尺寸K实际焊脚尺寸Ka设计焊喉尺寸h实际焊喉尺寸ha</td><td colspan=\"2\">0.9K≤Ka≤1.1K0.9h≤ha≤1.1h</td><td>a)当焊脚要求未达到允许范围时,应进行修补,且不应形成短焊缝;b)薄板角焊缝焊脚尺寸0.9K≤Ka≤1.0K</td></tr><tr><td>咬边e</td><td colspan=\"2\">强力结构:e≤0.5其他:e≤0.8</td><td>a)e≤0.5~0.8时,如有尖锐咬边,即使咬边角度小于90°也应打磨至光顺;b)e&gt;0.8时,应焊接修补(高强度钢应避免短焊道修补)</td></tr></table>",
+    "table_img_path": "images/86a36e5e569825324557f00f2ed81ceded18e6290abcc67644e0d6b5b111841c.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表1 预涂处理",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表1 预涂处理",
+    "table_body": "<table><tr><td>项目</td><td>子项目</td><td>处理</td><td colspan=\"2\">部位示例</td><td>示意图编号</td></tr><tr><td rowspan=\"6\">边缘</td><td rowspan=\"5\">火焰切割边缘</td><td rowspan=\"4\">打磨</td><td rowspan=\"2\">孔的边缘</td><td>小圆孔、扇形孔</td><td>①</td></tr><tr><td>大孔(人孔)</td><td>②</td></tr><tr><td rowspan=\"2\">自由边</td><td>补板</td><td>③</td></tr><tr><td>加强筋</td><td>④</td></tr><tr><td rowspan=\"2\">轧制</td><td colspan=\"2\">T形梁</td><td>⑤</td></tr><tr><td>轧制边</td><td colspan=\"2\">角型梁,轧制扁钢</td><td>⑥</td></tr><tr><td rowspan=\"3\">焊缝</td><td>自动焊</td><td>自动焊接</td><td colspan=\"2\">纵梁和板的接头</td><td>⑦</td></tr><tr><td rowspan=\"2\">手工焊</td><td rowspan=\"2\">手工焊接</td><td colspan=\"2\">补板接头(喷涂时膜厚不易达到)</td><td>⑧</td></tr><tr><td colspan=\"2\">加强筋接头(喷涂时膜厚不易达到)</td><td>⑨</td></tr></table>",
+    "table_img_path": "images/242e5a309ccc12ff0c4daeb7ba4e992e720f4e506e3d39dbf2afcdd3bc6b9071.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表2",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2",
+    "table_body": "<table><tr><td>序号</td><td>缺陷</td><td>处理方法</td></tr><tr><td>1</td><td>起泡</td><td>1)去除;2)动力工具清除至完好涂层,如果起泡见到底材,应打磨至ISO 8501-1:1988规定的St3级,然后逐层修补</td></tr><tr><td>2</td><td>细纹</td><td>1)刮擦表面去除表面细纹;2)重涂面漆</td></tr><tr><td>3</td><td>龟裂</td><td>1)对龟裂区域进行拉毛处理;2)逐层修补涂装</td></tr><tr><td>4</td><td>超过重涂间隔</td><td>1)用砂纸或砂轮片拉毛表面;2)逐层修补涂装</td></tr><tr><td>5</td><td>内含磨料</td><td>1)打磨内含磨料的区域直至完好涂层或底材;2)逐层修补涂装</td></tr><tr><td>6</td><td>针孔</td><td>打磨或打砂纸至适当的标准之后逐层修补</td></tr><tr><td>7</td><td>机械损伤</td><td>1)对机械损伤部位打磨ISO 8501-1:1988规定的St3至完好涂层或底材;2)逐层修补涂装</td></tr><tr><td>8</td><td>剥皮/碎片/结合力失效</td><td>1)铲除缺陷涂层;2)动力工具清除至完好涂层;3)逐层修补涂装</td></tr></table>",
+    "table_img_path": "images/4110b77df7f24113adaa58bfcb3ff7c5d4d74120c752344515d4bfbae9b6faf6.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表2（续）",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表2（续）",
+    "table_body": "<table><tr><td>序号</td><td>缺陷</td><td>处理方法</td></tr><tr><td>9</td><td>涂料施工后不久受雨水淋湿</td><td>1）砂纸打磨使表面粗糙；\n2）重涂</td></tr><tr><td>10</td><td>流挂起皱</td><td>1）不必处理，除非流挂和起皱面积较大或焊缝上的流挂；\n2）用铲刀铲平流挂部位，再用砂纸打磨处理，\n3）逐层修补涂装</td></tr><tr><td>11</td><td>超厚</td><td>根据超厚的实际情况，三方制定修补方法。经打磨处理后逐层修补涂装</td></tr><tr><td colspan=\"3\">注1：上述未尽的现场临时修补方案应参考涂料厂商的推荐。\n注2：涂层修补搭接区域应处理成斜坡状。</td></tr></table>",
+    "table_img_path": "images/5b62a0ce3a2012318086cd6502cb426f6e64ef268ceac199bc2fdbbd9193e2a7.jpg",
+    "parent_table": "表2"
+  },
+  {
+    "entity_name": "图A.1",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/图A.1",
+    "table_body": "<table><tr><td>船号.</td><td colspan=\"2\"></td><td>涂料厂商</td><td></td></tr><tr><td>钢板炉批号</td><td colspan=\"2\"></td><td>涂料类型</td><td></td></tr><tr><td rowspan=\"3\">船厂/钢厂</td><td rowspan=\"3\" colspan=\"2\"></td><td>涂料牌号</td><td></td></tr><tr><td>涂料批号</td><td></td></tr><tr><td>环境空气温度</td><td></td></tr><tr><td>检验日期</td><td colspan=\"2\"></td><td>检验时间</td><td></td></tr><tr><td>检验项目</td><td colspan=\"2\">验收准则</td><td>检验结果</td><td>结论</td></tr><tr><td>相对湿度</td><td colspan=\"2\">≤85%</td><td></td><td>☐合格☐不合格</td></tr><tr><td>表面温度</td><td colspan=\"2\">涂料厂商推荐</td><td></td><td>☐合格☐不合格</td></tr><tr><td>露点</td><td colspan=\"2\">表面温度大于露点3℃以上</td><td></td><td>☐合格☐不合格</td></tr><tr><td>除锈等级</td><td colspan=\"2\">Sa2.5</td><td></td><td>☐合格☐不合格</td></tr><tr><td>盐份</td><td colspan=\"2\">≤50 mg/m2</td><td></td><td>☐合格☐不合格</td></tr><tr><td>表面粗糙度</td><td colspan=\"2\">比测器:30μm~75μm</td><td></td><td>☐合格☐不合格</td></tr><tr><td>灰尘</td><td>Size class“3”,“4”and“5”equal to 1</td><td>☐目测☐胶带</td><td></td><td>☐合格☐不合格</td></tr><tr><td>油污</td><td colspan=\"2\">无油污</td><td></td><td>☐合格☐不合格</td></tr><tr><td>涂料厂商推荐干膜厚度</td><td colspan=\"2\">15μm~25μm</td><td></td><td>☐合格☐不合格</td></tr><tr><td colspan=\"5\">备注:</td></tr><tr><td colspan=\"3\">检查员签名:</td><td colspan=\"2\">检查员证件编号:</td></tr></table>",
+    "table_img_path": "images/417c1b600ada4fda14d488f57fead51f424fe9e4d326680ce995e7bd8e9ae77f.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "图A.2",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/图A.2",
+    "table_body": "<table><tr><td>船号.</td><td colspan=\"2\"></td><td>建造阶段</td><td>☐分段☐大合拢后</td></tr><tr><td>分段/舱柜编号</td><td colspan=\"2\"></td><td>环境空气温度</td><td></td></tr><tr><td>检验日期</td><td colspan=\"2\"></td><td>检验时间</td><td></td></tr><tr><td>检验项目</td><td colspan=\"2\">验收准则</td><td>检验结果</td><td>结论</td></tr><tr><td>相对湿度</td><td colspan=\"2\">≤85%</td><td></td><td>☐合格☐不合格</td></tr><tr><td>表面温度</td><td colspan=\"2\">涂料厂商推荐</td><td></td><td>☐合格☐不合格</td></tr><tr><td>露点</td><td colspan=\"2\">表面温度大于露点3℃以上</td><td></td><td>☐合格☐不合格</td></tr><tr><td>锐边</td><td colspan=\"2\">R≥2mm或经过三次打磨</td><td></td><td>☐合格☐不合格</td></tr><tr><td>焊缝和钢材表面</td><td colspan=\"2\">P2</td><td></td><td>☐合格☐不合格</td></tr><tr><td>除锈等级</td><td colspan=\"2\">☐St3☐Sa2☐Sa2.5</td><td></td><td>☐合格☐不合格</td></tr><tr><td>盐份(相当于NaCl)</td><td colspan=\"2\">≤50 mg/m2</td><td></td><td>☐合格☐不合格</td></tr><tr><td>表面粗糙度</td><td colspan=\"2\">☐ButtsSt3 achieved☐On Sa2.5,30μm~75μm achieved</td><td></td><td>☐合格☐不合格</td></tr><tr><td>灰尘</td><td>Size class“3”,“4”and “5” equal to 1</td><td>☐目测☐胶带</td><td></td><td>☐合格☐不合格</td></tr><tr><td>油污</td><td colspan=\"2\">无油污</td><td></td><td>☐合格☐不合格</td></tr><tr><td colspan=\"5\">备注:</td></tr><tr><td colspan=\"3\">检查员签名:</td><td colspan=\"2\">检查员证件编号:</td></tr></table>",
+    "table_img_path": "images/36280f4af2d67ead039c94e3cc036b20ffc33dda6d2be06861610922e13d45f0.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "图A.3",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/图A.3",
+    "table_body": "<table><tr><td>船号</td><td colspan=\"2\"></td><td colspan=\"3\">建造阶段</td><td colspan=\"2\">☐ 分段☐ 大合拢后</td></tr><tr><td>分段/舱柜编号</td><td colspan=\"7\"></td></tr><tr><td>施工日期</td><td colspan=\"7\">第一度:第二度:</td></tr><tr><td>涂料厂商</td><td colspan=\"2\"></td><td colspan=\"3\">Paint Type涂料类型</td><td colspan=\"2\"></td></tr><tr><td>涂料牌号</td><td colspan=\"7\">第一度:第二度:</td></tr><tr><td>涂料批号</td><td colspan=\"7\">第一度:第二度:</td></tr><tr><td colspan=\"2\">预涂施工方法</td><td colspan=\"2\">☐刷涂</td><td colspan=\"3\">☐ 滚涂</td><td></td></tr><tr><td colspan=\"2\">第一度统涂施工方法</td><td colspan=\"2\">☐刷涂</td><td colspan=\"3\">☐滚涂</td><td>☐无气喷涂</td></tr><tr><td colspan=\"2\">第二度统涂施工方法</td><td colspan=\"2\">☐刷涂</td><td colspan=\"3\">☐滚涂</td><td>☐无气喷涂</td></tr><tr><td colspan=\"2\">检查项目</td><td>第一度检验</td><td colspan=\"2\">第一次预涂检验</td><td colspan=\"2\">第二次预涂检验</td><td>完工检验</td></tr><tr><td colspan=\"2\">检验日期</td><td></td><td colspan=\"2\"></td><td colspan=\"2\"></td><td></td></tr><tr><td colspan=\"2\">环境空气温度</td><td></td><td colspan=\"2\"></td><td colspan=\"2\"></td><td></td></tr><tr><td colspan=\"2\">相对湿度(%)</td><td></td><td colspan=\"2\"></td><td colspan=\"2\"></td><td></td></tr><tr><td colspan=\"2\">露点</td><td></td><td colspan=\"2\"></td><td colspan=\"2\"></td><td></td></tr><tr><td colspan=\"2\">表面温度</td><td></td><td colspan=\"2\"></td><td colspan=\"2\"></td><td></td></tr><tr><td colspan=\"8\">备注:</td></tr><tr><td colspan=\"4\">检查员签名:</td><td colspan=\"4\">检查员证件编号:</td></tr></table>",
+    "table_img_path": "images/adaeb8c18e76bf48b04735f17e1619c6d42cf238fc8b96be45cb19793cfa5e7b.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "图A.4",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/图A.4",
+    "table_body": "<table><tr><td>船号</td><td></td><td colspan=\"2\">建造阶段</td><td>☐ 分段☐ 大合拢后</td></tr><tr><td>分段/舱柜编号</td><td colspan=\"4\"></td></tr><tr><td>检验日期</td><td></td><td colspan=\"2\">检验时间</td><td></td></tr><tr><td colspan=\"2\">干膜厚度(μm)</td><td colspan=\"2\">测量点数</td><td>百分比</td></tr><tr><td rowspan=\"4\">第二道涂层后</td><td>&lt;90%NDFT</td><td colspan=\"2\"></td><td></td></tr><tr><td>90%NDFT-NDFT</td><td colspan=\"2\"></td><td></td></tr><tr><td>≥NDFT</td><td colspan=\"2\"></td><td></td></tr><tr><td>TOTAL</td><td colspan=\"2\"></td><td>100%</td></tr><tr><td colspan=\"2\">最大厚度(μm)</td><td colspan=\"3\"></td></tr><tr><td colspan=\"2\">最小厚度(μm)</td><td colspan=\"3\"></td></tr><tr><td colspan=\"2\">平均厚度(μm)</td><td colspan=\"3\"></td></tr><tr><td colspan=\"5\">备注:</td></tr><tr><td colspan=\"3\">检查员签名:</td><td colspan=\"2\">检查员证件编号:</td></tr></table>",
+    "table_img_path": "images/a2102158f4078dc31d87ad0100bf06e5a68323e1e7010dd79fea1f02461860c3.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "图B.1",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/图B.1",
+    "table_body": "<table><tr><td>船号</td><td></td><td colspan=\"2\">舱/柜编号</td><td></td></tr><tr><td>结构部位</td><td colspan=\"4\"></td></tr><tr><td>检验日期</td><td></td><td colspan=\"2\">检验时间</td><td></td></tr><tr><td colspan=\"5\">发现情况的描述:</td></tr><tr><td colspan=\"5\">参考文件(原始记录)</td></tr><tr><td colspan=\"5\">采取的措施:</td></tr><tr><td>日期:</td><td colspan=\"2\">签名:</td><td colspan=\"2\">检查员证件编号:</td></tr></table>",
+    "table_img_path": "images/0e4683f87e424bf5e7c6f73d9b58e7bdd111c7af44a1f2e6160c3ae0196de8da.jpg",
+    "parent_table": ""
+  },
+  {
+    "entity_name": "表 1",
+    "entity_type": "table",
+    "table_path": "f_55l2wt09/表 1",
+    "table_body": "<table><tr><td>油漆类型</td><td>对结构处理的要求</td><td>备注</td></tr><tr><td>纯环氧漆、酚醛环氧漆、玻璃鳞片油漆</td><td>钢材表面处理达到ISO 8501-3:2001 P2级</td><td>-</td></tr><tr><td>无机硅酸锌油漆</td><td rowspan=\"2\">1. 货油舱设计成无结构型式(货油舱结构在甲板面)2. 钢材表面处理达到ISO 8501-3:2001 P3级</td><td rowspan=\"2\">如: Interline 9001,MarineLine油漆等</td></tr><tr><td>热固性聚合物油漆</td></tr></table>",
+    "table_img_path": "images/800f7778d9b138976cce5f14b5e8987eb86f1a2eeac6eb2bf540dc6ba0056cc6.jpg",
+    "parent_table": ""
+  }
+]

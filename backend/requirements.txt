@@ -1,0 +1,25 @@
+fastapi
+uvicorn
+python-multipart
+pymupdf
+pillow
+matplotlib
+html2text
+
+# --- 核心修改区 ---
+python-dotenv       # 避坑：真正的环境变量库名
+paddlepaddle        # 避坑：PaddleOCR 的核心引擎 (默认 CPU 版)
+paddleocr
+paddlenlp
+
+# --- 文档处理区 ---
+# unstructured[all-docs]  # 避坑：装上所有文档处理依赖，减少底层报错
+# langchain-unstructured
+
+# --- 大模型与向量库区 ---
+faiss-cpu
+langgraph
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters

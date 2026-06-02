@@ -1,0 +1,1513 @@
+[
+  {
+    "entity_name": "图1 大板下料尺寸示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/4e78fc8826cc65e9b4caeeb5983f793a282c7b271900462195e5e5aa4805ed6c.jpg"
+    ]
+  },
+  {
+    "entity_name": "图2 结构板条下料尺寸示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/7640d261bb4c4cd32e847c7d957a811bcda235d63c2a409e1d4681aab303d376.jpg"
+    ]
+  },
+  {
+    "entity_name": "图3 型材下料尺寸示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/14005b4e22d2c618cb420078c7e77f25f03b8ac455e4b7d885d91492c7c525ad.jpg"
+    ]
+  },
+  {
+    "entity_name": "图4 肋板下料尺寸示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/c60b38431af5f71b0d4b9a63681a84553efc5387edc49d739b59a3aa222d1795.jpg"
+    ]
+  },
+  {
+    "entity_name": "图5 纵桁下料尺寸示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/c96c4dc71707b5d8841e2cc14f505fcabd455c7ecc44035ffd2899f29370fe99.jpg"
+    ]
+  },
+  {
+    "entity_name": "图6 槽型板加工尺寸示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/eb761e9f869ac76ab6a4602b19c3adf44d66fd9135ba92eb60cfc86d56f03164.jpg"
+    ]
+  },
+  {
+    "entity_name": "图7 波形板加工尺寸示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/50b113fa109abec41e4544f8559ece5655ed4e5945026e6e80a8d5f517da1d67.jpg"
+    ]
+  },
+  {
+    "entity_name": "图8 弯曲板加工尺寸示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/08222a22524b49c11be3b9467870b6a5a3d085ab8b49a14f84713000afffcf13.jpg"
+    ]
+  },
+  {
+    "entity_name": "图9 型材加工（小曲率",
+    "entity_type": "image",
+    "img_paths": [
+      "images/af0f6d00200e195d9b5fa7dec7da28e53742454d2d5be017f08195e5636a9567.jpg"
+    ]
+  },
+  {
+    "entity_name": "图10 型材加工（大曲率",
+    "entity_type": "image",
+    "img_paths": [
+      "images/f704724d051a408345bef1d0a15d17110910dad26ae4491fc66f3ad6aa66fce1.jpg"
+    ]
+  },
+  {
+    "entity_name": "图11 T 型材组装的尺寸示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/696724092fa70bd62d3a857ec5ff96aed6e89c9753f8277ec5eb1c73abe446a3.jpg",
+      "images/ed605f79f2dbb63d3efeeb0dd11f9a343c4eda2471e8a9704ec8d5fb9253229c.jpg"
+    ]
+  },
+  {
+    "entity_name": "图12 隔板拼板的尺寸示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/a2fd7f747c5d305846515da68d4379dac742e0ad152309a1c2a954d1b038fc00.jpg",
+      "images/40cc20addf0e474b0ef37721cacc21b7215f7d654a242d5355ba373bad0be27d.jpg"
+    ]
+  },
+  {
+    "entity_name": "图13 扶材安装尺寸示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/24bab7f070766de0cd50dd4d59addbf8c06df3af628de818eca99f3d3f91b6c1.jpg"
+    ]
+  },
+  {
+    "entity_name": "图14 圆形筒体制作的尺寸示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/ed87249c3222db64de315fb4cbfd19614e0cc45ebe62a81cadb96ea394f94033.jpg"
+    ]
+  },
+  {
+    "entity_name": "图15 曲面胎架及拼板的尺寸示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/a04cd153e7db3d3741d3ea4b54f04c067bb333be897f92f0848a3ab180d722ca.jpg"
+    ]
+  },
+  {
+    "entity_name": "图16 平直拼板的尺寸示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/ee0b4abdef5836c28be73e45f1db5bc15d3f1b46c3dd3857afb36d2c884ad6a1.jpg"
+    ]
+  },
+  {
+    "entity_name": "图17 骨材安装的尺寸示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/e77c466a7ed89cfd1005cf407615a60b820ed7de5bb712c26f4a80bb4c2f566e.jpg"
+    ]
+  },
+  {
+    "entity_name": "图18 强肋骨安装的尺寸示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/8123e06750b00cf890851c1fa7b2e29b401bbb811717acb97b421a6adaf6208f.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1",
+    "entity_type": "image",
+    "img_paths": [
+      "images/6bb829253fcd7aa870e667babb2a447998ea2ff144d8a9b2d0d6ca206d2abc49.jpg"
+    ]
+  },
+  {
+    "entity_name": "表格",
+    "entity_type": "image",
+    "img_paths": [
+      "images/7a4bbfe40fe9a3cd0bdce4af5ed798db63f275b033b3dee60666137090983669.jpg"
+    ]
+  },
+  {
+    "entity_name": "图 1 焊缝抽真空试验示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/ea5d73b5bf617b8c5bf6d3683744e664f2f50a4a579a58c3e4a59f0a619fb82e.jpg",
+      "images/4662d34b1309d5020221f5617bedc7033484d7088f8659b4ab06dd6fd3174698.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 角焊缝充气试验示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/f8d8576ceb08b4f9aba5e207f0fc2f04ea12ed928f27cba637ebbd8dbcad41e6.jpg",
+      "images/29e610dd74f39f4c6b5cb6160da7f88d91a0c030b2ab1e9b69c2516614780ff5.jpg",
+      "images/6d33fd8b8840fc3c7b0dcf02d13c317e8f215f4f45dbfd6cf52e7ca51e2d3013.jpg",
+      "images/a75d877cda04bc04ee8173cf092faba5fd5f6578da6561c1c718f0bd001b809f.jpg"
+    ]
+  },
+  {
+    "entity_name": "图2 气体流动和补板装配详图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/e93cc84bd9a171ed2dfa9875932ee13c99abd02b5a1bd19ae7b7ab41d9bdad78.jpg"
+    ]
+  },
+  {
+    "entity_name": "图3 止漏焊段和止漏孔节点",
+    "entity_type": "image",
+    "img_paths": [
+      "images/df28134279f5d440ba0b02a1f6deb4ce6d939e66dbf101f96296af1e86e50470.jpg",
+      "images/3a2ffe8fe7721c51e25f7fe91c1d8f62d22bd9fb264ff25652c9739a21b58977.jpg",
+      "images/b2567329a1e5d2b69a01cbb916e92e7142f39b64c6c35b1165136a74fdb4dcd8.jpg",
+      "images/0c67aa70f3324c10dcc8405ff177e9975e54fe8617c2131c4c30e433c161a74f.jpg"
+    ]
+  },
+  {
+    "entity_name": "图4 角焊缝充气试验工作流程",
+    "entity_type": "image",
+    "img_paths": [
+      "images/206eb59699aa1870770951cf2e6906ee31677ac16cb1d79f0742ecfbcd2b332a.jpg"
+    ]
+  },
+  {
+    "entity_name": "图5 冲水装置",
+    "entity_type": "image",
+    "img_paths": [
+      "images/6756fce9c23be48a2cdee01ed3c543b6286b340a337327f919d13a6dbaca185e.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 腹板与面板的垂直度误差",
+    "entity_type": "image",
+    "img_paths": [
+      "images/bde3f7d9d186f9e18ba1f4fd37c80da900fe7946a5af5ec65b5ca3433b4c23eb.jpg"
+    ]
+  },
+  {
+    "entity_name": "图2 腹板与底板的垂直度误差",
+    "entity_type": "image",
+    "img_paths": [
+      "images/bbca66146d1ba0088ec6944f041e8d66e81508fad370e2f3620a00c8f5b27d58.jpg"
+    ]
+  },
+  {
+    "entity_name": "图3 非水密肋板纵骨孔切口详图 a)",
+    "entity_type": "image",
+    "img_paths": [
+      "images/cffc802639f0f4f482bc79713988badff89a2d80002829af1690405320dcbd96.jpg"
+    ]
+  },
+  {
+    "entity_name": "图3 非水密肋板纵骨孔切口详图 b)",
+    "entity_type": "image",
+    "img_paths": [
+      "images/71500e42c55e17dd22d70eab3d496c44b5240b7bb153b0eacc4571531409b472.jpg"
+    ]
+  },
+  {
+    "entity_name": "图3 非水密肋板纵骨孔切口详图 c)",
+    "entity_type": "image",
+    "img_paths": [
+      "images/693ef5a2b5684b349d81cf8b23c0b131af075f06133dec88e76e8b33c1622e4e.jpg"
+    ]
+  },
+  {
+    "entity_name": "图3 非水密肋板纵骨孔切口详图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/65feb296f512e59986090066af7e22e45d52c55623d063225a2442d938a10722.jpg"
+    ]
+  },
+  {
+    "entity_name": "图4 肋板的切割精度示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/df4a3e20a147e486d62351b07366f94cfff61d4993343a95420d14746c7c151a.jpg"
+    ]
+  },
+  {
+    "entity_name": "图片",
+    "entity_type": "image",
+    "img_paths": [
+      "images/296af0b6ec659b1ba8c3c270ff524eaa7ef0fd82b677b003b973657f6c39a416.jpg"
+    ]
+  },
+  {
+    "entity_name": "图片",
+    "entity_type": "image",
+    "img_paths": [
+      "images/9ae87de46ab655088f82a427bcb51aec189d6c3d08ed243e8cc7f38a6ae00d05.jpg"
+    ]
+  },
+  {
+    "entity_name": "图5 肋板的焊接示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/3729c0f6bd63294688e3aaa844da6dbd3096e3a5bbd56921821ffb38ac335f85.jpg"
+    ]
+  },
+  {
+    "entity_name": "图A.1 标识符号图例",
+    "entity_type": "image",
+    "img_paths": [
+      "images/39dde5e2d5a935ded5b1fe45b9d0b99f27f0330115191bc2fc7bdcee2eeae373.jpg",
+      "images/a152466a964f3cb60e3f4c1698a3e0ea86dfcaaa512a63f74da46840d002dde3.jpg",
+      "images/775ee8414b0ce962a94aa699ed0c1618cd8be904bb152136f06d01b54aed78a2.jpg",
+      "images/f275844260aea6692938103fab41cf4b67283cf2bf0e498852c3000176f40751.jpg"
+    ]
+  },
+  {
+    "entity_name": "图A.2 结构划线与样冲标识图例",
+    "entity_type": "image",
+    "img_paths": [
+      "images/fcf68d7c7a271e5d22557f29ed43a1ce97d90cd646776cda54a0a9829108b0a6.jpg"
+    ]
+  },
+  {
+    "entity_name": "图A.3 石笔划圆图例",
+    "entity_type": "image",
+    "img_paths": [
+      "images/0edb3dd1dda31acd75d51ee5030fb49dbbe6715983164a73d9d5ec7e8e92a595.jpg",
+      "images/26e856c6f5fc41d8960f66aea78dde843727f513025bbbf71dccb2ef8d1208ff.jpg"
+    ]
+  },
+  {
+    "entity_name": "划线数据记录表",
+    "entity_type": "image",
+    "img_paths": [
+      "images/9d01b3ffec91d41e4ba7f1b9fb421ccd2f731a8649127fc165224535afdea897.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 曲面胎架示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/b7525d8723d9f3e2eebb322f75a2bafb757e0b8f7ecc06f159422b9aea1a3adb.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1",
+    "entity_type": "image",
+    "img_paths": [
+      "images/2092b62e31de6e01fad0dba0f21efb3983e131310cb760de74e4af16a554c3f9.jpg"
+    ]
+  },
+  {
+    "entity_name": "图2",
+    "entity_type": "image",
+    "img_paths": [
+      "images/2a58b0d4ca890ac6cd5180a405005b105746261e980fc2c5466ce439ed8573de.jpg"
+    ]
+  },
+  {
+    "entity_name": "图3",
+    "entity_type": "image",
+    "img_paths": [
+      "images/4fe00ad28f162428ba456272bde31434e64e51fa629daae6c55ac40bf5ed4baf.jpg"
+    ]
+  },
+  {
+    "entity_name": "图4",
+    "entity_type": "image",
+    "img_paths": [
+      "images/7bbf183dd0a77cfda63829831cefd0bcc4cc387aac4036bec66d5dd93d4769e2.jpg"
+    ]
+  },
+  {
+    "entity_name": "图5",
+    "entity_type": "image",
+    "img_paths": [
+      "images/16f60f130284ae20d9fea61d96c2f1b4773c12ddf5a23c56b30038449da663d5.jpg"
+    ]
+  },
+  {
+    "entity_name": "图6",
+    "entity_type": "image",
+    "img_paths": [
+      "images/356bb794f21b3785beac17328d56cdf2ae6e349bc89f761926434ef2e2fe1ecb.jpg"
+    ]
+  },
+  {
+    "entity_name": "图7",
+    "entity_type": "image",
+    "img_paths": [
+      "images/50f71ef67fdac15738bdecef900966859fdc3e0931c8832037bb830f5ed1ec3a.jpg"
+    ]
+  },
+  {
+    "entity_name": "(安装位置)",
+    "entity_type": "image",
+    "img_paths": [
+      "images/e2a141117ac7c0dc37704ec8bf70179227891e5f43c28965502be289a80bc002.jpg"
+    ]
+  },
+  {
+    "entity_name": "(贴装位置)",
+    "entity_type": "image",
+    "img_paths": [
+      "images/6b2c67b366b58098aaec6feef8f4bfa75dca874034f595f13bfd200823ee34df.jpg"
+    ]
+  },
+  {
+    "entity_name": "图8",
+    "entity_type": "image",
+    "img_paths": [
+      "images/e43db15ec38be8c62df9bf9a4f53ecac8d52f9638b43d34a2a041d05faa21520.jpg"
+    ]
+  },
+  {
+    "entity_name": "(安装位置)",
+    "entity_type": "image",
+    "img_paths": [
+      "images/12501c06b33b8cd801bc26d9af4666faa9767a7aee8b1a700134f543c9d04add.jpg"
+    ]
+  },
+  {
+    "entity_name": "图9",
+    "entity_type": "image",
+    "img_paths": [
+      "images/e4b4d5030a2088218933d3e3418a142edbacfae2d7fe65ce4dbfbeb60ffe599e.jpg"
+    ]
+  },
+  {
+    "entity_name": "图10",
+    "entity_type": "image",
+    "img_paths": [
+      "images/fe11c353c5bd0ed81aa2b95423503ac4974cc618c0623d8bb7c2329af24ae287.jpg"
+    ]
+  },
+  {
+    "entity_name": "图11",
+    "entity_type": "image",
+    "img_paths": [
+      "images/8db342f0f2221a921eb63f6405b3f2cf64351adb24dc1c6c64938c1a004ffe88.jpg"
+    ]
+  },
+  {
+    "entity_name": "图12",
+    "entity_type": "image",
+    "img_paths": [
+      "images/6052c39be4eeeef0eead81e99ffa45af566aad2dce5d8c5aaf2802e6b8d1fb27.jpg"
+    ]
+  },
+  {
+    "entity_name": "图13",
+    "entity_type": "image",
+    "img_paths": [
+      "images/bdd01e03382536fa0515a831ef0e904bf823a505cd64ee81889224f31c55bad6.jpg"
+    ]
+  },
+  {
+    "entity_name": "图14",
+    "entity_type": "image",
+    "img_paths": [
+      "images/aa772a39a1c1eadf62834ec5bae69f2cfdc9f69d5cb523b5ac3639aae8d74221.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 门的开孔切割指令",
+    "entity_type": "image",
+    "img_paths": [
+      "images/740d6a9348e6d11c04bc20fd0ae0e343a277ad9c8eaa9f6dbd8327de8024da0a.jpg",
+      "images/6d9a0feedd0abc77c9b1887a0f59432af4ecdcdbdabbe41ae7f5b0c4df3bd48c.jpg"
+    ]
+  },
+  {
+    "entity_name": "表格",
+    "entity_type": "image",
+    "img_paths": [
+      "images/1d11425d953a5b7a5253d38fd2251ed249cf46dcd156dcbeb75a8f7313da3c08.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 工艺流程",
+    "entity_type": "image",
+    "img_paths": [
+      "images/7cc84dc1f3301ce5522d690feea5fab04d89c104f14ccd47ea0592a8be45da63.jpg"
+    ]
+  },
+  {
+    "entity_name": "图2 模板胎架示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/a36aefc04520fe4e08841bda795073074871dd95cbc0160c5f19eb477c44a656.jpg"
+    ]
+  },
+  {
+    "entity_name": "图3 测量项目",
+    "entity_type": "image",
+    "img_paths": [
+      "images/b2f3bf7cb3032aba753528376ce9fbe90615f5620f77452c6874f7299bd2d904.jpg",
+      "images/80cfbede8fffda48aca395d6cdaafd3e28d4b455d8d0c00ba25fe432d944126c.jpg"
+    ]
+  },
+  {
+    "entity_name": "图4 水平胎架示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/26fb7a9558a81e9e9feb7b045166e9382cf173edd9f12042625cc3652e2a2508.jpg"
+    ]
+  },
+  {
+    "entity_name": "图5 锚台面板划线示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/741423a607723f40fcf61c36f8b271ffb9d6e1b17d91af7112d3dd71ba16cce3.jpg"
+    ]
+  },
+  {
+    "entity_name": "图6 锚唇安装示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/1029ad87cd9996432514a92dd186153aff72df8668255c1e12c8935c75282725.jpg"
+    ]
+  },
+  {
+    "entity_name": "图7 焊接示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/fea120401dbc6c14cad69c71361135e360f659712dda702f50c7ab2bd14ba477.jpg"
+    ]
+  },
+  {
+    "entity_name": "图8 锚台面板与锚唇焊接顺序示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/464e0957da4fa8398df69d66b00a9692372693746afaae2ba9367d82fefdb38a.jpg"
+    ]
+  },
+  {
+    "entity_name": "图9 翻身上胎示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/568f9b685d1a201f5c66077bf2b82b48ab1de5049845f5024b6081fac1315cbf.jpg"
+    ]
+  },
+  {
+    "entity_name": "图10 围板、肘板安装示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/6a73b0101c3968c5952cbceb92812e2cc14f85a9d6bd1cd92f336a876f637606.jpg",
+      "images/d93761d284c7ef26994346549f29ffbfed89f26e8c84a9101840dc9d48d3d829.jpg",
+      "images/9e3fd952bc3ae65c11dbaf8d6485b102310ad5745cb3680281abb0c52de49146.jpg"
+    ]
+  },
+  {
+    "entity_name": "图11 锚链筒吊装示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/7d8af39fd976c1f5b3b5c495c349f4946d9462451b9fe34d1532870653c40430.jpg"
+    ]
+  },
+  {
+    "entity_name": "图12 锚链筒与锚台面板焊接节点",
+    "entity_type": "image",
+    "img_paths": [
+      "images/f15ec20fc84886782506be57dfcf65a462a5eabc9f57988c3c1eb80378e19912.jpg"
+    ]
+  },
+  {
+    "entity_name": "图13 甲板划线示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/286ae1708632a8bb4d5412e4c1ac76779eb1f758380dcb0fd2874e8c5a56151b.jpg"
+    ]
+  },
+  {
+    "entity_name": "图14 外板划线示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/ffe7cbba4a2cbd56908f9bbfb32940cf83d3ae6c12fcd20c43c9eb20df8eff66.jpg"
+    ]
+  },
+  {
+    "entity_name": "图15 外板开孔位置节点",
+    "entity_type": "image",
+    "img_paths": [
+      "images/df81a235b7a4a45e61822a2f75669dffff0d0534aef2ff71a6ec5c4b22e1682a.jpg"
+    ]
+  },
+  {
+    "entity_name": "图16 吊装示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/72e805832190c6883b5d1aab2a2df544a831d7b1c3d371fd2ce0e8440918380b.jpg"
+    ]
+  },
+  {
+    "entity_name": "图17 装配示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/0d8240031d8c795918b8fb0923b3dffbbd958334787bec6b98b235da51f574b3.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 刚性固定的防变形措施 a) 琴键式",
+    "entity_type": "image",
+    "img_paths": [
+      "images/ce40f3cde8dc80209a69c42c565118a3a87bc950b80536c5ed55a92ee2edf902.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 刚性固定的防变形措施 b)压铁式",
+    "entity_type": "image",
+    "img_paths": [
+      "images/38ed0352e4646320041291f69ddae89fdccea4cf71ce19a1267e4add528ae34a.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 刚性固定的防变形措施 c)边上固定式",
+    "entity_type": "image",
+    "img_paths": [
+      "images/59fd73b8b24eb1298a29ef1816d9beac0447b026f39d1db8dad78d7f6c2e9ab7.jpg"
+    ]
+  },
+  {
+    "entity_name": "图2 纵向合拢对接缝加卡码、担排防变形措施",
+    "entity_type": "image",
+    "img_paths": [
+      "images/154523d708ff6327f747f1939ab9ca94aa5ec2f661285d4b2cdf4dcbb08d383d.jpg"
+    ]
+  },
+  {
+    "entity_name": "图3 垂直气电焊的焊缝加卡码、担排防变形措施",
+    "entity_type": "image",
+    "img_paths": [
+      "images/826ef17c82d97f77d30448b11c335a44cd248393611e8d3af92d511df4f74992.jpg"
+    ]
+  },
+  {
+    "entity_name": "图4 焊前施加反变形示例一",
+    "entity_type": "image",
+    "img_paths": [
+      "images/d725e288759d6bbbc0e6f0e4fedd491ada73f06b35f4807c0dd7d712f490e32d.jpg"
+    ]
+  },
+  {
+    "entity_name": "图5 焊前施加反变形示例二",
+    "entity_type": "image",
+    "img_paths": [
+      "images/9c69122276b637516221cfaf7f735b138785d9f6e73eb286ea09df18809251cc.jpg"
+    ]
+  },
+  {
+    "entity_name": "图6 板列焊接顺序 a）施工条件允许时",
+    "entity_type": "image",
+    "img_paths": [
+      "images/edba4471280d20a5729bb3c32fc15180d4732f9cb1f4f5e576e68dcae11f3abd.jpg"
+    ]
+  },
+  {
+    "entity_name": "图6 板列焊接顺序 b）施工条件有限制时",
+    "entity_type": "image",
+    "img_paths": [
+      "images/66b08554f6df61d9e53a2624ca107cfe07abdffb4eecb8555f4c8d9ca98f814f.jpg"
+    ]
+  },
+  {
+    "entity_name": "图7 结构与板缝相交焊接顺序",
+    "entity_type": "image",
+    "img_paths": [
+      "images/dc6ae6bf59f6e546663961363931a559f65a22cb4846cc0cecfacaa08cd36eac.jpg"
+    ]
+  },
+  {
+    "entity_name": "图8 退焊焊接 a）逐步退焊法",
+    "entity_type": "image",
+    "img_paths": [
+      "images/934f202372667780ef64dda36d295af2ffc8d947bfbf963595df9052b1578da8.jpg"
+    ]
+  },
+  {
+    "entity_name": "图8 退焊焊接 b）分中退焊法",
+    "entity_type": "image",
+    "img_paths": [
+      "images/127fb1486782b799f728e3d7fe2bf97ae7efed32aa011e9d41864be15e52f3b4.jpg"
+    ]
+  },
+  {
+    "entity_name": "图9 大长板拼板焊接",
+    "entity_type": "image",
+    "img_paths": [
+      "images/fa3174f9b0a0215b096d3b6f5560ff0595081a6809936724830a64de602adc97.jpg"
+    ]
+  },
+  {
+    "entity_name": "图10 分段结构对称焊",
+    "entity_type": "image",
+    "img_paths": [
+      "images/7b87b9aba2b134ff75c134b8305c72ddfdaa4b24bfd9948f705aa45001315930.jpg"
+    ]
+  },
+  {
+    "entity_name": "图11 线型分段外板对接焊",
+    "entity_type": "image",
+    "img_paths": [
+      "images/016e83022e80f39a275e7b13a8db985430a3d4cd9e7029e7554ca21be8f8b485.jpg"
+    ]
+  },
+  {
+    "entity_name": "图12 分段内部结构焊接",
+    "entity_type": "image",
+    "img_paths": [
+      "images/5deb8f3794ca13f79cae61042064062857f8378e6d77a80965bf49da639bbc29.jpg"
+    ]
+  },
+  {
+    "entity_name": "图片",
+    "entity_type": "image",
+    "img_paths": [
+      "images/3abf2e3a4e8e95f7bb1c6b0a2ba4473cb6792aab881bf6eaadcbfd6bd6887f2e.jpg"
+    ]
+  },
+  {
+    "entity_name": "图14 带坡口的深熔焊和全焊透角焊缝焊接顺序",
+    "entity_type": "image",
+    "img_paths": [
+      "images/68bc658e90c91b76527a60b18bad7b929665e895e18e9444d61c7bd853a64de9.jpg"
+    ]
+  },
+  {
+    "entity_name": "图15 厚板拼板埋弧焊坡口焊接顺序",
+    "entity_type": "image",
+    "img_paths": [
+      "images/9af62269a04da89d3c0f6b96cd4e7ecd1c67f7403100380d02e365d54e7be75d.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 槽钢支撑安装焊接示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/5f2b5f9f4ad2dbbac2de31dcee48fd424ad02c078796fe7627a9534c019263bc.jpg"
+    ]
+  },
+  {
+    "entity_name": "图2 角钢支撑安装焊接示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/04d5205b7b7a38dd5ad2ddd968b67cf74e773c17ad3204904f125f5756c4ab3e.jpg"
+    ]
+  },
+  {
+    "entity_name": "图3 $\\Phi 1 6 8 \\times 1 0$ 圆管支撑装焊示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/da2eda412495b8518db2707f8facc98f4e6a2e202395da5eed5c3cbc3f7599c6.jpg"
+    ]
+  },
+  {
+    "entity_name": "图4 $\\Phi 3 5 1 \\times 1 0$ 圆管支撑装焊示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/3af2b92545d596672130e1cc5e1cb0fc230e18559af47a99c3419e2d407f8728.jpg"
+    ]
+  },
+  {
+    "entity_name": "图5 槽钢双拼间断焊示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/9e25e127c6c7c6e5b3a99b80deecfb48d1a4cf4247e835ece101a90383562a5c.jpg"
+    ]
+  },
+  {
+    "entity_name": "图6 支撑和加强驳接示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/b80a324f1dd81358b443844a50afe22dba2a84f0020f471bb584f706cf313fa7.jpg"
+    ]
+  },
+  {
+    "entity_name": "图7 运输支撑示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/531e295025503182c83ea76f9c05d09164f6404705176538a3c0ac3fb7b93faf.jpg"
+    ]
+  },
+  {
+    "entity_name": "图8 支撑座板安装要求示意",
+    "entity_type": "image",
+    "img_paths": [
+      "images/93c791224ec50f7ff22074a3818279ee57a7392db791c10f7a72448bdad3b4b2.jpg"
+    ]
+  },
+  {
+    "entity_name": "图9 支撑座板焊接要求示意",
+    "entity_type": "image",
+    "img_paths": [
+      "images/7030fcc579cb643f9ed77ce71014eb87b4a132ccabc5f3525ea464dd86d81154.jpg"
+    ]
+  },
+  {
+    "entity_name": "图10 加强连接形式示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/e7d221ea592fca770aeafb56b3fafdb26e4e4d07e7ce46ec3eef11c150ca41fd.jpg",
+      "images/75ff06dc1a0bbe1660ee0827c0cd3a625a051c971a48fd04945718f304f86c48.jpg"
+    ]
+  },
+  {
+    "entity_name": "图11 脚手码示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/3aba0fa16798246ed263df7992a002ad39b81982e252d3b8f9d1b2cefbb4108c.jpg",
+      "images/fdaf3be40ad1a1841fc16a055cdc2ff50d849d6db44961da61db45f28112b8dc.jpg"
+    ]
+  },
+  {
+    "entity_name": "吊篮拉码 DET-A",
+    "entity_type": "image",
+    "img_paths": [
+      "images/21059a499a829aae0ed4c07ca7a73a46ede18b1568ea0f80bfebbe60dc78b77e.jpg"
+    ]
+  },
+  {
+    "entity_name": "图12 吊篮拉码示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/b1f5f50a6daee9ddfe6abfb16fd716bfe9670e44b0cfae0cf0aeb6e4e8cc2a8f.jpg",
+      "images/b9215c4e37a9460352110d91ff6cff1439a21263688e4f904f0f6966730f2a6b.jpg"
+    ]
+  },
+  {
+    "entity_name": "图13 登船梯拉码示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/4e124ef225ec3d5fddefb7aa4b3ac69ffb3301554a9d725884a872bd4864977c.jpg"
+    ]
+  },
+  {
+    "entity_name": "图14 快速搭载码形式示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/ddf7f05faa750a40b692ab0089bb7fd5e421154d5d88294129891a3ae362c09a.jpg"
+    ]
+  },
+  {
+    "entity_name": "图15 装配码示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/14d6d70f68acad10ba734bc5418c667542834ba4b5bfc837e0abb64ba6ae72ac.jpg"
+    ]
+  },
+  {
+    "entity_name": "图16 斜拉钢索示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/b25f6a0959d6dc2f85f957b3f1e7fb3cf013ba767db7402e2ce947f21f5ef614.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 三角板和扁钢加强与船体结构连接安装示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/1b161b61ba68e52228015f36a863d4803715bc746f0f62e525a04a392e1e02d2.jpg",
+      "images/d80c11e4e5349c0a867a88417bd23109708f8965247ae1fffdb71902ff51b2dc.jpg"
+    ]
+  },
+  {
+    "entity_name": "图2 槽钢加强与船体结构连接安装示意图 a)",
+    "entity_type": "image",
+    "img_paths": [
+      "images/6707e127869db7bb8b03ebd87a2c3945e0345b90f68daed672d4fedf50bba3e6.jpg"
+    ]
+  },
+  {
+    "entity_name": "图2 槽钢加强与船体结构连接安装示意图 b)",
+    "entity_type": "image",
+    "img_paths": [
+      "images/88da788552809ba09b2ae6661f1b72dcf0f34d24ff97c757f58594fb1f09487c.jpg"
+    ]
+  },
+  {
+    "entity_name": "槽钢双拼节点",
+    "entity_type": "image",
+    "img_paths": [
+      "images/c927e19272f84e8c29e46f3401f7c7e91a9d24d21eb33e3b203ceed7a6db20d3.jpg",
+      "images/610804e6e2294ddbf6a5870500c82178729bac11e901413d9c4ca22d2f63ec9e.jpg"
+    ]
+  },
+  {
+    "entity_name": "图3 双拼槽钢与船体结构连接安装示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/8f9ef8d0a23dcbe47aa20b23fc45e81e4d1b7f7d0c4b8ce7719c21030e7a23dd.jpg",
+      "images/05f8c863cd81e8df0e82e534579e56ca2f48a3ca0ec0aa47b6471d8ac0537e8b.jpg"
+    ]
+  },
+  {
+    "entity_name": "图4 圆管支撑与船体结构连接安装示意图 a）圆管支撑与船体结构无角度",
+    "entity_type": "image",
+    "img_paths": [
+      "images/d7f86a862da606638c8d15dd28829fdc8c442c838eeeaa6a4d471835101d6e38.jpg",
+      "images/f2cb9eead87b35a5b16a750e6b98c2acd33b002fa6480e84e3fd908aa13ae080.jpg"
+    ]
+  },
+  {
+    "entity_name": "图4 圆管支撑与船体结构连接安装示意图 b）圆管支撑与船体结构有角度",
+    "entity_type": "image",
+    "img_paths": [
+      "images/a4500994c09fd9d3f88b67853dce214593e13716bdb4631f85dfb6a59480fa26.jpg"
+    ]
+  },
+  {
+    "entity_name": "单位为毫米",
+    "entity_type": "image",
+    "img_paths": [
+      "images/ca0b4288d982bb44780e1187da2891b5043bc05d329bc72d6dee5e468ba98c14.jpg"
+    ]
+  },
+  {
+    "entity_name": "图5 加强材在 T型材面板或壁板的安装示意图 b）加强材安装在壁板",
+    "entity_type": "image",
+    "img_paths": [
+      "images/d816270f3eb199b13fbe144c986657dfea0c1df6387d706824cb7165d690b85f.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 A型吊码的结构",
+    "entity_type": "image",
+    "img_paths": [
+      "images/2e080223a462c93167e09fb0dac55a2b6c8162175569d9ae4c1165fd87a3a249.jpg",
+      "images/1bee212835d22aa036e48e350686f9fdaa3f7277d0050a9f38bd7352c2c84f70.jpg",
+      "images/510d4f99f7c3050c1324764dd669f81bdbbde5385eaac534d1863bd8fa7d9784.jpg"
+    ]
+  },
+  {
+    "entity_name": "图2 ZA型吊码的结构",
+    "entity_type": "image",
+    "img_paths": [
+      "images/762b790d46e05b3d462472e12f8fce5ab53bf20174d757bba8249cfebd367652.jpg",
+      "images/e1eac02be9b4a925ac32d77d4b935a80c5113ea6336add3199a0de13795120d7.jpg",
+      "images/721b237f9982d4b4d095f61de91dc2302f46d3b9ee980fa23a2e80a4d600e487.jpg"
+    ]
+  },
+  {
+    "entity_name": "图3 C 型吊码的结构",
+    "entity_type": "image",
+    "img_paths": [
+      "images/f9b56e122197e987674b533aeaf6e74ba5ad92273d473f82a26f210195319205.jpg",
+      "images/fe2e4dacda1ad78a63f459087832b4d876738820e0b8f3145f61b5c0b1f31cc7.jpg"
+    ]
+  },
+  {
+    "entity_name": "图4 CP 型吊码的结构",
+    "entity_type": "image",
+    "img_paths": [
+      "images/897d2526ce706032b163fb1a626d854e238b5fcdc1109a64a6244822c16a41f2.jpg"
+    ]
+  },
+  {
+    "entity_name": "图5 D 型吊码的结构",
+    "entity_type": "image",
+    "img_paths": [
+      "images/acfb48fcd0fb5f59e1aeb5e1343296e27b958ae82cfe99c4d7e9d8f4a82492a7.jpg",
+      "images/f5920fb16a7de491c4724202c37e1ff26313455922c564bcba68b0a1ae64fa9e.jpg"
+    ]
+  },
+  {
+    "entity_name": "图片",
+    "entity_type": "image",
+    "img_paths": [
+      "images/328b4bb6ee468ce9e77358a9455bda284e7573aefc57323ba9448cb0f23aada4.jpg",
+      "images/fa08f33a4b3313a82317253865cc3deec017505bd3aece139ec5aba95e6d9e8b.jpg"
+    ]
+  },
+  {
+    "entity_name": "图6 E型吊码的结构",
+    "entity_type": "image",
+    "img_paths": [
+      "images/7ec121a7f4d9855ff70dfa7739be255b9543f429b938d3082772f8658331b7fb.jpg"
+    ]
+  },
+  {
+    "entity_name": "图7 N型吊码的结构",
+    "entity_type": "image",
+    "img_paths": [
+      "images/38de6a3edda94c80ce79269eeef0086ae4d014a5c432af61b8227efd83cd4179.jpg",
+      "images/92de5f42f1dc11929ae32e77e2b95a03da8ce03b44f596179acbeb07e1596def.jpg"
+    ]
+  },
+  {
+    "entity_name": "图8 M型吊码的结构（结构一体化吊码",
+    "entity_type": "image",
+    "img_paths": [
+      "images/bed2a4cc49e9ed735eb946c0d2c20999aeead1c5e347b40149231e8ebd6682d6.jpg"
+    ]
+  },
+  {
+    "entity_name": "图9 BJA型吊码的结构",
+    "entity_type": "image",
+    "img_paths": [
+      "images/109f0c98be99dc1ae8b0af36ed908fb0376897637c695458067530ef8276e814.jpg",
+      "images/e9f491f7583d66b45ff3727511eb33835ec55693c754eb5cda0a59e3f0dcb906.jpg"
+    ]
+  },
+  {
+    "entity_name": "图10 FSA 型吊码的结构",
+    "entity_type": "image",
+    "img_paths": [
+      "images/41fe472a9b1b3c734c3388139b6c01751a46ef1c75fd496a5c4ad5b70b46dcb3.jpg"
+    ]
+  },
+  {
+    "entity_name": "图11 A 型吊码使用次数珠焊和钢印号位置示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/1ada928d8caaf261b93deab0dae71bb37f605e2839fcb0df5f2d376edeb0ecd4.jpg",
+      "images/9c6fc984ff124e0a9cf6aaf48948abf85b9b7e9aa989a3e95335f28b8a617c19.jpg",
+      "images/853f18b8492d135c03c07784a8ee4730caa919b6996efabc01e6ec7cb93a45fb.jpg"
+    ]
+  },
+  {
+    "entity_name": "图12 ZA 型吊码使用次数珠焊和钢印号位置示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/82cd821e188fef3b90101e36ef98b470aa72149cc2e21e6bac16067b4146515c.jpg"
+    ]
+  },
+  {
+    "entity_name": "图13 D 型吊码使用次数珠焊和钢印号位置示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/fed2e8bde6992bfe8b757495b787579c8617f2cbf15647d56f26b4605991ccb0.jpg"
+    ]
+  },
+  {
+    "entity_name": "图14 无肘板的吊码使用次数珠焊和钢印号位置示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/c4b9927713778d984de5577fabcbbf97fb904c6241f5b90e3d794911f87fa67c.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1",
+    "entity_type": "image",
+    "img_paths": [
+      "images/e2bbef01e7932e31c630d3b68a506ec493e05abdd912185c4c09a362f564b26f.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 不留缓焊区示意图 （a）",
+    "entity_type": "image",
+    "img_paths": [
+      "images/13615a3b45833a54ff87bb1dbeb1679c1f94e3baf609ac3ba72c33dd2879cb9c.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 不留缓焊区示意图 （b）",
+    "entity_type": "image",
+    "img_paths": [
+      "images/0a84027c68c6967f8ddadc3ba30b959f6b97235ce4baf9a66330984074be2e3f.jpg",
+      "images/afdb91f5abecc9ba3a144ec4bb04d8afd2dd048d98040a30b0083f2a8bdc9cb3.jpg"
+    ]
+  },
+  {
+    "entity_name": "图2 缓焊区定位焊示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/0231097f5faa313d31b16047aa226375d2c4b9110501a79085c316c7db089d82.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 埋弧焊丝干伸长",
+    "entity_type": "image",
+    "img_paths": [
+      "images/a1f4940d83cd73d72f10ba2497139ccb13898caffa662fd4d418e948260af68a.jpg",
+      "images/ffe515117e91ccafae1e3608ff27480317192aa7a53b71fe1e732b3a73145220.jpg"
+    ]
+  },
+  {
+    "entity_name": "表格",
+    "entity_type": "image",
+    "img_paths": [
+      "images/b782470baaa79c757d8cb0358b4fe4b9d492ace1111857a29b8a0463e95f98e8.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 板缝拼板压载示意",
+    "entity_type": "image",
+    "img_paths": [
+      "images/4e8ee482c2a7ea8bc67dd10dd8aa5c5037b4f863fd5286c6dd418edabf29f47e.jpg"
+    ]
+  },
+  {
+    "entity_name": "图2 壁板填角焊缝焊接顺序示意",
+    "entity_type": "image",
+    "img_paths": [
+      "images/80472c9253aa0c756f9a48637cd9a86ff42273da4e38d4c62fa32381d31c6be4.jpg"
+    ]
+  },
+  {
+    "entity_name": "图3 转圆加强示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/aed0b10c726e6621e61337ea715de0a7a3af18e639b182e2445d485fec4f51bd.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 焊缝侧面角度",
+    "entity_type": "image",
+    "img_paths": [
+      "images/0b1faf0e9bfd32f714990241566ff55a7ab5ee1fc65c6e0634a23ecb974576a3.jpg",
+      "images/4be1e6e5da6bfbacfc2a181521baf6474a0ed5a1915fe0d055c28ae3472c4c36.jpg"
+    ]
+  },
+  {
+    "entity_name": "图2 对接坡口焊缝尺寸 a）I形坡口",
+    "entity_type": "image",
+    "img_paths": [
+      "images/63555f8b37feb2ad454cebec41e96aea7d5d241587df3dc9c3b14d3f620e0f05.jpg"
+    ]
+  },
+  {
+    "entity_name": "图2 对接坡口焊缝尺寸",
+    "entity_type": "image",
+    "img_paths": [
+      "images/f02bdfe715e67baf187fc8135719a92d6bf0de387aeae8c486229718493641fa.jpg"
+    ]
+  },
+  {
+    "entity_name": "图3 焊道凹槽深度",
+    "entity_type": "image",
+    "img_paths": [
+      "images/67dad4c38005e2949cde0f24eb2b9ac21a9508ffa34a5b150dd91385d963cde2.jpg",
+      "images/b9223acebb89b70d0899cbc128deedccfd448cf20d2d827de4ee01cbd9beb96e.jpg"
+    ]
+  },
+  {
+    "entity_name": "图4 焊瘤示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/850740b984e99edaa15d53b8bc4728caf6541819df28f7c4be14f1cf1e6712c7.jpg"
+    ]
+  },
+  {
+    "entity_name": "表格",
+    "entity_type": "image",
+    "img_paths": [
+      "images/b785d05b32057b279dab64713b6ce8cafb7b7328614694d9dd0c1e0c285c948c.jpg"
+    ]
+  },
+  {
+    "entity_name": "图A.1",
+    "entity_type": "image",
+    "img_paths": [
+      "images/bdf7f513548c759344ede1ca10511364bfdf6814de9da58d4ed6cb747966282c.jpg",
+      "images/9c1667a5ec5aaeb1587aab2959276108f596be8fc654c1c5b3b8b8634e10a480.jpg"
+    ]
+  },
+  {
+    "entity_name": "图A.2",
+    "entity_type": "image",
+    "img_paths": [
+      "images/84b9f0209c3743d3fc669e22205820f0a4293d33c30e752c03037b808743d563.jpg",
+      "images/adc621d58ff9d3967a5386dffaf472439ca41b02c76d2bded38020dbcb6da4e2.jpg"
+    ]
+  },
+  {
+    "entity_name": "图A.3",
+    "entity_type": "image",
+    "img_paths": [
+      "images/a43ad0a4b491b4c85334fd98757d2d7029bb7aaa9a3d48a6b228ccafd848ebf8.jpg",
+      "images/43ec9b422a3d53eab5334e360cc59df6754387a2225f0038a8cc523b892e358c.jpg"
+    ]
+  },
+  {
+    "entity_name": "图A.4",
+    "entity_type": "image",
+    "img_paths": [
+      "images/ab88d5c41ecf78263e0bd5cbf071a1806e6d4cb0622458bde1bf739e92916069.jpg",
+      "images/3cb53f04b76384e398d31a8377bb4554c275f091f49cf6edfe71efe2df5f5872.jpg"
+    ]
+  },
+  {
+    "entity_name": "图A.5",
+    "entity_type": "image",
+    "img_paths": [
+      "images/539186b0df3d13f5c3fc72a03d1e920ed91d8a7bf066853f4ef62b929d3c7b6b.jpg",
+      "images/6963c001941dc9cf49f1d32eb88f2173d6b1389d72ea472d5136171961c538d9.jpg"
+    ]
+  },
+  {
+    "entity_name": "图A.6",
+    "entity_type": "image",
+    "img_paths": [
+      "images/f9a3a8299e34676bccc6ad934217e5c12f1ce56c5e06486df987db0c7a495355.jpg",
+      "images/5b20fbb6d332ea14d304ba20c3041a0393723fb2e441a0aba5353203f6839a70.jpg"
+    ]
+  },
+  {
+    "entity_name": "图A.7",
+    "entity_type": "image",
+    "img_paths": [
+      "images/99be639002c43cff7751d8a2cc43bbc90015e3775873414e499f5f7f92595ded.jpg",
+      "images/61ad9d722dd08286bfac03d56826f40df5974ef1298c477244f8dbdf9d6bae7e.jpg",
+      "images/6c54d914c7c2ff8f06198d61caa673a4c807d2291c8a849369d5ae73519aeab9.jpg"
+    ]
+  },
+  {
+    "entity_name": "图A.8",
+    "entity_type": "image",
+    "img_paths": [
+      "images/ebdf6dba42a8afe0c4f2959657216aedcabace96eea61dcd884539be8edbcd2d.jpg"
+    ]
+  },
+  {
+    "entity_name": "图A.9",
+    "entity_type": "image",
+    "img_paths": [
+      "images/fe7670f98efba26055271ed81c8d239ae11ade2be30d14fe7e454898fae55466.jpg",
+      "images/6d9e4b7e6728b8872ba4b506a3dfbe9159691dff430554572484a2b1a7f68d0c.jpg"
+    ]
+  },
+  {
+    "entity_name": "图A.10",
+    "entity_type": "image",
+    "img_paths": [
+      "images/6065ec608aee8ce51bcc1774c68d8f497998c19abd745db538f0a402870e4fe2.jpg",
+      "images/ea006514f7b77505994d6c1874d62ea41d5bea8d6475957b419db896920a7165.jpg"
+    ]
+  },
+  {
+    "entity_name": "图A.11",
+    "entity_type": "image",
+    "img_paths": [
+      "images/6921fd6543ba9329a4be31611f056000866c8f214eb2207219e78a3212442fd6.jpg",
+      "images/52df9963c7a26ac91b8153a4ec1f8796a97005f162291ae37fd3a46dbfd2ef28.jpg",
+      "images/45eb99e880d72eee3834b3de5f5558018c133cd8a49abd35e8067616323e39bc.jpg",
+      "images/432ddc341fa5ee9843c7f3fa2b1e8d9ac83887e21532528b4b131e5e1a4a22ce.jpg"
+    ]
+  },
+  {
+    "entity_name": "图A.12",
+    "entity_type": "image",
+    "img_paths": [
+      "images/ad03ccdaae5330f4278cbe4e7770e7f6210044af1c6ccdb78fe8b903682c8fc9.jpg",
+      "images/5d42fe16ee0896bec1320bd98554f0786644da30b2c78838edeec007b64ac8ba.jpg",
+      "images/4e73bfcda1daf89a82ee122c4da93d14d8b016c5500c21b835f166e28bfb1f4e.jpg"
+    ]
+  },
+  {
+    "entity_name": "图A.13",
+    "entity_type": "image",
+    "img_paths": [
+      "images/ea93cb0fdbdefd3c986611f09d55120ecfabedfda402cc6fd6f25ca2ad9eb16d.jpg"
+    ]
+  },
+  {
+    "entity_name": "图A.14",
+    "entity_type": "image",
+    "img_paths": [
+      "images/cb4cf1130fa5b81a2358f60dd58e2dd8b8d862b085449a99d5ecf0246feb7a4e.jpg",
+      "images/67482b7d60824d6202f3968c2c58d0ef3922ac96d1467e0f360e3282b5f506bb.jpg",
+      "images/26cdd8caf30b00436eab98f97a2908edb183215262454bb5f1ebd672e7883c68.jpg"
+    ]
+  },
+  {
+    "entity_name": "图A.15",
+    "entity_type": "image",
+    "img_paths": [
+      "images/d0dc3fe5eb980d24ba5e986b5bb7ce91809d3b6ed789117307d5bcf7c6e89e00.jpg"
+    ]
+  },
+  {
+    "entity_name": "图B.1",
+    "entity_type": "image",
+    "img_paths": [
+      "images/3822596f9688f02871e464bf41c49b22896ee0ff2358668f163fea86eb03ac3b.jpg",
+      "images/b876aa4261945037b6bcb0afc11ddd4760b1ab33963b7b38f964e63464f73f66.jpg",
+      "images/44fefc9d4975bc645653808e7f9cd67fd7bc86a7a26e83bdc579344054a0d2e5.jpg"
+    ]
+  },
+  {
+    "entity_name": "图B.2",
+    "entity_type": "image",
+    "img_paths": [
+      "images/c3fd0139d2f19b34922608db1c7f9bc276eb13a4e87062efa1a01287bcedb3d0.jpg"
+    ]
+  },
+  {
+    "entity_name": "图B.3",
+    "entity_type": "image",
+    "img_paths": [
+      "images/4ea36a6befaaa6c846b09d795525c4681e4166ba46b95f4f5be410bcaeb717e4.jpg",
+      "images/13aae2c15d0a6f9b774bfef3111fa67a69d8a6ad3d05cfad283c1fc8d0e908a5.jpg",
+      "images/b96c06ad2808b85f2efe9f697feeafaa981ca32758e5a1aa5519af01d4f287bc.jpg"
+    ]
+  },
+  {
+    "entity_name": "图B.4",
+    "entity_type": "image",
+    "img_paths": [
+      "images/1b2d72a6630e81f8e1d25034b453e62980421b258b993e24cf7be1a3a36e373f.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 现场待焊角焊缝焊脚标注示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/8771e76e951d63512bfbfe57a11164f14c2f6db9297fcdeca03f854c6b1c21a5.jpg"
+    ]
+  },
+  {
+    "entity_name": "图2 平、横、仰位置填角焊焊枪角度调节示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/174ca15234f0bad981e6d95375e0e222d3c559a90ae7b0a3aac824e30e017f31.jpg",
+      "images/2711cdef74c594cfe32c8be57106af5c94e48424229226253de971efccc1e6e6.jpg",
+      "images/391975736b1fff0404ebf0664189f5f9cc4d2ea0ac52cb2d9b60d64d40c10c75.jpg",
+      "images/d8bb2bfc5f966fa95287121e8b312760b98e8fd228c10c0312a7a76e42c49bd8.jpg"
+    ]
+  },
+  {
+    "entity_name": "图3 立位置填角焊焊枪角度调节示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/79b170dfbe0e42d1488bf8cd488f37f762b49f80937e98ad7efc0621b099e8ac.jpg",
+      "images/73390a30557243016f773a10d48e8e31d910656ef9a6007b334f2377a5ccb8d5.jpg"
+    ]
+  },
+  {
+    "entity_name": "表格",
+    "entity_type": "image",
+    "img_paths": [
+      "images/d5bd41d1df054914310a7f7edd47588f3b979d2e0f0359a85fb6dbea2781f638.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 引、熄弧板安装",
+    "entity_type": "image",
+    "img_paths": [
+      "images/c1a8bc213a19d87929b364dfdbe2239e04ebf208517c295dea1dc1d7ecf1fef4.jpg"
+    ]
+  },
+  {
+    "entity_name": "图 1 封底焊刨槽图示",
+    "entity_type": "image",
+    "img_paths": [
+      "images/92082965170b743dd639866d3183b094b220092175053e3d624674749be8fdc6.jpg",
+      "images/b91c5f675efd64532422d9b0e5fc5c8f463d5eff045b21c64dd9ad9e6304e21e.jpg"
+    ]
+  },
+  {
+    "entity_name": "表格",
+    "entity_type": "image",
+    "img_paths": [
+      "images/8ee9e4c28675062265f38c44cfcc36183259948f71cf8e7e9f48229693a4695d.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 现场待焊角焊缝焊脚标注示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/5dfe0c5f0abea2be44bb336d542aec388af17fca77ebb036d598ee57777a609e.jpg"
+    ]
+  },
+  {
+    "entity_name": "图2 装配间隙 $2 \\sim 3 ~ \\mathsf { m m }$ 立向下填角焊焊道布置示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/a0bba4f7e60ae4360b4e78039433d3be24e007da4a10758dc30eca76019c71db.jpg",
+      "images/6c12e18cee2ad7b78c3fb152c67e075976e65cec557dfaa73010dcd79660b41c.jpg"
+    ]
+  },
+  {
+    "entity_name": "图3 焊枪角度示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/d30f09931240ab7b1cdc794e36e90c82bc364228c3c36b66eb1f2a01562221c9.jpg",
+      "images/9eacf6ace083d285bb741137587d097a273fcf6b8ee4bac7e5bdaf647e4219e2.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 码板装配示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/358888af1678ec361d78d581266d807315ba2dc86277f794db1ba1462f4653ca.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 7字码、棱型码、U型码或压铁贴紧示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/8368b97debd1cb1e8cca01559641b3905182cbfedc0b2e300c86536a540a27b5.jpg"
+    ]
+  },
+  {
+    "entity_name": "图2 “T”字缝板幅的拼板焊接顺序示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/7c0b058681037047b19b1e094a1e0b15ff6efff206a36f9f027a2ca31f1fb7c7.jpg"
+    ]
+  },
+  {
+    "entity_name": "图3 “十”字缝板幅的拼板焊接顺序示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/26ff36a8e0421648e9f305cac7853c18e8007e719384fcac1869eecd21779764.jpg"
+    ]
+  },
+  {
+    "entity_name": "图4 壁板骨材焊接顺序示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/216b11b143b1b41d58b9059a7565331cb4de624855ab949af7e4423f36fb8db1.jpg"
+    ]
+  },
+  {
+    "entity_name": "图5 典型组件焊缝焊接顺序示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/6525920ee98e73f0b85f96144c87faeefb2ebc8440eda592b8785207b46f1192.jpg"
+    ]
+  },
+  {
+    "entity_name": "图6 壁板保型加强材安装位置示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/b94dd831dca44cb6feff104bf0b43d86169f8a006b68556e90c5d09ead1338b2.jpg"
+    ]
+  },
+  {
+    "entity_name": "图7 平角焊顺序示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/d851457c02835872443a8da86cb5abfd4ea684d4ee73ad0cc724b7b3a0e3293b.jpg"
+    ]
+  },
+  {
+    "entity_name": "图8 卡码与胎进行固定示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/2d1edf8c6d8b791d53d81924d245dcc58cd6b03c000527d0995ac0ee05b1d86f.jpg",
+      "images/5c439a8349143940fc8f6c5600206fcd65b016cd34769129e21b4c8281fc1470.jpg"
+    ]
+  },
+  {
+    "entity_name": "图9 余量检查线划线示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/eee06bc7972918dda31e997c2e3a1d8af152638c491c5a3e86ac75959f94f809.jpg"
+    ]
+  },
+  {
+    "entity_name": "图10 大组立焊接顺序示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/b0335b4f969461a119b39f079a54ae319c1b699f3c518a4257a1c1e0040a1572.jpg"
+    ]
+  },
+  {
+    "entity_name": "图11 水密补板焊接顺序示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/997008973a00a76d78e7984e8f3688e5360bf3d094d184166be33220f7980d7e.jpg"
+    ]
+  },
+  {
+    "entity_name": "图12 同层分段预搭载、搭载焊接顺序示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/75d9c5a2d251a5390cbec08b7c1b59c3d5cf76af3737d0f684cc71ea0293d732.jpg"
+    ]
+  },
+  {
+    "entity_name": "图13 上下层分段预搭载、搭载焊接顺序示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/38cf687902ce38aaa11338b74c7d27392af0da20b0fcdfcc8f30a9bd5cfcebb0.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 码板规格",
+    "entity_type": "image",
+    "img_paths": [
+      "images/3fe09e1eba7d9fafda8876b1a3118c3966280f3c6c13326eaddeb6d750af0001.jpg"
+    ]
+  },
+  {
+    "entity_name": "图2 摇摆小车对搭架的要求",
+    "entity_type": "image",
+    "img_paths": [
+      "images/d6c547f19e987d5841ba97beec571501e15f6232e111b15652912bdebbcf1d6c.jpg"
+    ]
+  },
+  {
+    "entity_name": "图3 路轨铺设示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/64a672ddd2544f424e6ff5b568af0c85f7ccf7fde806079edfc2c948436e27f6.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 自动填角焊小车适用位置示意图 a) 平位置填角焊缝",
+    "entity_type": "image",
+    "img_paths": [
+      "images/03eac4074706a24295d04ff9cb61ac3295add1773ab7aeab6d4d8efd86f69981.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 自动填角焊小车适用位置示意图 b) 横位置填角焊缝",
+    "entity_type": "image",
+    "img_paths": [
+      "images/b3f064ce490365d371d93009dbb57674c872136579d4135a5e8f1772b41de870.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 自动填角焊小车适用位置示意图 c) 立位置填角焊缝",
+    "entity_type": "image",
+    "img_paths": [
+      "images/a9db5e9f12cf0692872a62d1365b43872146b519ac88a0261367b501c45e5c1f.jpg"
+    ]
+  },
+  {
+    "entity_name": "图2 局部间隙超标处理示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/1efce1c3eb6eb86638c58a86e0875e82e42509d58046e0c2f6363f131c7b635a.jpg",
+      "images/d86136bf95b7b47ab236cd165fbc6ba2bc0878c1ba9c5bf12feba354b28d299c.jpg"
+    ]
+  },
+  {
+    "entity_name": "图3 现场填角焊缝正式焊脚标注示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/55c12cabd3d115363ca73a5741f5a5fdc0f912a39a845a1829c2498e5696f44a.jpg"
+    ]
+  },
+  {
+    "entity_name": "图4 平角焊小车焊枪角度调节示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/4744eb68010a2076344555ac34a24c67882fae53a5c5692a83684d3db81fe7cb.jpg"
+    ]
+  },
+  {
+    "entity_name": "图5 立角焊小车焊枪角度调节示意图",
+    "entity_type": "image",
+    "img_paths": [
+      "images/5426459fb8a3ae3dd4318243f1cede26c05ba7cbe98147f1644496645df3260b.jpg"
+    ]
+  },
+  {
+    "entity_name": "图1 预涂部位示例",
+    "entity_type": "image",
+    "img_paths": [
+      "images/dca5e5125ab60866391685ec4b65f7233498c28d7ebce8ca92fcd49aa225a018.jpg"
+    ]
+  }
+]

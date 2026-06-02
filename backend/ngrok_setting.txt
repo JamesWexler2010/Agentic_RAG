@@ -1,0 +1,11 @@
+ngrok http 8001
+启动后会显示一个公网地址，复制该地址并设置环境变量 NGROK_URL，例如：
+set NGROK_URL=https://beatris-ununiting-catoptrically.ngrok-free.dev
+由于NGROK可以创建一个固定域名，上面这个URL便是更古不变的，这时可以在.env中写入：
+NGROK_URL=https://beatris-ununiting-catoptrically.ngrok-free.dev
+以便不必时时追踪
+然后再启动另外启动一个终端，启动后端：
+uvicorn app:app --reload --port 8001
+
+如有必要，创建环境变量：
+conda activate project_3.19
