@@ -78,10 +78,3 @@
 |---|---|
 | React / Next.js | SSE 、页面渲染 |
 | Figma | UI 原型 |
-
-### 环境
-
-```
-Python >= 3.9
-Node.js >= 18
-```
