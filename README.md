@@ -62,8 +62,6 @@
 | faiss-cpu | 1.13.2 | 向量存储与 Top-K 检索 |
 | langchain-text-splitters (`MarkdownHeaderTextSplitter`) | 1.1.1 | Markdown 结构化切分 |
 | langchain-openai | 1.1.11 | OpenAI Embeddings 向量化 |
-| qwen3_Embedding_4B | — | 自训练备用 Embedding（表格增强） |
-| EasyDataset | — | 自训练 Embedding 数据集构建 |
 | Neo4j | 6.1.0 | 知识图谱存储（三元组） |
 
 ### 对话
@@ -78,7 +76,7 @@
 
 | 技术 | 用途 |
 |---|---|
-| Next.js + TypeScript | SSE 消费、页面渲染、右侧 Panel |
+| Next.js | SSE 消费、页面渲染、右侧 Panel |
 | Figma | UI 原型 |
 
 ### 环境
