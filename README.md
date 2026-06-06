@@ -76,7 +76,7 @@
 
 | 技术 | 用途 |
 |---|---|
-| Next.js | SSE 消费、页面渲染、右侧 Panel |
+| Next.js | SSE 、页面渲染、右侧 Panel |
 | Figma | UI 原型 |
 
 ### 环境
