@@ -62,7 +62,7 @@
 | faiss-cpu | 1.13.2 | 向量存储与 Top-K 检索 |
 | langchain-text-splitters (`MarkdownHeaderTextSplitter`) | 1.1.1 | Markdown 结构化切分 |
 | langchain-openai | 1.1.11 | OpenAI Embeddings 向量化 |
-| Neo4j | 6.1.0 | 知识图谱存储（三元组） |
+| Neo4j | 6.1.0 | 知识图谱存储与检索 |
 
 ### 对话
 
@@ -70,13 +70,13 @@
 |---|---|---|
 | LangGraph (`InMemorySaver`) | 1.1.3 | 多轮会话状态 + 对话记忆 |
 | LangChain | 1.2.12 | RAG 链路编排 |
-| openai | 2.29.0 | LLM 调用（GPT-4 / DeepSeek）|
+| openai | 2.29.0 | LLM 调用 |
 
 ### 前端
 
 | 技术 | 用途 |
 |---|---|
-| Next.js | SSE 、页面渲染、右侧 Panel |
+| React / Next.js | SSE 、页面渲染 |
 | Figma | UI 原型 |
 
 ### 环境
